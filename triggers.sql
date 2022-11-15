@@ -87,4 +87,4 @@ RETURNS INTEGER AS $$
     END;
 $$ LANGUAGE plpgsql;
 
-SELECT * FROM book_ticket (4567 , '2022-12-15','AC',100,'{ABCD,EFGH}');
+-- SELECT * FROM book_ticket (4567 , '2022-12-15','AC',100,'{ABCD,EFGH}');
