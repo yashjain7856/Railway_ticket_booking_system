@@ -27,8 +27,9 @@ public class train_sched {
                     
                     try {
                         c.createStatement().executeQuery(query);
-                    } catch (Exception e) {
-                        System.out.println(e);
+                    } catch (SQLException e) {
+                        if(!e.getSQLState().equals("02000"))
+                            System.out.println(e);
                     }
                     
                 }

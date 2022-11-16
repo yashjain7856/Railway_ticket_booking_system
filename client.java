@@ -39,36 +39,6 @@ public class client
         {
             executorService.shutdownNow();
         }
-        
-        
-        
-        // int numberOfPools = 4;
-
-        // for(int j=1; j<=numberOfPools; j++){
-        //     int numberOfusers = 3 ;   // Indicate no of users 
-        //     ExecutorService executorService = Executors.newFixedThreadPool(numberOfusers);
-
-        //     // Creating a thread pool
-            
-        //     for(int i = 0; i < numberOfusers; i++)
-        //     {
-        //         Runnable runnableTask = new sendQuery() ;    //  Pass arg if any as sendQuery(arg)
-        //         executorService.submit(runnableTask) ;
-        //     }
-            
-        //     executorService.shutdown();
-        //     try
-        //     {
-        //         if (!executorService.awaitTermination(900, TimeUnit.MILLISECONDS))
-        //         {
-        //             executorService.shutdownNow();
-        //         } 
-        //     } 
-        //     catch (InterruptedException e)
-        //     {
-        //         executorService.shutdownNow();
-        //     }
-        // }
     }
 }
 
@@ -156,7 +126,7 @@ class sendQuery implements Runnable
 
             // Get query responses from the input end of the socket of client
             char c;
-            while((c = (char) bufferedInput.read()) != 10)      
+            while((c = (char) bufferedInput.read()) != '#')      
             {
                 filewriter.write(c);
             }
