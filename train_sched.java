@@ -45,3 +45,4 @@ public class train_sched {
     }
 }
 // java -cp .;org.jdbc_driver.jar train_sched.java
+// ssh course2@172.30.2.245

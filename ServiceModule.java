@@ -19,7 +19,7 @@ import java.util.concurrent.Executors;
 public class ServiceModule 
 {
     static int serverPort = 7005;
-    static int numServerCores = 2 ;
+    static int numServerCores = 15;
     //------------ Main----------------------
     public static void main(String[] args) throws IOException 
     {    

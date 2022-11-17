@@ -1,238 +1,238 @@
-Successful | PNR: 22517-20221102-1165-23 | Train: 22517 | Date: 2022-11-02 | bXmQ 1165/23 | zzuiMpvzFVH 1165/24 | AWsw 1166/1 | rqTyBYXzu 1166/2
-Successful | PNR: 12058-20221101-235-4 | Train: 12058 | Date: 2022-11-01 | PZRuSfU 235/4 | ZcYcGoBVWNfL 235/5 | s 235/6 | txazMfhWgcg 235/7 | bMZMYGeICAbsG 235/8
-Successful | PNR: 22517-20221102-1166-7 | Train: 22517 | Date: 2022-11-02 | ZvaeHDqvhizSrDbZ 1166/7 | dbOVWMwhI 1166/8 | TxeuIWxcTWsjb 1166/9 | CblBPLUsHD 1166/10 | o 1166/11
+Failed! 4 bXmQ, zzuiMpvzFVH, AWsw, rqTyBYXzu 22517 2022-11-02 SL
+Failed! 5 PZRuSfU, ZcYcGoBVWNfL, s, txazMfhWgcg, bMZMYGeICAbsG 12058 2022-11-01 AC
+Failed! 5 ZvaeHDqvhizSrDbZ, dbOVWMwhI, TxeuIWxcTWsjb, CblBPLUsHD, o 22517 2022-11-02 SL
 Failed! 4 SAlgQmsi, FsPacDXWGRS, iOyiD, nLFroB 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-1172-21 | Train: 12058 | Date: 2022-11-01 | aAE 1172/21
-Successful | PNR: 22517-20221101-231-13 | Train: 22517 | Date: 2022-11-01 | Fvk 231/13 | IBWzuGTZXbGDVz 231/14 | LQMOltPQTlUhMZ 231/15 | lZacZo 231/16 | XncBtsWMoasJMwQ 231/17 | pvNnJf 231/18
-Successful | PNR: 22517-20221101-1177-19 | Train: 22517 | Date: 2022-11-01 | wjJCHDoArnj 1177/19 | M 1177/20 | Jtva 1177/21 | qrneyiebc 1177/22 | xQSVuarxiYU 1177/23 | JEEMceYf 1177/24
-Successful | PNR: 22517-20221102-230-17 | Train: 22517 | Date: 2022-11-02 | HfNyW 230/17 | IBvORCedsddDlV 230/18 | NEO 231/1
-Successful | PNR: 22517-20221101-232-1 | Train: 22517 | Date: 2022-11-01 | iNGwcqfieXnQhvX 232/1 | DaATPJeyStboxk 232/2 | UUESSutwZIqVJ 232/3
-Successful | PNR: 22517-20221102-231-8 | Train: 22517 | Date: 2022-11-02 | XdgLsbm 231/8 | QQZTyKhHkRjwGtq 231/9 | MleWYqrOMwgRX 231/10
+Failed! 1 aAE 12058 2022-11-01 SL
+Failed! 6 Fvk, IBWzuGTZXbGDVz, LQMOltPQTlUhMZ, lZacZo, XncBtsWMoasJMwQ, pvNnJf 22517 2022-11-01 AC
+Failed! 6 wjJCHDoArnj, M, Jtva, qrneyiebc, xQSVuarxiYU, JEEMceYf 22517 2022-11-01 SL
+Failed! 3 HfNyW, IBvORCedsddDlV, NEO 22517 2022-11-02 AC
+Failed! 3 iNGwcqfieXnQhvX, DaATPJeyStboxk, UUESSutwZIqVJ 22517 2022-11-01 AC
+Failed! 3 XdgLsbm, QQZTyKhHkRjwGtq, MleWYqrOMwgRX 22517 2022-11-02 AC
 Failed! 2 ztjYpaGLr, uIKmnn 04652 2022-11-02 SL
 Failed! 2 gAMgGQbkeoePaKRJ, RpTUDSquee 04652 2022-11-02 AC
 Failed! 3 yeouCwGIkMDm, IYq, hNQ 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-1172-22 | Train: 12058 | Date: 2022-11-01 | UXGJm 1172/22 | ysnioX 1172/23 | CtUMlSnGeMdEGI 1172/24 | qdGwaUKeWAsTHW 1173/1 | xrrNQAlgk 1173/2 | fdszdGoXUB 1173/3
-Successful | PNR: 22517-20221101-232-10 | Train: 22517 | Date: 2022-11-01 | daefAOToGj 232/10 | jbdN 232/11 | Au 232/12 | ViL 232/13
+Failed! 6 UXGJm, ysnioX, CtUMlSnGeMdEGI, qdGwaUKeWAsTHW, xrrNQAlgk, fdszdGoXUB 12058 2022-11-01 SL
+Failed! 4 daefAOToGj, jbdN, Au, ViL 22517 2022-11-01 AC
 Failed! 4 JjNdLpdq, OzbwpFKlvQDeZjs, LM, KMAClgSrNEYNCXFc 04652 2022-11-01 SL
 Failed! 3 eNkrsmqg, EZLMOBr, LnDvScxvgyenBmxR 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-231-11 | Train: 22517 | Date: 2022-11-02 | xlhLpEmEM 231/11 | TQo 231/12 | xvfzIHiI 231/13 | kedaJcZA 231/14
-Successful | PNR: 22517-20221101-232-14 | Train: 22517 | Date: 2022-11-01 | VkcBOBuKjgwlEul 232/14 | yiWpIKLzIRbil 232/15 | ntYIqy 232/16 | UF 232/17 | vRIQzp 232/18
-Successful | PNR: 22517-20221102-1166-24 | Train: 22517 | Date: 2022-11-02 | xdr 1166/24 | pAvykYVnifRaZm 1167/1
+Failed! 4 xlhLpEmEM, TQo, xvfzIHiI, kedaJcZA 22517 2022-11-02 AC
+Failed! 5 VkcBOBuKjgwlEul, yiWpIKLzIRbil, ntYIqy, UF, vRIQzp 22517 2022-11-01 AC
+Failed! 2 xdr, pAvykYVnifRaZm 22517 2022-11-02 SL
 Failed! 1 LGaUzEgb 04652 2022-11-01 AC
 Failed! 5 FGA, aRWUjYT, hKogXDzjj, meltVF, jCYexLModLZcnKrO 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-231-15 | Train: 22517 | Date: 2022-11-02 | uZaLDsq 231/15 | CASRQuADnPOdhjmZ 231/16 | GBtaxNzhYQu 231/17 | kfKtFveHolQhFN 231/18
+Failed! 4 uZaLDsq, CASRQuADnPOdhjmZ, GBtaxNzhYQu, kfKtFveHolQhFN 22517 2022-11-02 AC
 Failed! 3 iwRgXeVPaMyXQdQ, blD, AWjK 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-236-4 | Train: 12058 | Date: 2022-11-01 | BTS 236/4 | i 236/5 | HSSVErptM 236/6 | zDOCHyFXK 236/7 | cWLOeborSOgpFk 236/8 | nkIThHplbdKM 236/9
+Failed! 6 BTS, i, HSSVErptM, zDOCHyFXK, cWLOeborSOgpFk, nkIThHplbdKM 12058 2022-11-01 AC
 Failed! 1 vgHYvKmhQ 04652 2022-11-02 SL
 Failed! 1 maMIBVTmfJM 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-233-7 | Train: 22517 | Date: 2022-11-01 | Qzly 233/7
+Failed! 1 Qzly 22517 2022-11-01 AC
 Failed! 6 ekFGOCRo, maLGQwawJS, YqbV, sAMEKFnwBlXTNFb, kxqcqGfHrzV, cjjEEL 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1178-3 | Train: 22517 | Date: 2022-11-01 | FCgWgBOgDH 1178/3 | VeAbySgWa 1178/4 | snzHikv 1178/5 | JXngwacqZOqLi 1178/6 | hTFtCeuBCTTrLf 1178/7
-Successful | PNR: 22517-20221101-233-8 | Train: 22517 | Date: 2022-11-01 | NdVmhIRRATtWF 233/8 | nXaaVtnqDlFI 233/9 | YFrLCBroFsZHymFq 233/10 | JPYmd 233/11 | PzzAiKPzdKZ 233/12 | CGsmOZxdCdCxoeJ 233/13
+Failed! 5 FCgWgBOgDH, VeAbySgWa, snzHikv, JXngwacqZOqLi, hTFtCeuBCTTrLf 22517 2022-11-01 SL
+Failed! 6 NdVmhIRRATtWF, nXaaVtnqDlFI, YFrLCBroFsZHymFq, JPYmd, PzzAiKPzdKZ, CGsmOZxdCdCxoeJ 22517 2022-11-01 AC
 Failed! 6 uT, ZGtz, rRPImNPApdqyl, mTlwPaEVUwFFdg, LPXvLuLQvklrVOUE, JJWVkga 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-232-1 | Train: 22517 | Date: 2022-11-02 | sMEe 232/1 | GevGw 232/2
-Successful | PNR: 22517-20221102-232-3 | Train: 22517 | Date: 2022-11-02 | pVYdzOC 232/3 | FkeTVqE 232/4
-Successful | PNR: 22517-20221101-1178-9 | Train: 22517 | Date: 2022-11-01 | HEFGqGtPYWrfjCLh 1178/9
+Failed! 2 sMEe, GevGw 22517 2022-11-02 AC
+Failed! 2 pVYdzOC, FkeTVqE 22517 2022-11-02 AC
+Failed! 1 HEFGqGtPYWrfjCLh 22517 2022-11-01 SL
 Failed! 1 bDuIPFHw 04652 2022-11-02 AC
 Failed! 5 DxpzpveNFTZIEj, vdpbTgFZfoeHgFk, dMcFv, rNcmTGIlhmzM, my 04652 2022-11-01 SL
 Failed! 3 RZy, eyNYHITkPt, iWsdrbCPB 04652 2022-11-02 SL
 Failed! 4 RBYvwANhYZRU, Lznku, cQHhLsGvHHC, JvLHjr 04652 2022-11-02 SL
 Failed! 6 jY, T, hxZofGhEWt, VWfrXA, JaFDmExmmPNpi, EMHUrPYUXN 04652 2022-11-01 AC
 Failed! 3 QwNA, cHTTdeBYZxdJEOvi, TIEG 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-233-14 | Train: 22517 | Date: 2022-11-01 | eMjHaHSCKBdLp 233/14 | RDEzMGGDrJbhscT 233/15 | kHgIUomemhFM 233/16 | s 233/17
-Successful | PNR: 22517-20221102-1167-11 | Train: 22517 | Date: 2022-11-02 | H 1167/11 | DJfNnZpoaJ 1167/12 | tQYMpwleJHlh 1167/13 | POIstPcdHXdoAT 1167/14 | pfjKLgVwfxF 1167/15 | FPnAEbpDudyt 1167/16
-Successful | PNR: 22517-20221101-233-18 | Train: 22517 | Date: 2022-11-01 | q 233/18 | gmatsI 234/1
+Failed! 4 eMjHaHSCKBdLp, RDEzMGGDrJbhscT, kHgIUomemhFM, s 22517 2022-11-01 AC
+Failed! 6 H, DJfNnZpoaJ, tQYMpwleJHlh, POIstPcdHXdoAT, pfjKLgVwfxF, FPnAEbpDudyt 22517 2022-11-02 SL
+Failed! 2 q, gmatsI 22517 2022-11-01 AC
 Failed! 5 YdYHTx, tYNHrc, rCCcIYXOocElmXTG, SYAx, z 04652 2022-11-01 AC
 Failed! 5 BlVSqYvrp, hhfwCbgKnGCrzlq, KLJAYUCdQKeIKD, eFoLn, CbcjbuHzQN 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1178-11 | Train: 22517 | Date: 2022-11-01 | HKbuCtUJo 1178/11 | qzdyEa 1178/12 | wYYOgrGBw 1178/13 | wcZ 1178/14 | HkmFgCRcTGsjaVO 1178/15 | He 1178/16
-Successful | PNR: 12058-20221101-236-11 | Train: 12058 | Date: 2022-11-01 | OYZNfHM 236/11 | tiWPtihReYemgzPU 236/12 | AhQMPzrTFj 236/13 | ijXwXBp 236/14
-Successful | PNR: 22517-20221102-232-6 | Train: 22517 | Date: 2022-11-02 | ScQsWRnau 232/6 | FWIbj 232/7
+Failed! 6 HKbuCtUJo, qzdyEa, wYYOgrGBw, wcZ, HkmFgCRcTGsjaVO, He 22517 2022-11-01 SL
+Failed! 4 OYZNfHM, tiWPtihReYemgzPU, AhQMPzrTFj, ijXwXBp 12058 2022-11-01 AC
+Failed! 2 ScQsWRnau, FWIbj 22517 2022-11-02 AC
 Failed! 3 OM, mCWdg, Xowyh 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-236-15 | Train: 12058 | Date: 2022-11-01 | bURIvsmBTFUv 236/15 | yGpsPsZnBqXnWYww 236/16 | DpQ 236/17
-Successful | PNR: 22517-20221101-234-8 | Train: 22517 | Date: 2022-11-01 | rajKAcqILjLHEdP 234/8 | MACtdSyHypdpdDvg 234/9 | Yrro 234/10 | LKuRBaWSbAdR 234/11 | XvwfRkrMHQi 234/12 | pugWUpWJPNvtDUNO 234/13
+Failed! 3 bURIvsmBTFUv, yGpsPsZnBqXnWYww, DpQ 12058 2022-11-01 AC
+Failed! 6 rajKAcqILjLHEdP, MACtdSyHypdpdDvg, Yrro, LKuRBaWSbAdR, XvwfRkrMHQi, pugWUpWJPNvtDUNO 22517 2022-11-01 AC
 Failed! 1 DkmzzV 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1174-5 | Train: 12058 | Date: 2022-11-01 | jasY 1174/5 | uYRgIhelIIDq 1174/6 | pDEaGPeVs 1174/7 | dlwgJfHLw 1174/8 | GRrwN 1174/9
-Successful | PNR: 22517-20221102-232-8 | Train: 22517 | Date: 2022-11-02 | KIUaGptJFtkd 232/8 | phrRbCsXOwVXDuV 232/9
-Successful | PNR: 22517-20221102-1167-24 | Train: 22517 | Date: 2022-11-02 | ioAQXwDEQrRnq 1167/24 | LGFhJFU 1168/1 | GlQdaeElbwMjE 1168/2
-Successful | PNR: 22517-20221102-1168-3 | Train: 22517 | Date: 2022-11-02 | VM 1168/3 | Fa 1168/4 | NNUpiDBvGWh 1168/5 | GUIWtYYPkLNRWa 1168/6
-Successful | PNR: 12058-20221101-1174-12 | Train: 12058 | Date: 2022-11-01 | LAzzYGROzYs 1174/12 | UIyGrRUYSA 1174/13
-Successful | PNR: 22517-20221102-1168-10 | Train: 22517 | Date: 2022-11-02 | Or 1168/10 | qAVgEJBaewwibK 1168/11 | jPAAjTKqvJ 1168/12 | Ft 1168/13 | ysbDV 1168/14 | ELTsoZzragsBTc 1168/15
+Failed! 5 jasY, uYRgIhelIIDq, pDEaGPeVs, dlwgJfHLw, GRrwN 12058 2022-11-01 SL
+Failed! 2 KIUaGptJFtkd, phrRbCsXOwVXDuV 22517 2022-11-02 AC
+Failed! 3 ioAQXwDEQrRnq, LGFhJFU, GlQdaeElbwMjE 22517 2022-11-02 SL
+Failed! 4 VM, Fa, NNUpiDBvGWh, GUIWtYYPkLNRWa 22517 2022-11-02 SL
+Failed! 2 LAzzYGROzYs, UIyGrRUYSA 12058 2022-11-01 SL
+Failed! 6 Or, qAVgEJBaewwibK, jPAAjTKqvJ, Ft, ysbDV, ELTsoZzragsBTc 22517 2022-11-02 SL
 Failed! 3 woimA, oRPRerjrb, dK 04652 2022-11-02 AC
 Failed! 3 gJYFJt, M, XZgeTEmZFnMFnOyf 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-232-10 | Train: 22517 | Date: 2022-11-02 | UcMduncNTpPaDwK 232/10 | KEyUKtNIsT 232/11
-Successful | PNR: 12058-20221101-1174-18 | Train: 12058 | Date: 2022-11-01 | oQgAYQh 1174/18 | XANGMkKswLrhkX 1174/19 | G 1174/20 | kf 1174/21
-Successful | PNR: 22517-20221101-1179-1 | Train: 22517 | Date: 2022-11-01 | CwryTJPIxpcn 1179/1 | zogqo 1179/2 | ZgkbOcqE 1179/3 | vEWdtaMocbBwcZbm 1179/4 | BiMFrhvxZvNORHyG 1179/5 | BIFWvQFWZQW 1179/6
+Failed! 2 UcMduncNTpPaDwK, KEyUKtNIsT 22517 2022-11-02 AC
+Failed! 4 oQgAYQh, XANGMkKswLrhkX, G, kf 12058 2022-11-01 SL
+Failed! 6 CwryTJPIxpcn, zogqo, ZgkbOcqE, vEWdtaMocbBwcZbm, BiMFrhvxZvNORHyG, BIFWvQFWZQW 22517 2022-11-01 SL
 Failed! 4 JQvdOtMUb, HkqIRHZCIHCORCO, LaqIaaQuFrHG, jVegFuF 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-236-18 | Train: 12058 | Date: 2022-11-01 | JzrH 236/18 | sZIcc 237/1 | SHoQkvPjoZ 237/2 | sRGREt 237/3 | lKprNJPuLqDHEhC 237/4 | flgJz 237/5
+Failed! 6 JzrH, sZIcc, SHoQkvPjoZ, sRGREt, lKprNJPuLqDHEhC, flgJz 12058 2022-11-01 AC
 Failed! 3 nrylDOIM, Y, eyTaTyvciNXe 04652 2022-11-01 AC
 Failed! 4 jhoOjAe, THpLMlMomBYmu, bzIAI, OmcndlndFIKEuLMZ 04652 2022-11-02 AC
 Failed! 2 rLlXCJGGRY, KDA 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-1168-19 | Train: 22517 | Date: 2022-11-02 | fPsZ 1168/19 | gxeNMgChXhXqioD 1168/20
-Successful | PNR: 12058-20221101-1175-3 | Train: 12058 | Date: 2022-11-01 | sPAWqa 1175/3 | ZyWjpXlEdYAbjsjr 1175/4 | N 1175/5 | ZJq 1175/6 | jK 1175/7 | U 1175/8
-Successful | PNR: 22517-20221102-232-18 | Train: 22517 | Date: 2022-11-02 | cIIPEYvmEMtvBSP 232/18 | EUq 233/1
-Successful | PNR: 22517-20221102-233-2 | Train: 22517 | Date: 2022-11-02 | GzKqsR 233/2 | nmBJHmcu 233/3
-Successful | PNR: 22517-20221101-235-1 | Train: 22517 | Date: 2022-11-01 | pAdwSIQczN 235/1 | XVbHLaIAhwdqU 235/2 | KzyeK 235/3 | tfjNVXyyGHQccRrh 235/4 | ElB 235/5 | z 235/6
-Successful | PNR: 22517-20221101-1179-7 | Train: 22517 | Date: 2022-11-01 | pxCQwjjrTXeNXO 1179/7 | XTum 1179/8
-Successful | PNR: 22517-20221102-1168-23 | Train: 22517 | Date: 2022-11-02 | QfYM 1168/23 | Xog 1168/24 | AkopjJofkRnJR 1169/1 | Znyzrsq 1169/2
-Successful | PNR: 22517-20221102-233-4 | Train: 22517 | Date: 2022-11-02 | kVMykT 233/4 | Spf 233/5
-Successful | PNR: 12058-20221101-1175-9 | Train: 12058 | Date: 2022-11-01 | qA 1175/9 | v 1175/10
+Failed! 2 fPsZ, gxeNMgChXhXqioD 22517 2022-11-02 SL
+Failed! 6 sPAWqa, ZyWjpXlEdYAbjsjr, N, ZJq, jK, U 12058 2022-11-01 SL
+Failed! 2 cIIPEYvmEMtvBSP, EUq 22517 2022-11-02 AC
+Failed! 2 GzKqsR, nmBJHmcu 22517 2022-11-02 AC
+Failed! 6 pAdwSIQczN, XVbHLaIAhwdqU, KzyeK, tfjNVXyyGHQccRrh, ElB, z 22517 2022-11-01 AC
+Failed! 2 pxCQwjjrTXeNXO, XTum 22517 2022-11-01 SL
+Failed! 4 QfYM, Xog, AkopjJofkRnJR, Znyzrsq 22517 2022-11-02 SL
+Failed! 2 kVMykT, Spf 22517 2022-11-02 AC
+Failed! 2 qA, v 12058 2022-11-01 SL
 Failed! 2 UFNjIvDMDXJtW, bTHPVldBIwFA 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1169-3 | Train: 22517 | Date: 2022-11-02 | VaegGBze 1169/3 | GOxZHayY 1169/4 | KLRpAeGCvQJdC 1169/5 | XABxBcGH 1169/6 | zGUjQ 1169/7
+Failed! 5 VaegGBze, GOxZHayY, KLRpAeGCvQJdC, XABxBcGH, zGUjQ 22517 2022-11-02 SL
 Failed! 6 yafpjuS, jGNpBftcloOpk, JEByOlgpCP, Nr, dAojUJOxoopjk, KdSfaCjlr 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-233-6 | Train: 22517 | Date: 2022-11-02 | rmJvlRVNtJOge 233/6
+Failed! 1 rmJvlRVNtJOge 22517 2022-11-02 AC
 Failed! 5 UdAcSpQBbf, Z, SHgYMNKHwvlDxv, njnpeNa, jBIhUouvD 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1179-18 | Train: 22517 | Date: 2022-11-01 | YBy 1179/18 | tupzQYBSRm 1179/19
-Successful | PNR: 22517-20221101-235-10 | Train: 22517 | Date: 2022-11-01 | Fn 235/10 | ee 235/11 | tzeYmhFC 235/12 | i 235/13 | gsZwQROkcMAKGT 235/14 | wgLHdwf 235/15
-Successful | PNR: 22517-20221101-235-16 | Train: 22517 | Date: 2022-11-01 | R 235/16 | BpeoxSpkyWqafCq 235/17
+Failed! 2 YBy, tupzQYBSRm 22517 2022-11-01 SL
+Failed! 6 Fn, ee, tzeYmhFC, i, gsZwQROkcMAKGT, wgLHdwf 22517 2022-11-01 AC
+Failed! 2 R, BpeoxSpkyWqafCq 22517 2022-11-01 AC
 Failed! 6 uVjZTUZIPPQ, C, lmMcEZF, OEyEnlZMw, SAH, JKvnFynJQhB 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-233-7 | Train: 22517 | Date: 2022-11-02 | vOLowH 233/7 | kymwIZwDWRvPKXV 233/8 | tVROkuStwF 233/9 | DgU 233/10 | KBoWifsVFFKWa 233/11 | WKdbFwtXh 233/12
+Failed! 6 vOLowH, kymwIZwDWRvPKXV, tVROkuStwF, DgU, KBoWifsVFFKWa, WKdbFwtXh 22517 2022-11-02 AC
 Failed! 5 BNjwrIoPjmCFOXIK, luvL, jEZNfsWrwfiEzc, YdakwHEpEIwwY, EcMEIJZfVAWxuyw 04652 2022-11-02 SL
 Failed! 2 JKpgdnLHyuNKbPvU, oGfBnYBPP 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1169-9 | Train: 22517 | Date: 2022-11-02 | aSUlAbWE 1169/9 | pPkvOEJIgm 1169/10 | t 1169/11 | jzkZDVV 1169/12
+Failed! 4 aSUlAbWE, pPkvOEJIgm, t, jzkZDVV 22517 2022-11-02 SL
 Failed! 4 biqceeFmPtYMmS, BaZphZuQtwk, jEWPsvoisnXcr, GJquqFODSh 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-1180-1 | Train: 22517 | Date: 2022-11-01 | Z 1180/1 | CzJIuZeHTSS 1180/2 | YAtkVyjWGxDYWj 1180/3
+Failed! 3 Z, CzJIuZeHTSS, YAtkVyjWGxDYWj 22517 2022-11-01 SL
 Failed! 6 FKP, xNLUlKqiRMIWJMCr, bWCcfGb, KIiJSZKX, sTkuNHuHcitjKv, tKpaCbhIqXJk 04652 2022-11-01 AC
 Failed! 2 LxprjeAwlxQZS, JGHRpaNxVm 04652 2022-11-01 SL
 Failed! 5 LDgTc, RWcYO, DolXEtoUfILGXifQ, J, tLmnlyeAC 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1169-13 | Train: 22517 | Date: 2022-11-02 | aevSMOtfg 1169/13 | LEHhj 1169/14 | Br 1169/15 | My 1169/16
+Failed! 4 aevSMOtfg, LEHhj, Br, My 22517 2022-11-02 SL
 Failed! 2 kDUwoaiBHITu, kNNLvEzmZRHxnuo 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-233-18 | Train: 22517 | Date: 2022-11-02 | GMIMCugcwdXXYyP 233/18
-Successful | PNR: 12058-20221101-1175-24 | Train: 12058 | Date: 2022-11-01 | EVyKPYXQTxY 1175/24
-Successful | PNR: 12058-20221101-237-18 | Train: 12058 | Date: 2022-11-01 | lgszhologDbtK 237/18 | eSW 238/1 | AO 238/2 | DlUyZr 238/3
-Successful | PNR: 22517-20221102-1169-22 | Train: 22517 | Date: 2022-11-02 | LGc 1169/22 | AqOlfyq 1169/23
-Successful | PNR: 22517-20221101-1180-14 | Train: 22517 | Date: 2022-11-01 | cGrDkMVPO 1180/14
-Successful | PNR: 22517-20221102-234-4 | Train: 22517 | Date: 2022-11-02 | Q 234/4 | NPQKGHEMYpjPs 234/5 | KSxnLuhBsoe 234/6 | zuh 234/7 | FYgFuBuPNEG 234/8 | adtjMYQypacWJ 234/9
-Successful | PNR: 22517-20221102-1169-24 | Train: 22517 | Date: 2022-11-02 | RYwNeFbSPIlS 1169/24 | jWTWS 1170/1 | wEGIllNjoxJNGXVB 1170/2 | DyWLbBGISpqtIOnQ 1170/3 | sLTQNPAOY 1170/4 | aDGvzWmn 1170/5
-Successful | PNR: 22517-20221102-234-10 | Train: 22517 | Date: 2022-11-02 | bKmTFbHfLEesvK 234/10 | nkiRoT 234/11 | LEqQCI 234/12
-Successful | PNR: 22517-20221102-1170-6 | Train: 22517 | Date: 2022-11-02 | PZlYL 1170/6 | PNKlZeMUMons 1170/7 | SvUZcUerrzYRud 1170/8 | oiAOVUNlMdym 1170/9
+Failed! 1 GMIMCugcwdXXYyP 22517 2022-11-02 AC
+Failed! 1 EVyKPYXQTxY 12058 2022-11-01 SL
+Failed! 4 lgszhologDbtK, eSW, AO, DlUyZr 12058 2022-11-01 AC
+Failed! 2 LGc, AqOlfyq 22517 2022-11-02 SL
+Failed! 1 cGrDkMVPO 22517 2022-11-01 SL
+Failed! 6 Q, NPQKGHEMYpjPs, KSxnLuhBsoe, zuh, FYgFuBuPNEG, adtjMYQypacWJ 22517 2022-11-02 AC
+Failed! 6 RYwNeFbSPIlS, jWTWS, wEGIllNjoxJNGXVB, DyWLbBGISpqtIOnQ, sLTQNPAOY, aDGvzWmn 22517 2022-11-02 SL
+Failed! 3 bKmTFbHfLEesvK, nkiRoT, LEqQCI 22517 2022-11-02 AC
+Failed! 4 PZlYL, PNKlZeMUMons, SvUZcUerrzYRud, oiAOVUNlMdym 22517 2022-11-02 SL
 Failed! 1 QWGVgBEvFhi 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-1170-10 | Train: 22517 | Date: 2022-11-02 | EKfpD 1170/10 | qBpbDsTg 1170/11 | BcFozdAl 1170/12
-Successful | PNR: 22517-20221101-1180-20 | Train: 22517 | Date: 2022-11-01 | fXBWNFRdhAvMIa 1180/20 | QpXQXLKJOiHQdl 1180/21
-Successful | PNR: 22517-20221101-1180-22 | Train: 22517 | Date: 2022-11-01 | XLcP 1180/22 | dTwhCSFRLKNnPCzK 1180/23
+Failed! 3 EKfpD, qBpbDsTg, BcFozdAl 22517 2022-11-02 SL
+Failed! 2 fXBWNFRdhAvMIa, QpXQXLKJOiHQdl 22517 2022-11-01 SL
+Failed! 2 XLcP, dTwhCSFRLKNnPCzK 22517 2022-11-01 SL
 Failed! 1 YYhQi 04652 2022-11-01 SL
 Failed! 4 Tk, eSnyOhx, qNbVZOf, CPQDWl 04652 2022-11-02 SL
 Failed! 2 kTwj, rkrPQOU 04652 2022-11-01 AC
 Failed! 1 jgPfyOPxp 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-238-9 | Train: 12058 | Date: 2022-11-01 | TgNA 238/9 | sdvLSSrKayQKT 238/10 | r 238/11 | hLfxbJpSQ 238/12
+Failed! 4 TgNA, sdvLSSrKayQKT, r, hLfxbJpSQ 12058 2022-11-01 AC
 Failed! 1 Ibi 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-1176-6 | Train: 12058 | Date: 2022-11-01 | iLRBNbts 1176/6 | AOdMVaAX 1176/7
-Successful | PNR: 12058-20221101-238-13 | Train: 12058 | Date: 2022-11-01 | Kldkj 238/13
-Successful | PNR: 22517-20221101-1181-3 | Train: 22517 | Date: 2022-11-01 | l 1181/4 | lJzloeNgJtNq 1181/3 | KXfnaSXArqj 1181/5
+Failed! 2 iLRBNbts, AOdMVaAX 12058 2022-11-01 SL
+Failed! 1 Kldkj 12058 2022-11-01 AC
+Failed! 3 lJzloeNgJtNq, l, KXfnaSXArqj 22517 2022-11-01 SL
 Failed! 6 oRZEhwRDM, cvDVg, BWZBEMguhtyy, MkQHj, CFihjOiMhtXXd, RkQKKXTYe 04652 2022-11-02 SL
 Failed! 6 T, NIJbKNHWMP, eDKKqgzAvOG, z, IMfNH, JgdsZi 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-236-2 | Train: 22517 | Date: 2022-11-01 | ydbMGmZhnQBfvJNW 236/2 | fRRBFLWMMapqvNSQ 236/3 | tYXctLCocWRFdub 236/4 | sEXebGmlYAh 236/5
-Successful | PNR: 12058-20221101-1176-23 | Train: 12058 | Date: 2022-11-01 | fBIjqMygoYZqeTGs 1176/23 | a 1176/24 | jZZn 1177/1 | jhrxgandqzXvZOx 1177/2 | NqBxLxVO 1177/3
-Successful | PNR: 22517-20221101-1181-6 | Train: 22517 | Date: 2022-11-01 | teeqnKJbsOoWQl 1181/6 | zROlRt 1181/7 | CF 1181/8 | hpCBlCD 1181/9 | zwerZxqWmOucNQi 1181/10 | hxz 1181/11
-Successful | PNR: 22517-20221102-1170-19 | Train: 22517 | Date: 2022-11-02 | JjPFqLp 1170/19 | Ko 1170/20 | h 1170/21
-Successful | PNR: 12058-20221101-238-14 | Train: 12058 | Date: 2022-11-01 | IlDDaLfwgbnVpq 238/14 | Dg 238/15 | vxoPjADgSEtatCPf 238/16 | amejvf 238/17
-Successful | PNR: 22517-20221101-236-6 | Train: 22517 | Date: 2022-11-01 | cRyxxPaCugA 236/6 | AdyPNgxURcLJ 236/7 | BxPaD 236/8 | yrGToq 236/9 | h 236/10
-Successful | PNR: 12058-20221101-1177-10 | Train: 12058 | Date: 2022-11-01 | pbVWyFWaUH 1177/10 | hVi 1177/11 | QKVEoKtG 1177/12 | NctU 1177/13
-Successful | PNR: 12058-20221101-238-18 | Train: 12058 | Date: 2022-11-01 | DmOVPbpexulpjZ 238/18 | Ch 239/1 | nhtSevAuIz 239/2 | FgOjCOmOfAlAu 239/3
-Successful | PNR: 22517-20221101-236-15 | Train: 22517 | Date: 2022-11-01 | AIEaig 236/15 | wESWxEyJBsesi 236/16 | GwMwQnP 236/17 | oLY 236/18
+Failed! 4 ydbMGmZhnQBfvJNW, fRRBFLWMMapqvNSQ, tYXctLCocWRFdub, sEXebGmlYAh 22517 2022-11-01 AC
+Failed! 5 fBIjqMygoYZqeTGs, a, jZZn, jhrxgandqzXvZOx, NqBxLxVO 12058 2022-11-01 SL
+Failed! 6 teeqnKJbsOoWQl, zROlRt, CF, hpCBlCD, zwerZxqWmOucNQi, hxz 22517 2022-11-01 SL
+Failed! 3 JjPFqLp, Ko, h 22517 2022-11-02 SL
+Failed! 4 IlDDaLfwgbnVpq, Dg, vxoPjADgSEtatCPf, amejvf 12058 2022-11-01 AC
+Failed! 5 cRyxxPaCugA, AdyPNgxURcLJ, BxPaD, yrGToq, h 22517 2022-11-01 AC
+Failed! 4 pbVWyFWaUH, hVi, QKVEoKtG, NctU 12058 2022-11-01 SL
+Failed! 4 DmOVPbpexulpjZ, Ch, nhtSevAuIz, FgOjCOmOfAlAu 12058 2022-11-01 AC
+Failed! 4 AIEaig, wESWxEyJBsesi, GwMwQnP, oLY 22517 2022-11-01 AC
 Failed! 2 feFQAoAolXofEQwT, Cj 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-237-1 | Train: 22517 | Date: 2022-11-01 | cCxQAOgcnSDr 237/1
-Successful | PNR: 22517-20221101-1181-21 | Train: 22517 | Date: 2022-11-01 | qIlNToEMooDGNPu 1181/21 | MHckNFvSlZGLXR 1181/22 | NGrHew 1181/23 | bnYqB 1181/24 | fLN 1182/1
+Failed! 1 cCxQAOgcnSDr 22517 2022-11-01 AC
+Failed! 5 qIlNToEMooDGNPu, MHckNFvSlZGLXR, NGrHew, bnYqB, fLN 22517 2022-11-01 SL
 Failed! 1 oYurDFEHRg 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1182-2 | Train: 22517 | Date: 2022-11-01 | RtixYwytarFjpRhW 1182/2 | OwDsynrmWwVMePg 1182/3 | E 1182/4
-Successful | PNR: 22517-20221102-1171-4 | Train: 22517 | Date: 2022-11-02 | vzFX 1171/4 | icc 1171/5 | FdWtWt 1171/6 | VLFS 1171/7
-Successful | PNR: 22517-20221101-237-2 | Train: 22517 | Date: 2022-11-01 | yLujHAyYjGIEGso 237/2 | CfjQHfCDR 237/3 | iYlbta 237/4
-Successful | PNR: 22517-20221101-1182-10 | Train: 22517 | Date: 2022-11-01 | emZEdARdKVoYjVPW 1182/10 | GWTdPhQUGCJ 1182/11 | tQNpZZXcuAESoynZ 1182/12 | POV 1182/13
-Successful | PNR: 12058-20221101-239-13 | Train: 12058 | Date: 2022-11-01 | UjYlCppNxLYG 239/13 | kSUZqhzJnulWVsuI 239/14 | WxIVIMdFmOt 239/15 | zTzGep 239/16 | rR 239/17
+Failed! 3 RtixYwytarFjpRhW, OwDsynrmWwVMePg, E 22517 2022-11-01 SL
+Failed! 4 vzFX, icc, FdWtWt, VLFS 22517 2022-11-02 SL
+Failed! 3 yLujHAyYjGIEGso, CfjQHfCDR, iYlbta 22517 2022-11-01 AC
+Failed! 4 emZEdARdKVoYjVPW, GWTdPhQUGCJ, tQNpZZXcuAESoynZ, POV 22517 2022-11-01 SL
+Failed! 5 UjYlCppNxLYG, kSUZqhzJnulWVsuI, WxIVIMdFmOt, zTzGep, rR 12058 2022-11-01 AC
 Failed! 1 vkuJw 04652 2022-11-01 SL
 Failed! 2 bgA, FplIbZPc 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-239-18 | Train: 12058 | Date: 2022-11-01 | lO 239/18 | wxugEGA 240/1 | UOzVbE 240/2 | pf 240/3
-Successful | PNR: 12058-20221101-1177-19 | Train: 12058 | Date: 2022-11-01 | KVo 1177/19 | F 1177/20 | EqsZh 1177/21 | Zhu 1177/22 | IWfdI 1177/23 | gpSVJZLooUCf 1177/24
-Successful | PNR: 22517-20221101-1182-14 | Train: 22517 | Date: 2022-11-01 | nvmktK 1182/14
+Failed! 4 lO, wxugEGA, UOzVbE, pf 12058 2022-11-01 AC
+Failed! 6 KVo, F, EqsZh, Zhu, IWfdI, gpSVJZLooUCf 12058 2022-11-01 SL
+Failed! 1 nvmktK 22517 2022-11-01 SL
 Failed! 2 nwvF, KZiYSvGGvKXZYgq 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1182-15 | Train: 22517 | Date: 2022-11-01 | sSGsPIPA 1182/15
+Failed! 1 sSGsPIPA 22517 2022-11-01 SL
 Failed! 3 xqocfEklste, oLEZ, dRrRCQJXhwJsJBuD 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-235-10 | Train: 22517 | Date: 2022-11-02 | SuaOGjpzPu 235/10 | ryuWXtCs 235/11 | YIn 235/12 | PVr 235/13
-Successful | PNR: 12058-20221101-1178-1 | Train: 12058 | Date: 2022-11-01 | tijx 1178/1 | NzUiZUDwggOnPspv 1178/2 | fNpiTIXpmSWf 1178/3 | En 1178/4 | TBwjnXm 1178/5 | ZCv 1178/6
-Successful | PNR: 22517-20221101-237-11 | Train: 22517 | Date: 2022-11-01 | PdAtSDJpzRUgQCdu 237/11 | AaqnSNc 237/12 | UyYLkjTnUzoEnBel 237/13
+Failed! 4 SuaOGjpzPu, ryuWXtCs, YIn, PVr 22517 2022-11-02 AC
+Failed! 6 tijx, NzUiZUDwggOnPspv, fNpiTIXpmSWf, En, TBwjnXm, ZCv 12058 2022-11-01 SL
+Failed! 3 PdAtSDJpzRUgQCdu, AaqnSNc, UyYLkjTnUzoEnBel 22517 2022-11-01 AC
 Failed! 5 Hkc, iWqvwOxF, pJMXIkTIryuavU, QdaSTxyCABM, zgzxvb 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-240-14 | Train: 12058 | Date: 2022-11-01 | cPzNbpL 240/14 | apCMx 240/15
-Successful | PNR: 22517-20221101-237-14 | Train: 22517 | Date: 2022-11-01 | Ner 237/14
-Successful | PNR: 22517-20221102-1171-20 | Train: 22517 | Date: 2022-11-02 | knNPXNJ 1171/20 | kwYBxAHBC 1171/21 | xEGr 1171/22 | VwpElZHWP 1171/23
-Successful | PNR: 12058-20221101-1178-7 | Train: 12058 | Date: 2022-11-01 | DUOugHGbNKzInzed 1178/7 | sDrSzKTQYpXdrA 1178/8 | JrHcnEKpo 1178/9 | bDTkcw 1178/10 | djpZjUIUomoWuqJ 1178/11
-Successful | PNR: 22517-20221101-1182-17 | Train: 22517 | Date: 2022-11-01 | BjszBWbBcEny 1182/17 | xWIECbnUPi 1182/18 | hrlOvJM 1182/19
+Failed! 2 cPzNbpL, apCMx 12058 2022-11-01 AC
+Failed! 1 Ner 22517 2022-11-01 AC
+Failed! 4 knNPXNJ, kwYBxAHBC, xEGr, VwpElZHWP 22517 2022-11-02 SL
+Failed! 5 DUOugHGbNKzInzed, sDrSzKTQYpXdrA, JrHcnEKpo, bDTkcw, djpZjUIUomoWuqJ 12058 2022-11-01 SL
+Failed! 3 BjszBWbBcEny, xWIECbnUPi, hrlOvJM 22517 2022-11-01 SL
 Failed! 1 BGHkA 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1182-20 | Train: 22517 | Date: 2022-11-01 | tNUhUyEjxfy 1182/20 | wFpaeUYgLLju 1182/21 | upVkgy 1182/22
-Successful | PNR: 22517-20221101-1182-23 | Train: 22517 | Date: 2022-11-01 | lbbhbKOkUNyt 1182/23 | INRDEkyNiJFbSX 1182/24 | rwVIiHZngYAKkru 1183/1 | sxhdEXEEdS 1183/2 | EqL 1183/3
+Failed! 3 tNUhUyEjxfy, wFpaeUYgLLju, upVkgy 22517 2022-11-01 SL
+Failed! 5 lbbhbKOkUNyt, INRDEkyNiJFbSX, rwVIiHZngYAKkru, sxhdEXEEdS, EqL 22517 2022-11-01 SL
 Failed! 1 OZKglXE 04652 2022-11-01 SL
 Failed! 4 GJcdGKeorBmRILS, YBfLWThQNX, tmUpRs, qEKccFKYupwUSng 04652 2022-11-02 AC
 Failed! 1 O 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-237-15 | Train: 22517 | Date: 2022-11-01 | lyc 237/15
+Failed! 1 lyc 22517 2022-11-01 AC
 Failed! 4 WwvyrDdtsF, svpYPVkLIW, TleUkraBLy, HL 04652 2022-11-01 AC
 Failed! 5 KOmiU, GoksCxQJflaNvB, RYTDnSdWhpZWy, zEcfXIuYZAS, cAfvoPEQsZs 04652 2022-11-01 AC
 Failed! 1 L 04652 2022-11-02 AC
 Failed! 5 CcMFhz, FprINFXgN, ksFmXjtIqB, nHKiccNxDWogszJD, XHmdePzYxbzl 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-1178-20 | Train: 12058 | Date: 2022-11-01 | YhTFllJKyf 1178/20 | ENyozQGvqYFE 1178/21 | fYEFgQAzhlmgVDJH 1178/22 | DlEkAi 1178/23
-Successful | PNR: 22517-20221101-1183-4 | Train: 22517 | Date: 2022-11-01 | BgZvfDmVyUUoiin 1183/4 | FaezQoFruXbOusNr 1183/5 | EXsFReMDNgXhVT 1183/6
+Failed! 4 YhTFllJKyf, ENyozQGvqYFE, fYEFgQAzhlmgVDJH, DlEkAi 12058 2022-11-01 SL
+Failed! 3 BgZvfDmVyUUoiin, FaezQoFruXbOusNr, EXsFReMDNgXhVT 22517 2022-11-01 SL
 Failed! 2 rhPWUplGmDoqA, BwmwbRbItfr 04652 2022-11-01 AC
 Failed! 1 dOmNfiC 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-1172-5 | Train: 22517 | Date: 2022-11-02 | AISkNwBVNCFQHS 1172/5
+Failed! 1 AISkNwBVNCFQHS 22517 2022-11-02 SL
 Failed! 1 gRL 04652 2022-11-02 AC
 Failed! 6 AH, zBrKhwJRAFn, CcEDXPUcDIq, PljycOcXeUNW, LNUpS, W 04652 2022-11-02 AC
 Failed! 6 ptmnswIQO, jl, JPSUBIdF, Zpb, cKiFkNq, WO 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1172-6 | Train: 22517 | Date: 2022-11-02 | ImlO 1172/6 | TAub 1172/7 | rvijiqL 1172/8 | NkkzSCbyiT 1172/9 | BF 1172/10
-Successful | PNR: 22517-20221102-1172-11 | Train: 22517 | Date: 2022-11-02 | EonxPxyOB 1172/11 | oyLp 1172/12 | rMbKOetTgI 1172/13 | cGaSPlvBybIYci 1172/14 | tWhjDgkjX 1172/15 | ymPg 1172/16
-Successful | PNR: 22517-20221102-236-10 | Train: 22517 | Date: 2022-11-02 | cxiflkci 236/10 | jzxnWfdaOCKGw 236/11 | BBAryvOwKXAv 236/12 | ycbe 236/13 | dODQVDLFGzPveivJ 236/14 | KLL 236/15
+Failed! 5 ImlO, TAub, rvijiqL, NkkzSCbyiT, BF 22517 2022-11-02 SL
+Failed! 6 EonxPxyOB, oyLp, rMbKOetTgI, cGaSPlvBybIYci, tWhjDgkjX, ymPg 22517 2022-11-02 SL
+Failed! 6 cxiflkci, jzxnWfdaOCKGw, BBAryvOwKXAv, ycbe, dODQVDLFGzPveivJ, KLL 22517 2022-11-02 AC
 Failed! 1 YabWNzZiSlsLmlEt 04652 2022-11-01 SL
 Failed! 1 FEEWGChtNlUzlVW 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-236-16 | Train: 22517 | Date: 2022-11-02 | clU 236/16
-Successful | PNR: 22517-20221101-1183-9 | Train: 22517 | Date: 2022-11-01 | arMWnytTwWcraYe 1183/9 | Zy 1183/10 | eWFgqvdkOL 1183/11 | gQNaSSVSHXuHzftF 1183/12 | a 1183/13 | jOKTDFL 1183/14
-Successful | PNR: 12058-20221101-241-6 | Train: 12058 | Date: 2022-11-01 | ng 241/6
+Failed! 1 clU 22517 2022-11-02 AC
+Failed! 6 arMWnytTwWcraYe, Zy, eWFgqvdkOL, gQNaSSVSHXuHzftF, a, jOKTDFL 22517 2022-11-01 SL
+Failed! 1 ng 12058 2022-11-01 AC
 Failed! 4 pzTdplaupSLgTht, npqsevisMRwQxC, zxlUBmzkJMgAs, XgNXshoT 04652 2022-11-01 AC
 Failed! 5 lkCCGm, feHlu, EkIkGhjVbmaNNkUA, EdIvPrJCH, tumRMIKngG 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-241-7 | Train: 12058 | Date: 2022-11-01 | Tu 241/7 | eaffnoOltz 241/8 | jAeCRVlJhumU 241/9 | O 241/10 | uup 241/11
-Successful | PNR: 12058-20221101-1179-8 | Train: 12058 | Date: 2022-11-01 | EBfKdsPCib 1179/8 | aeUyiVadcQ 1179/9
+Failed! 5 Tu, eaffnoOltz, jAeCRVlJhumU, O, uup 12058 2022-11-01 AC
+Failed! 2 EBfKdsPCib, aeUyiVadcQ 12058 2022-11-01 SL
 Failed! 1 QNLdYVvEUL 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-236-17 | Train: 22517 | Date: 2022-11-02 | tHzavYXGwPVoRW 236/17 | CvtYRaBaiIGIYNp 236/18 | JwMTumzE 237/1 | GumCwS 237/2
+Failed! 4 tHzavYXGwPVoRW, CvtYRaBaiIGIYNp, JwMTumzE, GumCwS 22517 2022-11-02 AC
 Failed! 5 TOVDtUef, RPtfFaboXh, ClnyCCcv, xyJuUVDrzVv, Ge 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-1179-12 | Train: 12058 | Date: 2022-11-01 | IRiHFKg 1179/12 | AlqQxdeMJVVFOjs 1179/13 | tOJGCB 1179/14 | NZGWGwiTfNTMB 1179/15
+Failed! 4 IRiHFKg, AlqQxdeMJVVFOjs, tOJGCB, NZGWGwiTfNTMB 12058 2022-11-01 SL
 Failed! 1 Jbl 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-237-3 | Train: 22517 | Date: 2022-11-02 | KTvdTpYLeoNvbWKf 237/3 | tfHrBictKCFIdQ 237/4 | d 237/5
+Failed! 3 KTvdTpYLeoNvbWKf, tfHrBictKCFIdQ, d 22517 2022-11-02 AC
 Failed! 5 kfgbEc, wfpgSqEew, JgePplpqfdVpRnyx, XgVGUISqjJFpvk, Dl 04652 2022-11-02 AC
 Failed! 4 jRsHJd, kMgeHMrqoElwwM, fnAEbyQeDwqKJbLK, yt 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-241-12 | Train: 12058 | Date: 2022-11-01 | sHdZHbLXkmiJxU 241/12 | bwDHPXUSxpbo 241/13
-Successful | PNR: 12058-20221101-1179-18 | Train: 12058 | Date: 2022-11-01 | tduBqgDlK 1179/18
+Failed! 2 sHdZHbLXkmiJxU, bwDHPXUSxpbo 12058 2022-11-01 AC
+Failed! 1 tduBqgDlK 12058 2022-11-01 SL
 Failed! 4 HRERxsSYQCrXu, CwWeNiEwTVb, xSMm, BsFF 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1172-19 | Train: 22517 | Date: 2022-11-02 | OXJsAdbbfoWHzfM 1172/19 | O 1172/20 | syOdtXhbkGyMv 1172/21 | z 1172/22
+Failed! 4 OXJsAdbbfoWHzfM, O, syOdtXhbkGyMv, z 22517 2022-11-02 SL
 Failed! 5 xMnx, vFBBJnbZb, mWUfvGjpNqjVnB, dVSt, sDzJrJdNGuqAo 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-1184-2 | Train: 22517 | Date: 2022-11-01 | SlqXeXjTL 1184/2 | McDkxqsNh 1184/3 | sxMWqQlW 1184/4 | wcVbnaSxCRDQUnQo 1184/5
-Successful | PNR: 22517-20221101-1184-6 | Train: 22517 | Date: 2022-11-01 | wDIp 1184/6 | EJFiAwIJXxV 1184/7
-Successful | PNR: 12058-20221101-242-1 | Train: 12058 | Date: 2022-11-01 | u 242/1 | OEFYXkkVTO 242/2 | mzfYxx 242/3
+Failed! 4 SlqXeXjTL, McDkxqsNh, sxMWqQlW, wcVbnaSxCRDQUnQo 22517 2022-11-01 SL
+Failed! 2 wDIp, EJFiAwIJXxV 22517 2022-11-01 SL
+Failed! 3 u, OEFYXkkVTO, mzfYxx 12058 2022-11-01 AC
 Failed! 1 sHpi 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-242-4 | Train: 12058 | Date: 2022-11-01 | gP 242/4 | ri 242/5 | R 242/6 | omDPFOydSUkD 242/7 | yVXbRLn 242/8 | RRF 242/9
+Failed! 6 gP, ri, R, omDPFOydSUkD, yVXbRLn, RRF 12058 2022-11-01 AC
 Failed! 2 gxO, oqdELC 04652 2022-11-01 AC
 Failed! 1 EtKufAC 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-238-9 | Train: 22517 | Date: 2022-11-01 | FsIJtpVdWLBD 238/9
+Failed! 1 FsIJtpVdWLBD 22517 2022-11-01 AC
 Failed! 3 HqTudkzGfFcJZA, YXgopRv, hAQrRGXUZh 04652 2022-11-01 SL
 Failed! 3 P, VPFS, PXAsjQaslMyGO 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1184-9 | Train: 22517 | Date: 2022-11-01 | NUArgaVw 1184/9 | eehjHKTchfblcU 1184/10
-Successful | PNR: 22517-20221101-238-10 | Train: 22517 | Date: 2022-11-01 | jpKHNFvzdVSwo 238/10 | gAEaKGEvBtErQzt 238/11
+Failed! 2 NUArgaVw, eehjHKTchfblcU 22517 2022-11-01 SL
+Failed! 2 jpKHNFvzdVSwo, gAEaKGEvBtErQzt 22517 2022-11-01 AC
 Failed! 4 OUnVmHjBVwi, A, NGiPvfhBNRjDe, eeCqvKcWk 04652 2022-11-01 SL
 Failed! 5 rcjRPUlgqaZ, lgriXZCqsqf, mhMrGgiAHHjoD, vbBHxcuwHnYyc, CcmTYZaYcCjVOh 04652 2022-11-02 AC
 Failed! 6 OrFOSqIfUvpvR, drdzsArfjRg, UGi, UydJcoksW, yBCKpPzc, pvHmcsIO 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-238-12 | Train: 22517 | Date: 2022-11-01 | cm 238/12 | nJsCj 238/13
-Successful | PNR: 12058-20221101-243-2 | Train: 12058 | Date: 2022-11-01 | in 243/2 | oti 243/3 | twjDgzdk 243/4 | lQEcCE 243/5 | Okqwr 243/6 | QGycK 243/7
-Successful | PNR: 22517-20221101-1184-15 | Train: 22517 | Date: 2022-11-01 | qAMOfZSs 1184/15
+Failed! 2 cm, nJsCj 22517 2022-11-01 AC
+Failed! 6 in, oti, twjDgzdk, lQEcCE, Okqwr, QGycK 12058 2022-11-01 AC
+Failed! 1 qAMOfZSs 22517 2022-11-01 SL
 Failed! 4 EqoaOqFcwrDKI, NMGPEWBTXjaRfmx, gTCuXeEcdYevmm, Inutx 04652 2022-11-01 AC
 Failed! 2 oAmpt, vemEypon 04652 2022-11-01 SL
 Failed! 4 Y, PRjMSAHAQtlTHV, m, wt 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1173-3 | Train: 22517 | Date: 2022-11-02 | cexV 1173/3 | ojAvnsujIJRxiDJ 1173/4 | pwcsw 1173/5 | RkBNucKvA 1173/6 | htFjtKBW 1173/7 | zEuOZjesD 1173/8
+Failed! 6 cexV, ojAvnsujIJRxiDJ, pwcsw, RkBNucKvA, htFjtKBW, zEuOZjesD 22517 2022-11-02 SL
 Failed! 3 HaCkhYGNngqC, WaLoPcAgDugO, BLRtNIRSdbJdoyAC 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1184-16 | Train: 22517 | Date: 2022-11-01 | a 1184/16 | aFvbNg 1184/17 | TnQ 1184/18 | JydprdiecDXwcY 1184/19 | muwiQZy 1184/20 | ASBxxvxFmnHw 1184/21
-Successful | PNR: 22517-20221101-238-15 | Train: 22517 | Date: 2022-11-01 | SfmRdtDWgIpeIqXC 238/15
-Successful | PNR: 22517-20221102-237-12 | Train: 22517 | Date: 2022-11-02 | nbjODvuaF 237/12 | CNc 237/13 | QTnYDaWcil 237/14 | QcOlnvhG 237/15 | NAhyICrFlEXfv 237/16
+Failed! 6 a, aFvbNg, TnQ, JydprdiecDXwcY, muwiQZy, ASBxxvxFmnHw 22517 2022-11-01 SL
+Failed! 1 SfmRdtDWgIpeIqXC 22517 2022-11-01 AC
+Failed! 5 nbjODvuaF, CNc, QTnYDaWcil, QcOlnvhG, NAhyICrFlEXfv 22517 2022-11-02 AC
 Failed! 2 e, PMgCkZvWxW 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1180-1 | Train: 12058 | Date: 2022-11-01 | CNvbmtwSVQKjRV 1180/1 | U 1180/2 | emBGvskGKBFTTes 1180/3 | bmAr 1180/4 | BOsgV 1180/5 | NIijvsSwnIjIcYT 1180/6
+Failed! 6 CNvbmtwSVQKjRV, U, emBGvskGKBFTTes, bmAr, BOsgV, NIijvsSwnIjIcYT 12058 2022-11-01 SL
 Failed! 3 viJNYZDoVqDGcwS, J, APCKj 04652 2022-11-02 AC
 Failed! 3 jMJDvISwuJbglN, PKCNa, pQbNVmgWGgkC 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-239-3 | Train: 22517 | Date: 2022-11-01 | KTUe 239/3 | vW 239/4 | zICPV 239/5
+Failed! 3 KTUe, vW, zICPV 22517 2022-11-01 AC
 Failed! 1 vu 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-239-6 | Train: 22517 | Date: 2022-11-01 | gBETKLjxkkKenvg 239/6 | xwQ 239/7 | JJtCt 239/8 | g 239/9
-Successful | PNR: 22517-20221101-1185-2 | Train: 22517 | Date: 2022-11-01 | fIvQGcWCdUHU 1185/2 | d 1185/3 | QTzPPhGfFWUdJu 1185/4
+Failed! 4 gBETKLjxkkKenvg, xwQ, JJtCt, g 22517 2022-11-01 AC
+Failed! 3 fIvQGcWCdUHU, d, QTzPPhGfFWUdJu 22517 2022-11-01 SL
 Failed! 5 q, ajAbDOXqTN, MSqELkrd, CYRtViZDiIRH, vrKaWgWJCYh 04652 2022-11-01 AC
 Failed! 1 KlxYWoLXosWxYlw 04652 2022-11-02 SL
 Failed! 4 eYAaAqxDcMstBQUM, LVWSiC, PPwpDVadHv, BtVwBNH 04652 2022-11-02 AC
@@ -244,171 +244,171 @@ Failed! 1 VDzpUVMOk 04652 2022-11-01 SL
 Failed! 1 CXnEnRvFP 04652 2022-11-02 AC
 Failed! 1 etAcFeNiNBp 04652 2022-11-01 SL
 Failed! 3 NjOGLnSWyXzMqyN, yX, EOwHp 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1180-11 | Train: 12058 | Date: 2022-11-01 | CTvLIzXCOP 1180/11 | GSMKyAhY 1180/12
-Successful | PNR: 22517-20221102-1173-9 | Train: 22517 | Date: 2022-11-02 | HEgVuQ 1173/9 | uv 1173/10 | HdVv 1173/11 | wJPupKgrnJfilpvm 1173/12 | xWgIhZeHtXUKI 1173/13
+Failed! 2 CTvLIzXCOP, GSMKyAhY 12058 2022-11-01 SL
+Failed! 5 HEgVuQ, uv, HdVv, wJPupKgrnJfilpvm, xWgIhZeHtXUKI 22517 2022-11-02 SL
 Failed! 3 lmMzZBk, mFf, TcqgQFF 04652 2022-11-01 SL
 Failed! 3 tAPDw, MjEnAQaYrfq, FOa 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-1173-14 | Train: 22517 | Date: 2022-11-02 | aAtNQSQeDW 1173/14
-Successful | PNR: 22517-20221102-238-4 | Train: 22517 | Date: 2022-11-02 | aZzAGXGeBLQGL 238/4 | HIugAyfodiM 238/5 | XdxhoJkhuxEh 238/6
-Successful | PNR: 22517-20221102-238-7 | Train: 22517 | Date: 2022-11-02 | mDZyRBEcY 238/7 | xdwlN 238/8 | hZiQeJxcXy 238/9 | AgiNZPUsW 238/10 | zoMXtivPjaSmFnHk 238/11
+Failed! 1 aAtNQSQeDW 22517 2022-11-02 SL
+Failed! 3 aZzAGXGeBLQGL, HIugAyfodiM, XdxhoJkhuxEh 22517 2022-11-02 AC
+Failed! 5 mDZyRBEcY, xdwlN, hZiQeJxcXy, AgiNZPUsW, zoMXtivPjaSmFnHk 22517 2022-11-02 AC
 Failed! 1 eQWH 04652 2022-11-02 AC
 Failed! 6 WTfnvJbEk, rktNHZRRieyL, MkLomZTDNY, kNu, DzUaCXNMv, TSYRZLeRH 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-244-10 | Train: 12058 | Date: 2022-11-01 | HmzqjyoAgJak 244/10 | RRYcpKNQZQfK 244/11
-Successful | PNR: 12058-20221101-1180-16 | Train: 12058 | Date: 2022-11-01 | xHuTIkhhyQ 1180/16 | sIxdGmopNzkPlF 1180/17 | bpT 1180/18 | ryYOz 1180/19
-Successful | PNR: 12058-20221101-1180-20 | Train: 12058 | Date: 2022-11-01 | jmyDbljNevM 1180/20 | nexeUHzXCDGDiHF 1180/21 | nG 1180/22 | TEvf 1180/23 | QRtRzWnVjVDoCor 1180/24
+Failed! 2 HmzqjyoAgJak, RRYcpKNQZQfK 12058 2022-11-01 AC
+Failed! 4 xHuTIkhhyQ, sIxdGmopNzkPlF, bpT, ryYOz 12058 2022-11-01 SL
+Failed! 5 jmyDbljNevM, nexeUHzXCDGDiHF, nG, TEvf, QRtRzWnVjVDoCor 12058 2022-11-01 SL
 Failed! 6 UL, J, bQ, YBBuqrDcUAv, MUYVwJYVZ, DczQUrvEQKXkgu 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1173-20 | Train: 22517 | Date: 2022-11-02 | sjo 1173/20 | jPdKJm 1173/21 | C 1173/22 | V 1173/23 | sehVRREWM 1173/24
-Successful | PNR: 22517-20221101-239-12 | Train: 22517 | Date: 2022-11-01 | zEtIssUiQ 239/12 | wrXkSaloTkuU 239/13 | JMT 239/14 | cPIrMvMIoqz 239/15
-Successful | PNR: 22517-20221101-239-16 | Train: 22517 | Date: 2022-11-01 | NySAwNEpVtb 239/16
+Failed! 5 sjo, jPdKJm, C, V, sehVRREWM 22517 2022-11-02 SL
+Failed! 4 zEtIssUiQ, wrXkSaloTkuU, JMT, cPIrMvMIoqz 22517 2022-11-01 AC
+Failed! 1 NySAwNEpVtb 22517 2022-11-01 AC
 Failed! 2 OMsYs, nLfbfgIbyO 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1185-16 | Train: 22517 | Date: 2022-11-01 | hczLukBXsB 1185/16
-Successful | PNR: 12058-20221101-244-14 | Train: 12058 | Date: 2022-11-01 | pYQxmxGmPGAe 244/14
-Successful | PNR: 22517-20221101-239-17 | Train: 22517 | Date: 2022-11-01 | MbXcdwSNeg 239/17 | DHSmBTrShHpcw 239/18 | XZKfFz 240/1 | uHm 240/2 | CT 240/3 | OQwfKmqJlfOuua 240/4
+Failed! 1 hczLukBXsB 22517 2022-11-01 SL
+Failed! 1 pYQxmxGmPGAe 12058 2022-11-01 AC
+Failed! 6 MbXcdwSNeg, DHSmBTrShHpcw, XZKfFz, uHm, CT, OQwfKmqJlfOuua 22517 2022-11-01 AC
 Failed! 5 tYoi, pK, jI, D, BWiMiFiS 04652 2022-11-01 AC
 Failed! 2 xG, Sr 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-240-5 | Train: 22517 | Date: 2022-11-01 | gc 240/5 | kJZuMMOKUKxebUQ 240/6 | gQoKFmGhTUxglpLg 240/7 | y 240/8 | hVHyyKopu 240/9 | HxJpzsOPdLbame 240/10
-Successful | PNR: 22517-20221102-238-12 | Train: 22517 | Date: 2022-11-02 | AHAzdTDdCfpvSZcH 238/12 | eOArcT 238/13
-Successful | PNR: 22517-20221101-1185-17 | Train: 22517 | Date: 2022-11-01 | duDMUVtFvcqh 1185/17 | m 1185/18 | SQyKsfRSEIFBoRNX 1185/19 | BjEzadlNOQHju 1185/20
-Successful | PNR: 22517-20221101-240-11 | Train: 22517 | Date: 2022-11-01 | epCnK 240/11 | iY 240/12 | WSFoLYIOujJ 240/13 | H 240/14
-Successful | PNR: 12058-20221101-1181-1 | Train: 12058 | Date: 2022-11-01 | rXq 1181/1 | SDAhIHea 1181/2 | LUlBPnwKEfA 1181/3
-Successful | PNR: 22517-20221101-240-15 | Train: 22517 | Date: 2022-11-01 | qZwNCmSzKL 240/15 | UTCDLnA 240/16 | thDLwZLT 240/17 | nOJHLlzQ 240/18 | iaeyUXTC 241/1 | Wo 241/2
-Successful | PNR: 22517-20221101-241-3 | Train: 22517 | Date: 2022-11-01 | sjazxydqTIP 241/3 | BqSsUYDyBPfFtR 241/4 | K 241/5 | kX 241/6 | BB 241/7 | TcFdzhzXTFNyWOxy 241/8
+Failed! 6 gc, kJZuMMOKUKxebUQ, gQoKFmGhTUxglpLg, y, hVHyyKopu, HxJpzsOPdLbame 22517 2022-11-01 AC
+Failed! 2 AHAzdTDdCfpvSZcH, eOArcT 22517 2022-11-02 AC
+Failed! 4 duDMUVtFvcqh, m, SQyKsfRSEIFBoRNX, BjEzadlNOQHju 22517 2022-11-01 SL
+Failed! 4 epCnK, iY, WSFoLYIOujJ, H 22517 2022-11-01 AC
+Failed! 3 rXq, SDAhIHea, LUlBPnwKEfA 12058 2022-11-01 SL
+Failed! 6 qZwNCmSzKL, UTCDLnA, thDLwZLT, nOJHLlzQ, iaeyUXTC, Wo 22517 2022-11-01 AC
+Failed! 6 sjazxydqTIP, BqSsUYDyBPfFtR, K, kX, BB, TcFdzhzXTFNyWOxy 22517 2022-11-01 AC
 Failed! 2 ClSQglTFYXoUUCDh, HODgotENSbsv 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1185-21 | Train: 22517 | Date: 2022-11-01 | HwxIBUCADrc 1185/21 | hurkd 1185/22 | RHXHCdXOVc 1185/23 | rHEagukTEtJ 1185/24 | LBtPk 1186/1
+Failed! 5 HwxIBUCADrc, hurkd, RHXHCdXOVc, rHEagukTEtJ, LBtPk 22517 2022-11-01 SL
 Failed! 4 ebtQTsJjuy, cEnHPHzdKM, pen, cPSMt 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-244-15 | Train: 12058 | Date: 2022-11-01 | z 244/15
-Successful | PNR: 12058-20221101-244-16 | Train: 12058 | Date: 2022-11-01 | hcl 244/16 | AenDFAI 244/17
-Successful | PNR: 12058-20221101-244-18 | Train: 12058 | Date: 2022-11-01 | WfZeS 244/18 | pQh 245/1 | OuNtrmKR 245/2
+Failed! 1 z 12058 2022-11-01 AC
+Failed! 2 hcl, AenDFAI 12058 2022-11-01 AC
+Failed! 3 WfZeS, pQh, OuNtrmKR 12058 2022-11-01 AC
 Failed! 1 kPHedfQclHgz 04652 2022-11-01 SL
 Failed! 4 VhA, gJyDWqoJw, Aw, VhFTNHDztUGWOoFK 04652 2022-11-02 SL
 Failed! 2 idARcZTbfRvJ, CsHvbVT 04652 2022-11-01 AC
 Failed! 1 FskN 04652 2022-11-01 SL
 Failed! 5 ZYeh, pT, uszUbhaLx, WfwbirMYv, EOlaiCtOT 04652 2022-11-01 SL
 Failed! 1 wLGe 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-1181-4 | Train: 12058 | Date: 2022-11-01 | nyDr 1181/4 | IMC 1181/5 | iodEQWjuSeWlZKA 1181/6
-Successful | PNR: 22517-20221102-238-14 | Train: 22517 | Date: 2022-11-02 | eo 238/14 | hWYCcq 238/15 | bSbO 238/16 | h 238/17 | hdRgh 238/18 | hCqUcwbtMmoo 239/1
-Successful | PNR: 12058-20221101-1181-7 | Train: 12058 | Date: 2022-11-01 | zhsxhDvdDsV 1181/7 | utr 1181/8 | EyFAmqKrgScodO 1181/9 | a 1181/10 | lQHRmcfcNXgLfk 1181/11
+Failed! 3 nyDr, IMC, iodEQWjuSeWlZKA 12058 2022-11-01 SL
+Failed! 6 eo, hWYCcq, bSbO, h, hdRgh, hCqUcwbtMmoo 22517 2022-11-02 AC
+Failed! 5 zhsxhDvdDsV, utr, EyFAmqKrgScodO, a, lQHRmcfcNXgLfk 12058 2022-11-01 SL
 Failed! 4 yMFn, LQS, NcKDomOnRVOfuC, Br 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-241-9 | Train: 22517 | Date: 2022-11-01 | uQPpchQBRtY 241/9
-Successful | PNR: 12058-20221101-1181-12 | Train: 12058 | Date: 2022-11-01 | KjHokuRJTCs 1181/12
-Successful | PNR: 22517-20221102-1174-7 | Train: 22517 | Date: 2022-11-02 | V 1174/7
-Successful | PNR: 22517-20221102-239-11 | Train: 22517 | Date: 2022-11-02 | Ztyw 239/11 | HAWRfXiMH 239/12 | hADipA 239/13 | zJKf 239/14 | UHmLwMtHBXozm 239/15
-Successful | PNR: 12058-20221101-245-8 | Train: 12058 | Date: 2022-11-01 | vtvle 245/8 | GSpzDWbdHBi 245/9 | RdTH 245/10
-Successful | PNR: 12058-20221101-245-11 | Train: 12058 | Date: 2022-11-01 | VSUZnCndRr 245/11 | FtRrZpE 245/12
+Failed! 1 uQPpchQBRtY 22517 2022-11-01 AC
+Failed! 1 KjHokuRJTCs 12058 2022-11-01 SL
+Failed! 1 V 22517 2022-11-02 SL
+Failed! 5 Ztyw, HAWRfXiMH, hADipA, zJKf, UHmLwMtHBXozm 22517 2022-11-02 AC
+Failed! 3 vtvle, GSpzDWbdHBi, RdTH 12058 2022-11-01 AC
+Failed! 2 VSUZnCndRr, FtRrZpE 12058 2022-11-01 AC
 Failed! 5 J, l, Gjav, yoIDxCz, NJhWSFTkYdkRt 04652 2022-11-01 AC
 Failed! 5 ATVDCIOcccO, FuXSBnrlABXVt, GZ, rgxvhwb, jo 04652 2022-11-02 AC
 Failed! 4 zlSWg, SYOCUkMyNfAG, gTBwEPUJxg, kEfexeFmlLjNts 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-1181-13 | Train: 12058 | Date: 2022-11-01 | aYVziO 1181/13 | ixUyvlgd 1181/14 | OluIhRgKLlpkA 1181/15 | dQGN 1181/16 | LkasLzkRCN 1181/17
-Successful | PNR: 22517-20221102-239-16 | Train: 22517 | Date: 2022-11-02 | pUG 239/16 | vJEDaLHamG 239/17 | h 239/18 | gkgst 240/1
+Failed! 5 aYVziO, ixUyvlgd, OluIhRgKLlpkA, dQGN, LkasLzkRCN 12058 2022-11-01 SL
+Failed! 4 pUG, vJEDaLHamG, h, gkgst 22517 2022-11-02 AC
 Failed! 3 ykJ, YCy, X 04652 2022-11-01 AC
 Failed! 3 PBBeoxK, h, AhMNQnH 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1174-9 | Train: 22517 | Date: 2022-11-02 | tZBe 1174/9 | WQHSTmyLMdgrBWvT 1174/10 | c 1174/11
+Failed! 3 tZBe, WQHSTmyLMdgrBWvT, c 22517 2022-11-02 SL
 Failed! 4 ltoDUmoQvEnYfzoB, xRoJQOLchWM, RgDDabsevgTfge, ITEozdOy 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-246-1 | Train: 12058 | Date: 2022-11-01 | vPPpAWg 246/1 | u 246/2 | xwwwDDinbT 246/3 | CxlYEBnpTSiGLaNj 246/4 | bL 246/5 | lYxcVVzOqvwANP 246/6
+Failed! 6 vPPpAWg, u, xwwwDDinbT, CxlYEBnpTSiGLaNj, bL, lYxcVVzOqvwANP 12058 2022-11-01 AC
 Failed! 5 JZGea, iQeFrxDzxbvzXPA, OcqMMbTRkzmnYq, PDWWWAqw, KrUNshrdBs 04652 2022-11-01 AC
 Failed! 6 qjxsodqbFbM, TkTsPntKEEsGc, WsGzdUrkl, tootKRQQDhJrmWP, TbouxFqlUU, YTftqrSmNU 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-246-7 | Train: 12058 | Date: 2022-11-01 | BWOxL 246/7
-Successful | PNR: 12058-20221101-1182-2 | Train: 12058 | Date: 2022-11-01 | DOkGpJLhBWmWMvdi 1182/2
+Failed! 1 BWOxL 12058 2022-11-01 AC
+Failed! 1 DOkGpJLhBWmWMvdi 12058 2022-11-01 SL
 Failed! 4 rI, PuURLxw, cZAjoNcYEcvk, NMsJeRf 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-240-2 | Train: 22517 | Date: 2022-11-02 | inaRzrRYnPF 240/2 | z 240/3 | jk 240/4 | lFqYZ 240/5
+Failed! 4 inaRzrRYnPF, z, jk, lFqYZ 22517 2022-11-02 AC
 Failed! 1 o 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1174-12 | Train: 22517 | Date: 2022-11-02 | dopdXLxYOTvH 1174/12 | AzDzXt 1174/13 | JDHBPuUqZWTalgNa 1174/14 | Me 1174/15
-Successful | PNR: 22517-20221101-241-16 | Train: 22517 | Date: 2022-11-01 | BXOG 241/16 | qaQkVnajkcn 241/17 | tjQwTeiknUji 241/18 | KKHScChuoP 242/1 | MC 242/2
+Failed! 4 dopdXLxYOTvH, AzDzXt, JDHBPuUqZWTalgNa, Me 22517 2022-11-02 SL
+Failed! 5 BXOG, qaQkVnajkcn, tjQwTeiknUji, KKHScChuoP, MC 22517 2022-11-01 AC
 Failed! 2 pQWbO, tElSBoNfdywahbp 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1174-22 | Train: 22517 | Date: 2022-11-02 | XgeXfrcZUTc 1174/22 | ccuMERnuWTy 1174/23 | MIUcyiEAhrKxi 1174/24
-Successful | PNR: 12058-20221101-246-15 | Train: 12058 | Date: 2022-11-01 | IJpHVxGHxoHq 246/15 | QTJZ 246/16 | DsMUo 246/17 | LFowacwGLkbo 246/18
+Failed! 3 XgeXfrcZUTc, ccuMERnuWTy, MIUcyiEAhrKxi 22517 2022-11-02 SL
+Failed! 4 IJpHVxGHxoHq, QTJZ, DsMUo, LFowacwGLkbo 12058 2022-11-01 AC
 Failed! 5 lAtPDGL, sGcaxb, UnLCwQwFzrjX, k, HLaGxeXJgDaOiZ 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1182-8 | Train: 12058 | Date: 2022-11-01 | DGIBGaDQ 1182/8 | ZxtJePujq 1182/9 | vOt 1182/10 | jeNUcIHWPi 1182/11 | W 1182/12 | eCYJFOusdJcm 1182/13
+Failed! 6 DGIBGaDQ, ZxtJePujq, vOt, jeNUcIHWPi, W, eCYJFOusdJcm 12058 2022-11-01 SL
 Failed! 6 DBhBec, iPnAVMKEI, wMNiQxScwnoAuHL, gONK, BeGOZpPYShvGl, WHJGGQV 04652 2022-11-02 AC
 Failed! 5 WltrgsNQtEg, FVNSKQ, XwpBd, PnQNkXt, Vc 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1175-5 | Train: 22517 | Date: 2022-11-02 | OjdJgHqJHJohQ 1175/5 | JJ 1175/6 | HJRusmNMTsaEj 1175/7 | gJK 1175/8 | cFWgCQfQlQQJOkX 1175/9 | YsMOlLUYZ 1175/10
+Failed! 6 OjdJgHqJHJohQ, JJ, HJRusmNMTsaEj, gJK, cFWgCQfQlQQJOkX, YsMOlLUYZ 22517 2022-11-02 SL
 Failed! 5 iLNjywGAOeFvn, PRFtiZwhFgnhNOkE, iXl, rIdZ, AbgHf 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-1186-10 | Train: 22517 | Date: 2022-11-01 | gEKZbnTZXEOU 1186/10 | REELIaKfuKVzKD 1186/11 | RaCvnJvyu 1186/12 | wzKXSgJSynWfNFcN 1186/13 | of 1186/14
-Successful | PNR: 12058-20221101-1182-14 | Train: 12058 | Date: 2022-11-01 | pX 1182/14 | QAQQivpMub 1182/15 | QBPKkviXjFHlABU 1182/16 | sD 1182/17 | UnJCoiByBSn 1182/18 | DQrAQlPKR 1182/19
-Successful | PNR: 22517-20221101-242-9 | Train: 22517 | Date: 2022-11-01 | ViHoJTsiacZFNuW 242/9 | PEo 242/10 | XWcDlklWontQn 242/11 | QCWAGTH 242/12 | y 242/13
+Failed! 5 gEKZbnTZXEOU, REELIaKfuKVzKD, RaCvnJvyu, wzKXSgJSynWfNFcN, of 22517 2022-11-01 SL
+Failed! 6 pX, QAQQivpMub, QBPKkviXjFHlABU, sD, UnJCoiByBSn, DQrAQlPKR 12058 2022-11-01 SL
+Failed! 5 ViHoJTsiacZFNuW, PEo, XWcDlklWontQn, QCWAGTH, y 22517 2022-11-01 AC
 Failed! 2 jQUjsx, myET 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1182-20 | Train: 12058 | Date: 2022-11-01 | RMZPbG 1182/20
-Successful | PNR: 22517-20221101-242-14 | Train: 22517 | Date: 2022-11-01 | QOgUgiBp 242/14 | AgNvjEeGYXUsilfh 242/15 | UgTCQ 242/16
-Successful | PNR: 22517-20221101-242-17 | Train: 22517 | Date: 2022-11-01 | WsvwU 242/17 | FdtteRxyTxvoPv 242/18 | NOyTINhiWhOAW 243/1 | IHAZZAFNkWzmVv 243/2 | mHWMEqvk 243/3 | xHvtTb 243/4
-Successful | PNR: 22517-20221102-240-12 | Train: 22517 | Date: 2022-11-02 | LGuhlyikC 240/12 | CgTVKXnq 240/13 | SF 240/14 | uaOOYx 240/15 | jkfNDcmCpauyFn 240/16
-Successful | PNR: 12058-20221101-247-8 | Train: 12058 | Date: 2022-11-01 | UK 247/8 | lvs 247/9 | ZthfavwycU 247/10 | KV 247/11
+Failed! 1 RMZPbG 12058 2022-11-01 SL
+Failed! 3 QOgUgiBp, AgNvjEeGYXUsilfh, UgTCQ 22517 2022-11-01 AC
+Failed! 6 WsvwU, FdtteRxyTxvoPv, NOyTINhiWhOAW, IHAZZAFNkWzmVv, mHWMEqvk, xHvtTb 22517 2022-11-01 AC
+Failed! 5 LGuhlyikC, CgTVKXnq, SF, uaOOYx, jkfNDcmCpauyFn 22517 2022-11-02 AC
+Failed! 4 UK, lvs, ZthfavwycU, KV 12058 2022-11-01 AC
 Failed! 2 GJ, DElsOQYt 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-247-12 | Train: 12058 | Date: 2022-11-01 | zYRZtsAhWE 247/12 | tNAtFUeIz 247/13 | LgKdC 247/14 | UXOytO 247/15
-Successful | PNR: 22517-20221102-1176-7 | Train: 22517 | Date: 2022-11-02 | QpdBJaWD 1176/7 | WF 1176/8 | N 1176/9 | jYgddyaKPWdbqE 1176/10 | msMksFZp 1176/11 | ZNOweoFYz 1176/12
+Failed! 4 zYRZtsAhWE, tNAtFUeIz, LgKdC, UXOytO 12058 2022-11-01 AC
+Failed! 6 QpdBJaWD, WF, N, jYgddyaKPWdbqE, msMksFZp, ZNOweoFYz 22517 2022-11-02 SL
 Failed! 1 A 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-243-5 | Train: 22517 | Date: 2022-11-01 | K 243/5 | nnArMDVVG 243/6 | rP 243/7
+Failed! 3 K, nnArMDVVG, rP 22517 2022-11-01 AC
 Failed! 4 EdKdUn, kmhjGW, hPFdmkdhGbX, UkNcBCCo 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1186-17 | Train: 22517 | Date: 2022-11-01 | HdZ 1186/17 | tJOVhuxFS 1186/18 | wgaHhPriy 1186/19
-Successful | PNR: 22517-20221102-1176-13 | Train: 22517 | Date: 2022-11-02 | LQxiljKfHqhKLe 1176/13 | TY 1176/14 | YDf 1176/15
-Successful | PNR: 22517-20221101-1186-20 | Train: 22517 | Date: 2022-11-01 | osnlnZxu 1186/20 | p 1186/21 | ANojH 1186/22 | t 1186/23 | GRo 1186/24
+Failed! 3 HdZ, tJOVhuxFS, wgaHhPriy 22517 2022-11-01 SL
+Failed! 3 LQxiljKfHqhKLe, TY, YDf 22517 2022-11-02 SL
+Failed! 5 osnlnZxu, p, ANojH, t, GRo 22517 2022-11-01 SL
 Failed! 3 ANqTnarbxAtaNNgv, QFF, hrwXKGVTD 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1176-16 | Train: 22517 | Date: 2022-11-02 | uAgFDBXFhhDiTEL 1176/16 | BnjFbJYSsTlaYSeO 1176/17 | cz 1176/18 | yCmIMWz 1176/19
-Successful | PNR: 22517-20221101-1187-3 | Train: 22517 | Date: 2022-11-01 | sRVteqkkrOhm 1187/3
+Failed! 4 uAgFDBXFhhDiTEL, BnjFbJYSsTlaYSeO, cz, yCmIMWz 22517 2022-11-02 SL
+Failed! 1 sRVteqkkrOhm 22517 2022-11-01 SL
 Failed! 1 hvQt 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1183-12 | Train: 12058 | Date: 2022-11-01 | YQQQU 1183/12 | wVZmKvWdtX 1183/13 | UmmvwvnPC 1183/14 | upggO 1183/15
+Failed! 4 YQQQU, wVZmKvWdtX, UmmvwvnPC, upggO 12058 2022-11-01 SL
 Failed! 3 mNWtabL, awkHhldNmDL, FqQCDkQNg 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-240-17 | Train: 22517 | Date: 2022-11-02 | IXhv 240/17 | jOuYgkQAkgTtZHOe 240/18 | HW 241/1
-Successful | PNR: 12058-20221101-1183-16 | Train: 12058 | Date: 2022-11-01 | IasMPXMf 1183/16 | Y 1183/17 | Wws 1183/18
+Failed! 3 IXhv, jOuYgkQAkgTtZHOe, HW 22517 2022-11-02 AC
+Failed! 3 IasMPXMf, Y, Wws 12058 2022-11-01 SL
 Failed! 1 OQKwuzvw 04652 2022-11-01 AC
 Failed! 6 YLWnfrNuh, IraKB, MQrovTbPMZdgl, pFCinDROgaevE, fLB, vVu 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-248-8 | Train: 12058 | Date: 2022-11-01 | AImtFod 248/8 | pvrMzrpJRIf 248/9 | LLtTJggzqBH 248/10
+Failed! 3 AImtFod, pvrMzrpJRIf, LLtTJggzqBH 12058 2022-11-01 AC
 Failed! 1 OKtaJwZAmLuSuyF 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-243-18 | Train: 22517 | Date: 2022-11-01 | hUoGXaninxi 243/18 | uipXUpfBnTQK 244/1 | tVbfgulLlllWjtIY 244/2 | gGGZsFsgdJTvcNg 244/3
+Failed! 4 hUoGXaninxi, uipXUpfBnTQK, tVbfgulLlllWjtIY, gGGZsFsgdJTvcNg 22517 2022-11-01 AC
 Failed! 1 aaXeyzbmRACji 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-248-12 | Train: 12058 | Date: 2022-11-01 | ptgHcPZunRuJ 248/12 | lGXc 248/13 | KYirH 248/14 | rfZ 248/15 | waUABEVFRivClt 248/16 | ciVs 248/17
-Successful | PNR: 22517-20221101-244-4 | Train: 22517 | Date: 2022-11-01 | j 244/4 | PWNJVWYJKDkdkRCj 244/5 | tscjRTFSUYMOMIn 244/6
+Failed! 6 ptgHcPZunRuJ, lGXc, KYirH, rfZ, waUABEVFRivClt, ciVs 12058 2022-11-01 AC
+Failed! 3 j, PWNJVWYJKDkdkRCj, tscjRTFSUYMOMIn 22517 2022-11-01 AC
 Failed! 2 isCqGJItE, GEPuwRMQofVuz 04652 2022-11-02 SL
 Failed! 4 HPnalbnObCgCBDVe, NNLTJcQhLyoMqwN, rDWvWbPcQzz, MGoEQddNyPm 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1187-10 | Train: 22517 | Date: 2022-11-01 | QjcWZeRVTehjfaQ 1187/10 | bSgQCws 1187/11 | GxN 1187/12
+Failed! 3 QjcWZeRVTehjfaQ, bSgQCws, GxN 22517 2022-11-01 SL
 Failed! 2 jiReKy, rRkXTyLL 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1187-13 | Train: 22517 | Date: 2022-11-01 | mCrDzBgNUIuPEt 1187/13 | njqDRoVtSX 1187/14 | j 1187/15
-Successful | PNR: 12058-20221101-1184-4 | Train: 12058 | Date: 2022-11-01 | HWNNvsqoPEzKo 1184/4
-Successful | PNR: 22517-20221102-1177-3 | Train: 22517 | Date: 2022-11-02 | iVbv 1177/3 | tCCkjoZUBYReQX 1177/4
-Successful | PNR: 22517-20221102-1177-5 | Train: 22517 | Date: 2022-11-02 | eCw 1177/5 | ZLhOyMBJIbyAcLQ 1177/6 | NYEUnzcqliMc 1177/7 | qEMr 1177/8 | ETUjVTxCz 1177/9
+Failed! 3 mCrDzBgNUIuPEt, njqDRoVtSX, j 22517 2022-11-01 SL
+Failed! 1 HWNNvsqoPEzKo 12058 2022-11-01 SL
+Failed! 2 iVbv, tCCkjoZUBYReQX 22517 2022-11-02 SL
+Failed! 5 eCw, ZLhOyMBJIbyAcLQ, NYEUnzcqliMc, qEMr, ETUjVTxCz 22517 2022-11-02 SL
 Failed! 3 rFVJtrsF, nyRr, nt 04652 2022-11-02 AC
 Failed! 1 GlmuMNUAtcxUEP 04652 2022-11-02 AC
 Failed! 3 fHFDDXWbfkjTf, jmJsQXnqhWcQXXI, LnEGAPaym 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-244-15 | Train: 22517 | Date: 2022-11-01 | YnvuDPFFRgZamf 244/15
-Successful | PNR: 12058-20221101-249-10 | Train: 12058 | Date: 2022-11-01 | MVEfovE 249/10 | uJXKVXZXwZYI 249/11 | AXYb 249/12
-Successful | PNR: 22517-20221101-1187-20 | Train: 22517 | Date: 2022-11-01 | ecyejIctrQXfVB 1187/20
-Successful | PNR: 22517-20221102-1177-22 | Train: 22517 | Date: 2022-11-02 | DRUMYQnLkllO 1177/22 | ijQTvxdtWAghHqXI 1177/23
+Failed! 1 YnvuDPFFRgZamf 22517 2022-11-01 AC
+Failed! 3 MVEfovE, uJXKVXZXwZYI, AXYb 12058 2022-11-01 AC
+Failed! 1 ecyejIctrQXfVB 22517 2022-11-01 SL
+Failed! 2 DRUMYQnLkllO, ijQTvxdtWAghHqXI 22517 2022-11-02 SL
 Failed! 1 uitQHHXcRfLjqyOl 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1187-21 | Train: 22517 | Date: 2022-11-01 | IHrihInTuym 1187/21 | DJYtzoQKl 1187/22 | HKLejX 1187/23 | CBMFsQszod 1187/24
+Failed! 4 IHrihInTuym, DJYtzoQKl, HKLejX, CBMFsQszod 22517 2022-11-01 SL
 Failed! 2 Q, LhwVcEFL 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-249-14 | Train: 12058 | Date: 2022-11-01 | Fk 249/14 | GrSOCzFc 249/15
-Successful | PNR: 12058-20221101-1184-5 | Train: 12058 | Date: 2022-11-01 | NWxyw 1184/5 | qfqNJYHlqhlK 1184/6 | icL 1184/7
+Failed! 2 Fk, GrSOCzFc 12058 2022-11-01 AC
+Failed! 3 NWxyw, qfqNJYHlqhlK, icL 12058 2022-11-01 SL
 Failed! 2 VWm, MrYLfCC 04652 2022-11-01 AC
 Failed! 6 e, IaTzZ, AhpyC, lrxYNsgPuO, XFnwXItyVldkk, RIuSpNP 04652 2022-11-01 AC
 Failed! 6 MZvpLPYK, VJk, Fpetp, PLGyDe, dUTIt, BdjpDvpVQvYVZGUn 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-244-16 | Train: 22517 | Date: 2022-11-01 | iBUwvvOVmHv 244/16 | sNDJrSbaZ 244/17
-Successful | PNR: 12058-20221101-1184-8 | Train: 12058 | Date: 2022-11-01 | EEaFnAdsO 1184/8 | xPST 1184/9 | FHgqDwsRpSJ 1184/10 | QSbiU 1184/11
-Successful | PNR: 12058-20221101-249-16 | Train: 12058 | Date: 2022-11-01 | kuEaFUPpFQvud 249/16
+Failed! 2 iBUwvvOVmHv, sNDJrSbaZ 22517 2022-11-01 AC
+Failed! 4 EEaFnAdsO, xPST, FHgqDwsRpSJ, QSbiU 12058 2022-11-01 SL
+Failed! 1 kuEaFUPpFQvud 12058 2022-11-01 AC
 Failed! 2 oN, RGGS 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1188-5 | Train: 22517 | Date: 2022-11-01 | dZJfl 1188/5 | pTPBGuH 1188/6 | czVldhVtCQrZtHr 1188/7 | icCgrDWdJcOy 1188/8 | ZiNKhkKTMNCJp 1188/9 | pDcpx 1188/10
-Successful | PNR: 22517-20221102-242-1 | Train: 22517 | Date: 2022-11-02 | DdhhdnOeKL 242/1 | ScVQdNosGPlsAoD 242/2
-Successful | PNR: 12058-20221101-1184-18 | Train: 12058 | Date: 2022-11-01 | FNk 1184/18 | hlEIt 1184/19 | SdF 1184/20
-Successful | PNR: 12058-20221101-1184-21 | Train: 12058 | Date: 2022-11-01 | OqlwrGjKopawt 1184/21 | ybrdCC 1184/22 | cMAfrekscm 1184/23 | jFZVGfxdzKVnl 1184/24
+Failed! 6 dZJfl, pTPBGuH, czVldhVtCQrZtHr, icCgrDWdJcOy, ZiNKhkKTMNCJp, pDcpx 22517 2022-11-01 SL
+Failed! 2 DdhhdnOeKL, ScVQdNosGPlsAoD 22517 2022-11-02 AC
+Failed! 3 FNk, hlEIt, SdF 12058 2022-11-01 SL
+Failed! 4 OqlwrGjKopawt, ybrdCC, cMAfrekscm, jFZVGfxdzKVnl 12058 2022-11-01 SL
 Failed! 2 sIy, cjEUUaPYfRSiVi 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1177-24 | Train: 22517 | Date: 2022-11-02 | rQK 1177/24 | aG 1178/1 | xr 1178/2
-Successful | PNR: 12058-20221101-249-17 | Train: 12058 | Date: 2022-11-01 | DUvzH 249/17
+Failed! 3 rQK, aG, xr 22517 2022-11-02 SL
+Failed! 1 DUvzH 12058 2022-11-01 AC
 Failed! 2 wv, YxWVuECpjEgU 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1178-3 | Train: 22517 | Date: 2022-11-02 | BmAhHhdvjNE 1178/3 | mDKI 1178/4 | IktjLF 1178/5 | hSQtYLjJGYJltRf 1178/6
+Failed! 4 BmAhHhdvjNE, mDKI, IktjLF, hSQtYLjJGYJltRf 22517 2022-11-02 SL
 Failed! 6 vJMEnIXpBengjUsh, Jmx, YBBpYFakSEVUGs, azqsxlJlGkl, yecuVPlL, QUzlyPN 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-245-3 | Train: 22517 | Date: 2022-11-01 | EyIbFovc 245/3 | hQWkIfJkjCFbJqY 245/4 | sLjJDyxTNUsfJy 245/5 | JYDqRAprnxHhgt 245/6 | ajvGdo 245/7
-Successful | PNR: 22517-20221102-242-15 | Train: 22517 | Date: 2022-11-02 | FkuTOKzhKCwqVhgo 242/15 | fQdiTphPcqrhG 242/16 | pVWB 242/17 | rZxiM 242/18
+Failed! 5 EyIbFovc, hQWkIfJkjCFbJqY, sLjJDyxTNUsfJy, JYDqRAprnxHhgt, ajvGdo 22517 2022-11-01 AC
+Failed! 4 FkuTOKzhKCwqVhgo, fQdiTphPcqrhG, pVWB, rZxiM 22517 2022-11-02 AC
 Failed! 3 FzWprgbqKAIzBI, sjpPJvqSwyBe, Ydcy 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1185-7 | Train: 12058 | Date: 2022-11-01 | aZtblaqk 1185/7 | BjwkarwSNoarq 1185/8 | qEusjoWkqggigK 1185/9 | CAcbiyfliStqaY 1185/10 | j 1185/11
-Successful | PNR: 12058-20221101-250-9 | Train: 12058 | Date: 2022-11-01 | RltczVf 250/9 | E 250/10 | M 250/11 | qeXtPUgPpsoP 250/12 | sNI 250/13 | qNuFqQxYc 250/14
+Failed! 5 aZtblaqk, BjwkarwSNoarq, qEusjoWkqggigK, CAcbiyfliStqaY, j 12058 2022-11-01 SL
+Failed! 6 RltczVf, E, M, qeXtPUgPpsoP, sNI, qNuFqQxYc 12058 2022-11-01 AC
 Failed! 5 kdsTUXTnk, UjfudnUts, cxEujPVjaVGIJK, RwXJmphmtRwc, zjGdNMXSb 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1188-14 | Train: 22517 | Date: 2022-11-01 | Cu 1188/14 | jbxiivuABMAx 1188/15 | CLMu 1188/16
-Successful | PNR: 22517-20221102-1178-14 | Train: 22517 | Date: 2022-11-02 | gZuzPMDSpDCdYO 1178/14 | AuWNLFTaFlTwWbsi 1178/15 | eM 1178/16 | lhzpGniCDeUTtiYu 1178/17 | SJCWrOhDGJjX 1178/18
-Successful | PNR: 22517-20221102-1178-19 | Train: 22517 | Date: 2022-11-02 | cmei 1178/19 | Pf 1178/20 | jtkCNDOWRcOEG 1178/21
+Failed! 3 Cu, jbxiivuABMAx, CLMu 22517 2022-11-01 SL
+Failed! 5 gZuzPMDSpDCdYO, AuWNLFTaFlTwWbsi, eM, lhzpGniCDeUTtiYu, SJCWrOhDGJjX 22517 2022-11-02 SL
+Failed! 3 cmei, Pf, jtkCNDOWRcOEG 22517 2022-11-02 SL
 Failed! 2 gDjBnenvPUa, LTHQeddidoVjPj 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1185-16 | Train: 12058 | Date: 2022-11-01 | kSyLKSFjxkZBRr 1185/16 | yZnOGnNWPhiSNsO 1185/17 | lJSNvRHG 1185/18 | wssLZH 1185/19 | LBVmqYaFbMnPWXIE 1185/20 | FbOWbKZKhaCjj 1185/21
-Successful | PNR: 22517-20221101-1188-17 | Train: 22517 | Date: 2022-11-01 | AHxcZKxKTdjdnf 1188/17 | odhxHMzfGY 1188/18 | ZSbmseTCJhlYJdYL 1188/19 | tDoSdBItGfTGRvL 1188/20 | JAtUPDmbMGn 1188/21 | Z 1188/22
+Failed! 6 kSyLKSFjxkZBRr, yZnOGnNWPhiSNsO, lJSNvRHG, wssLZH, LBVmqYaFbMnPWXIE, FbOWbKZKhaCjj 12058 2022-11-01 SL
+Failed! 6 AHxcZKxKTdjdnf, odhxHMzfGY, ZSbmseTCJhlYJdYL, tDoSdBItGfTGRvL, JAtUPDmbMGn, Z 22517 2022-11-01 SL
 Failed! 5 EgCYVvJ, EsCEYIrmBVO, OYWDHBVb, KRiEUmxJtrRhras, XFeQmMgIWW 04652 2022-11-01 AC
 Failed! 4 yjvPVfAcEgS, nrnsnIHEJcQtfY, IxTU, ZYDACUMpR 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-251-8 | Train: 12058 | Date: 2022-11-01 | PUyMIPSgfj 251/8 | LglXWQs 251/9 | eXyVFqHgKqKsnIn 251/10 | siul 251/11 | TQqEPZQjp 251/12 | jnAK 251/13
+Failed! 6 PUyMIPSgfj, LglXWQs, eXyVFqHgKqKsnIn, siul, TQqEPZQjp, jnAK 12058 2022-11-01 AC
 Failed! 2 KMuUMrjlBW, gNKC 04652 2022-11-02 SL
 Failed! 1 Sx 04652 2022-11-01 AC
 Failed! 1 w 04652 2022-11-02 AC
@@ -416,531 +416,531 @@ Failed! 5 IFPKkhWQF, fdSb, kDdpwDgCMU, AYkzXw, vQvthGZx 04652 2022-11-02 SL
 Failed! 6 XfeOduOz, PqpbMmgzv, mUnMSv, J, YBMLcYyVvAle, TVNBfBhgSualwb 04652 2022-11-02 SL
 Failed! 1 Z 04652 2022-11-02 AC
 Failed! 2 uFMUxuvJLoWW, oGIWdQ 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-251-14 | Train: 12058 | Date: 2022-11-01 | EdvUgn 251/14 | ijbMrSwB 251/15 | jVXX 251/16 | d 251/17 | TZ 251/18
+Failed! 5 EdvUgn, ijbMrSwB, jVXX, d, TZ 12058 2022-11-01 AC
 Failed! 1 ydZliIm 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1189-10 | Train: 22517 | Date: 2022-11-01 | lmkuWdSN 1189/10 | ByjtMEMj 1189/11
+Failed! 2 lmkuWdSN, ByjtMEMj 22517 2022-11-01 SL
 Failed! 6 hULlQwaJGZPLft, SUjs, YHlsd, YIdVcpGwEJLxOF, szTdeZfzBB, sW 04652 2022-11-01 SL
 Failed! 5 JylAgFQ, sA, EtweeBACgZOQQ, uEOhSI, skygYom 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1189-12 | Train: 22517 | Date: 2022-11-01 | eBuuCXROyoYxYMv 1189/12
-Successful | PNR: 22517-20221101-1189-13 | Train: 22517 | Date: 2022-11-01 | ylMZEup 1189/13 | INqhVOqUHrrqba 1189/14
-Successful | PNR: 22517-20221101-246-3 | Train: 22517 | Date: 2022-11-01 | RqScacsdtTJFFG 246/3 | qDZKigmEBFpNR 246/4 | xYnThwRuohcqLecD 246/5 | rJAAhHmneaVQnIdU 246/6 | ieSrTtEzifFASjOc 246/7
-Successful | PNR: 22517-20221101-1189-15 | Train: 22517 | Date: 2022-11-01 | ZnyW 1189/15 | YtWpoTqF 1189/16 | VesDUB 1189/17 | exxRZRXFjJhi 1189/18
-Successful | PNR: 12058-20221101-252-8 | Train: 12058 | Date: 2022-11-01 | OKSSdETab 252/8 | wEQIxHKY 252/9 | UQNcc 252/10
-Successful | PNR: 22517-20221102-243-10 | Train: 22517 | Date: 2022-11-02 | mgRrHaP 243/10
+Failed! 1 eBuuCXROyoYxYMv 22517 2022-11-01 SL
+Failed! 2 ylMZEup, INqhVOqUHrrqba 22517 2022-11-01 SL
+Failed! 5 RqScacsdtTJFFG, qDZKigmEBFpNR, xYnThwRuohcqLecD, rJAAhHmneaVQnIdU, ieSrTtEzifFASjOc 22517 2022-11-01 AC
+Failed! 4 ZnyW, YtWpoTqF, VesDUB, exxRZRXFjJhi 22517 2022-11-01 SL
+Failed! 3 OKSSdETab, wEQIxHKY, UQNcc 12058 2022-11-01 AC
+Failed! 1 mgRrHaP 22517 2022-11-02 AC
 Failed! 4 nr, woDUi, luInf, PGjbaRHMr 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1185-23 | Train: 12058 | Date: 2022-11-01 | lpAwCIQbyXShruiA 1185/23 | OACowpmVnslPVPEn 1185/24 | GGSzHOrkqJTuvz 1186/1 | zVojBU 1186/2 | ysrvIHMxI 1186/3
+Failed! 5 lpAwCIQbyXShruiA, OACowpmVnslPVPEn, GGSzHOrkqJTuvz, zVojBU, ysrvIHMxI 12058 2022-11-01 SL
 Failed! 1 Clb 04652 2022-11-02 SL
 Failed! 5 JCFaM, EfraDwT, SvLEMOV, MTNkAHGSe, I 04652 2022-11-02 AC
 Failed! 3 TlzBJ, boUDD, tmCXMrzJmCoDIOD 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1186-4 | Train: 12058 | Date: 2022-11-01 | mLYILAOTOJI 1186/4 | Atie 1186/5 | qy 1186/6
+Failed! 3 mLYILAOTOJI, Atie, qy 12058 2022-11-01 SL
 Failed! 2 QWGEGTDOu, cffGQC 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1189-21 | Train: 22517 | Date: 2022-11-01 | fAV 1189/21 | jAcVODgsqjjZsjwq 1189/22 | CGsWMMAr 1189/23 | PcZLWXAKegi 1189/24 | HPyhjiTrgTR 1190/1 | tumit 1190/2
+Failed! 6 fAV, jAcVODgsqjjZsjwq, CGsWMMAr, PcZLWXAKegi, HPyhjiTrgTR, tumit 22517 2022-11-01 SL
 Failed! 3 WKJRliQ, SyQkGWtSnpQd, AzJtU 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1179-8 | Train: 22517 | Date: 2022-11-02 | SSt 1179/8 | XVCWGFCwxa 1179/9 | QRkhLdjWGTgO 1179/10
-Successful | PNR: 22517-20221102-1179-11 | Train: 22517 | Date: 2022-11-02 | TPNWgXHj 1179/11 | WyxtT 1179/12 | ThnKl 1179/13 | uSgsKlBZfOXIZO 1179/14 | Rrs 1179/15
-Successful | PNR: 22517-20221101-1190-3 | Train: 22517 | Date: 2022-11-01 | rLbyOM 1190/3
-Successful | PNR: 22517-20221102-243-12 | Train: 22517 | Date: 2022-11-02 | gYDIxG 243/12 | vhQ 243/13 | kHREXkJbj 243/14 | BdUTP 243/15 | qWHpTw 243/16 | YNne 243/17
-Successful | PNR: 12058-20221101-252-17 | Train: 12058 | Date: 2022-11-01 | IqnxctqcWzCAX 252/17 | FtFDTJOkGmKsUWPI 252/18
-Successful | PNR: 22517-20221102-243-18 | Train: 22517 | Date: 2022-11-02 | ejvaa 243/18 | lppwbGdGFCwM 244/1 | qWRIQqtGlPRNJ 244/2 | PZDfugyRlm 244/3 | c 244/4 | QLUni 244/5
+Failed! 3 SSt, XVCWGFCwxa, QRkhLdjWGTgO 22517 2022-11-02 SL
+Failed! 5 TPNWgXHj, WyxtT, ThnKl, uSgsKlBZfOXIZO, Rrs 22517 2022-11-02 SL
+Failed! 1 rLbyOM 22517 2022-11-01 SL
+Failed! 6 gYDIxG, vhQ, kHREXkJbj, BdUTP, qWHpTw, YNne 22517 2022-11-02 AC
+Failed! 2 IqnxctqcWzCAX, FtFDTJOkGmKsUWPI 12058 2022-11-01 AC
+Failed! 6 ejvaa, lppwbGdGFCwM, qWRIQqtGlPRNJ, PZDfugyRlm, c, QLUni 22517 2022-11-02 AC
 Failed! 5 PBzYDdIacrJaEf, rvWtegJnH, DpEw, KuX, rQxHopikOj 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-246-13 | Train: 22517 | Date: 2022-11-01 | DoZGSHZogqq 246/13 | Q 246/14 | xKwA 246/15
-Successful | PNR: 12058-20221101-253-1 | Train: 12058 | Date: 2022-11-01 | SmRKIHTBdFD 253/1
-Successful | PNR: 12058-20221101-253-2 | Train: 12058 | Date: 2022-11-01 | souIRVL 253/2 | pUnf 253/3 | apdTgyszaVKmS 253/4
-Successful | PNR: 12058-20221101-253-5 | Train: 12058 | Date: 2022-11-01 | jTC 253/5 | MqstjFBMzYdrdwe 253/6
-Successful | PNR: 22517-20221101-1190-4 | Train: 22517 | Date: 2022-11-01 | sULIL 1190/4 | hjGfKbABdOFXP 1190/5
-Successful | PNR: 22517-20221101-1190-9 | Train: 22517 | Date: 2022-11-01 | CyIg 1190/9 | mUd 1190/10
+Failed! 3 DoZGSHZogqq, Q, xKwA 22517 2022-11-01 AC
+Failed! 1 SmRKIHTBdFD 12058 2022-11-01 AC
+Failed! 3 souIRVL, pUnf, apdTgyszaVKmS 12058 2022-11-01 AC
+Failed! 2 jTC, MqstjFBMzYdrdwe 12058 2022-11-01 AC
+Failed! 2 sULIL, hjGfKbABdOFXP 22517 2022-11-01 SL
+Failed! 2 CyIg, mUd 22517 2022-11-01 SL
 Failed! 3 qfyaEuBnbFGHQvo, HLMWjmfbg, tjMDAqdDoeoY 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-1186-23 | Train: 12058 | Date: 2022-11-01 | Xz 1186/23 | smT 1186/24
-Successful | PNR: 22517-20221102-1179-19 | Train: 22517 | Date: 2022-11-02 | awwZnEldym 1179/19 | ktgGod 1179/20
-Successful | PNR: 22517-20221101-1190-14 | Train: 22517 | Date: 2022-11-01 | RtFkdWIxY 1190/14 | bk 1190/15 | OcKLDFDfmQf 1190/16 | ObV 1190/17 | jn 1190/18
-Successful | PNR: 22517-20221102-244-10 | Train: 22517 | Date: 2022-11-02 | dtfIaNxzoDL 244/10 | ohsACGAOB 244/11 | zitXBLOTPc 244/12
-Successful | PNR: 12058-20221101-1187-1 | Train: 12058 | Date: 2022-11-01 | FXHwjILXs 1187/1 | kzlfJIzINT 1187/2 | b 1187/3 | sOIXYkSWIbZ 1187/4 | FR 1187/5
-Successful | PNR: 22517-20221101-1190-19 | Train: 22517 | Date: 2022-11-01 | iSkzubJMsbPt 1190/19 | bjfXJrhvrvc 1190/20 | cKoCqJhNxCKexhVu 1190/21 | AGv 1190/22 | vYMMrRqGSP 1190/23 | TASqemE 1190/24
+Failed! 2 Xz, smT 12058 2022-11-01 SL
+Failed! 2 awwZnEldym, ktgGod 22517 2022-11-02 SL
+Failed! 5 RtFkdWIxY, bk, OcKLDFDfmQf, ObV, jn 22517 2022-11-01 SL
+Failed! 3 dtfIaNxzoDL, ohsACGAOB, zitXBLOTPc 22517 2022-11-02 AC
+Failed! 5 FXHwjILXs, kzlfJIzINT, b, sOIXYkSWIbZ, FR 12058 2022-11-01 SL
+Failed! 6 iSkzubJMsbPt, bjfXJrhvrvc, cKoCqJhNxCKexhVu, AGv, vYMMrRqGSP, TASqemE 22517 2022-11-01 SL
 Failed! 5 lqEXliZkUdYmOZ, telatUgVLhPaO, nAmMcFxHI, eeYqwytAJwvTusz, DqqUoWnlsKnRZ 04652 2022-11-01 SL
 Failed! 5 xpDiEWMfaOawyP, sefLOkrJ, KIi, MZVBYvuYeK, QAireE 04652 2022-11-01 SL
 Failed! 1 vSm 04652 2022-11-02 SL
 Failed! 6 GBdtJIVvQzizd, EQzGqW, MQmNvcWlyIfVVCSE, Rg, tCPHhNPpitTk, XUxLf 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-1187-6 | Train: 12058 | Date: 2022-11-01 | zJCIusg 1187/6 | mBCIAaptZ 1187/7 | GErElhMxrPxZ 1187/8 | XdDhfufehpYTH 1187/9
+Failed! 4 zJCIusg, mBCIAaptZ, GErElhMxrPxZ, XdDhfufehpYTH 12058 2022-11-01 SL
 Failed! 3 Hyqmn, dOoR, glJrHuwYQbYrP 04652 2022-11-02 AC
 Failed! 3 PQOIxfaTCYCA, rkzjKdiRh, hQQRIaLcjnfOb 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-244-13 | Train: 22517 | Date: 2022-11-02 | cnCiSuJUWt 244/13 | tNLFcwuUIoHlc 244/14 | AlVU 244/15 | JmfaJpizdsAYw 244/16
+Failed! 4 cnCiSuJUWt, tNLFcwuUIoHlc, AlVU, JmfaJpizdsAYw 22517 2022-11-02 AC
 Failed! 1 PkYWogzBExhwa 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-247-5 | Train: 22517 | Date: 2022-11-01 | wqYqMy 247/5 | dhXzOEYwKFTQvY 247/6 | wrbqr 247/7
+Failed! 3 wqYqMy, dhXzOEYwKFTQvY, wrbqr 22517 2022-11-01 AC
 Failed! 6 FlhtBkUqzbahEg, VVaUYmqoAZWLt, qLRCh, y, FGbjWYHXv, ozr 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1191-1 | Train: 22517 | Date: 2022-11-01 | KGJLUuM 1191/1 | BGZmBTUn 1191/2 | gapavhYpRaDaF 1191/3 | WRBljX 1191/4 | hdBlmbD 1191/5
-Successful | PNR: 22517-20221102-1180-3 | Train: 22517 | Date: 2022-11-02 | wgdxOKT 1180/3 | xFIvEZKOFjx 1180/4 | FhWJSIR 1180/5 | QLAGcfRDroP 1180/6
-Successful | PNR: 22517-20221101-247-9 | Train: 22517 | Date: 2022-11-01 | LmROKexjnd 247/9 | QUAUYBBkkXfWJ 247/10
-Successful | PNR: 22517-20221102-245-4 | Train: 22517 | Date: 2022-11-02 | CShRmAomrcWAsl 245/4 | ZGDMVuRyqcSsxEMB 245/5 | MZGLonX 245/6 | yOvjYLgOCqbEG 245/7 | XAmxiVya 245/8 | odUcClpalu 245/9
-Successful | PNR: 22517-20221101-1191-6 | Train: 22517 | Date: 2022-11-01 | jVgwBJvohK 1191/6 | vklFMlppHEeksP 1191/7 | fStxGhs 1191/8 | WIL 1191/9
-Successful | PNR: 12058-20221101-1187-12 | Train: 12058 | Date: 2022-11-01 | BKBNdkmGSWp 1187/12 | DkoVvsIWLJjTsB 1187/13 | aqSfNijjpFs 1187/14 | ljySh 1187/15
+Failed! 5 KGJLUuM, BGZmBTUn, gapavhYpRaDaF, WRBljX, hdBlmbD 22517 2022-11-01 SL
+Failed! 4 wgdxOKT, xFIvEZKOFjx, FhWJSIR, QLAGcfRDroP 22517 2022-11-02 SL
+Failed! 2 LmROKexjnd, QUAUYBBkkXfWJ 22517 2022-11-01 AC
+Failed! 6 CShRmAomrcWAsl, ZGDMVuRyqcSsxEMB, MZGLonX, yOvjYLgOCqbEG, XAmxiVya, odUcClpalu 22517 2022-11-02 AC
+Failed! 4 jVgwBJvohK, vklFMlppHEeksP, fStxGhs, WIL 22517 2022-11-01 SL
+Failed! 4 BKBNdkmGSWp, DkoVvsIWLJjTsB, aqSfNijjpFs, ljySh 12058 2022-11-01 SL
 Failed! 1 xc 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1180-13 | Train: 22517 | Date: 2022-11-02 | HheIQQdXmiXfEFc 1180/13 | K 1180/14 | JpOwhyAOobIOa 1180/15 | mjhbemvDbpNFalNn 1180/16 | azzMMkz 1180/17
-Successful | PNR: 22517-20221101-1191-10 | Train: 22517 | Date: 2022-11-01 | df 1191/10 | DMLnbuvr 1191/11 | LWaYElDUOQSci 1191/12 | yxkhsMA 1191/13 | ORpAwHZdDUqBnj 1191/14 | AACdDsIciZkM 1191/15
+Failed! 5 HheIQQdXmiXfEFc, K, JpOwhyAOobIOa, mjhbemvDbpNFalNn, azzMMkz 22517 2022-11-02 SL
+Failed! 6 df, DMLnbuvr, LWaYElDUOQSci, yxkhsMA, ORpAwHZdDUqBnj, AACdDsIciZkM 22517 2022-11-01 SL
 Failed! 1 ikld 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-253-17 | Train: 12058 | Date: 2022-11-01 | bqLQheAhSayNc 253/17 | vWPeOIltrfgpWg 253/18 | Ukw 254/1 | NEUlXxHNEegul 254/2 | yROhy 254/3 | DLWco 254/4
-Successful | PNR: 12058-20221101-254-5 | Train: 12058 | Date: 2022-11-01 | tn 254/5 | IHkaAqFmqbk 254/6 | iFbCYzNnwijOhrAG 254/7 | gPiQtPUcHTowFx 254/8
-Successful | PNR: 22517-20221101-1191-17 | Train: 22517 | Date: 2022-11-01 | jkrm 1191/17 | pJqQFTuwBaULxc 1191/18 | fMHXKvUwpmJQgaZ 1191/19 | REbhbWPwNLf 1191/20 | hBCBZLPzlGy 1191/21 | Xj 1191/22
-Successful | PNR: 22517-20221101-1191-23 | Train: 22517 | Date: 2022-11-01 | MJb 1191/23 | xTfXy 1191/24 | kTaKCciTo 1192/1 | aNDguluzebCt 1192/2 | maxd 1192/3
+Failed! 6 bqLQheAhSayNc, vWPeOIltrfgpWg, Ukw, NEUlXxHNEegul, yROhy, DLWco 12058 2022-11-01 AC
+Failed! 4 tn, IHkaAqFmqbk, iFbCYzNnwijOhrAG, gPiQtPUcHTowFx 12058 2022-11-01 AC
+Failed! 6 jkrm, pJqQFTuwBaULxc, fMHXKvUwpmJQgaZ, REbhbWPwNLf, hBCBZLPzlGy, Xj 22517 2022-11-01 SL
+Failed! 5 MJb, xTfXy, kTaKCciTo, aNDguluzebCt, maxd 22517 2022-11-01 SL
 Failed! 1 CqF 04652 2022-11-02 SL
 Failed! 6 DJGkg, PFrOIVo, EsYXVDfNHDrVfCgj, DVdwX, VGvDCzRRaWz, qzqAalMpss 04652 2022-11-01 AC
 Failed! 2 ARCdMegTaAkGlqca, MOzg 04652 2022-11-02 SL
 Failed! 4 agJ, XkKbwpTf, VpgKECNOI, yfVxwZHkg 04652 2022-11-01 SL
 Failed! 1 hIuhZyGcASHq 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-254-9 | Train: 12058 | Date: 2022-11-01 | lmn 254/9 | ARTVclwtmfSsQK 254/10 | KEKeEUL 254/11 | t 254/12 | sTrDVDBXieiN 254/13 | CHKU 254/14
-Successful | PNR: 22517-20221102-246-2 | Train: 22517 | Date: 2022-11-02 | np 246/2 | QUaoIYT 246/3
-Successful | PNR: 22517-20221101-1192-4 | Train: 22517 | Date: 2022-11-01 | muBOmIdse 1192/4 | FZzGZpWQmiRa 1192/5 | rMhfiLIRu 1192/6 | xyW 1192/7 | IsTAPWzPkcVcjmmw 1192/8
-Successful | PNR: 22517-20221101-248-6 | Train: 22517 | Date: 2022-11-01 | XVIDGnqtMlPEkv 248/6 | TluMKQUpUQdjn 248/7
-Successful | PNR: 22517-20221102-246-4 | Train: 22517 | Date: 2022-11-02 | D 246/4 | SpS 246/5 | hLf 246/6
-Successful | PNR: 12058-20221101-254-15 | Train: 12058 | Date: 2022-11-01 | RnQv 254/15 | cehsuYTUZRJyBCAw 254/16 | IfvKzZxFNq 254/17 | kXVoUWsmmt 254/18
+Failed! 6 lmn, ARTVclwtmfSsQK, KEKeEUL, t, sTrDVDBXieiN, CHKU 12058 2022-11-01 AC
+Failed! 2 np, QUaoIYT 22517 2022-11-02 AC
+Failed! 5 muBOmIdse, FZzGZpWQmiRa, rMhfiLIRu, xyW, IsTAPWzPkcVcjmmw 22517 2022-11-01 SL
+Failed! 2 XVIDGnqtMlPEkv, TluMKQUpUQdjn 22517 2022-11-01 AC
+Failed! 3 D, SpS, hLf 22517 2022-11-02 AC
+Failed! 4 RnQv, cehsuYTUZRJyBCAw, IfvKzZxFNq, kXVoUWsmmt 12058 2022-11-01 AC
 Failed! 5 kKYDFLL, GznTz, pxdT, nDeUwRYyDAYBZZP, DoMgxCenXVY 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-248-8 | Train: 22517 | Date: 2022-11-01 | YAArbLIGzJcjN 248/8
+Failed! 1 YAArbLIGzJcjN 22517 2022-11-01 AC
 Failed! 4 e, LDafCMvUm, keMSBGixZkq, DOcmESAoCzkKb 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1192-13 | Train: 22517 | Date: 2022-11-01 | BrV 1192/13 | qkXi 1192/14 | OE 1192/15
-Successful | PNR: 22517-20221102-1181-1 | Train: 22517 | Date: 2022-11-02 | OGMV 1181/1
+Failed! 3 BrV, qkXi, OE 22517 2022-11-01 SL
+Failed! 1 OGMV 22517 2022-11-02 SL
 Failed! 6 NwfbBqTyYubOV, fYImFcPgz, TQGLzJ, D, vAipnPhlnRcgVhk, ITMv 04652 2022-11-02 AC
 Failed! 2 OPaCbiISP, YxYUmo 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1192-19 | Train: 22517 | Date: 2022-11-01 | EKUuukpKkUcfsZIX 1192/19 | coKaAOxi 1192/20
-Successful | PNR: 22517-20221101-1192-21 | Train: 22517 | Date: 2022-11-01 | sbiyGzBxDQJYHO 1192/21 | K 1192/22 | NAzTnaqNJseKGN 1192/23 | WruKaTvEcs 1192/24 | gyCm 1193/1 | ppURXYrS 1193/2
-Successful | PNR: 12058-20221101-255-1 | Train: 12058 | Date: 2022-11-01 | ePRgKRXFeQ 255/1 | OsaBwa 255/2 | XMRKVPhhMILQNMBJ 255/3 | a 255/4 | OtfnQHWAoEast 255/5 | eIWB 255/6
-Successful | PNR: 22517-20221102-1181-2 | Train: 22517 | Date: 2022-11-02 | ACzIWpHpQFBZRph 1181/2 | qP 1181/3
-Successful | PNR: 12058-20221101-1188-10 | Train: 12058 | Date: 2022-11-01 | pRbQt 1188/10 | AlPWRNUa 1188/11 | jCdaGrf 1188/12
+Failed! 2 EKUuukpKkUcfsZIX, coKaAOxi 22517 2022-11-01 SL
+Failed! 6 sbiyGzBxDQJYHO, K, NAzTnaqNJseKGN, WruKaTvEcs, gyCm, ppURXYrS 22517 2022-11-01 SL
+Failed! 6 ePRgKRXFeQ, OsaBwa, XMRKVPhhMILQNMBJ, a, OtfnQHWAoEast, eIWB 12058 2022-11-01 AC
+Failed! 2 ACzIWpHpQFBZRph, qP 22517 2022-11-02 SL
+Failed! 3 pRbQt, AlPWRNUa, jCdaGrf 12058 2022-11-01 SL
 Failed! 3 Vttvc, ZIpIkQffxLYlUndd, FbbIOia 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-248-13 | Train: 22517 | Date: 2022-11-01 | SGFvtxgsxNdUOEp 248/13 | rBYf 248/14 | iJPE 248/15 | iF 248/16 | EKCXkXddqXYyp 248/17 | mDmNfWtnVuRFLRr 248/18
-Successful | PNR: 22517-20221101-249-1 | Train: 22517 | Date: 2022-11-01 | FU 249/1 | QnDjOlIlyQaDcycU 249/2 | EwbJ 249/3
+Failed! 6 SGFvtxgsxNdUOEp, rBYf, iJPE, iF, EKCXkXddqXYyp, mDmNfWtnVuRFLRr 22517 2022-11-01 AC
+Failed! 3 FU, QnDjOlIlyQaDcycU, EwbJ 22517 2022-11-01 AC
 Failed! 3 boQhBzrfCNvAZMF, caWHbQT, kDUdwLFSriAzVLT 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-255-13 | Train: 12058 | Date: 2022-11-01 | Bz 255/13 | pBGwYAXiJkt 255/14 | onVmRjlRAxnTEni 255/15 | cmXOtPU 255/16
-Successful | PNR: 12058-20221101-256-5 | Train: 12058 | Date: 2022-11-01 | zPuHU 256/5 | yrDZKmiMNppsQtZ 256/6 | hZx 256/7 | sysxwe 256/8
-Successful | PNR: 22517-20221102-1181-9 | Train: 22517 | Date: 2022-11-02 | mGxNrJg 1181/9 | Zs 1181/10 | MLKYhsn 1181/11 | VnVUAfXYMZ 1181/12 | ryUrZzB 1181/13
-Successful | PNR: 12058-20221101-1188-17 | Train: 12058 | Date: 2022-11-01 | WfT 1188/17 | nzkWZiMoxWs 1188/18 | nnURHaoDrVH 1188/19 | tHSIiRHgr 1188/20
+Failed! 4 Bz, pBGwYAXiJkt, onVmRjlRAxnTEni, cmXOtPU 12058 2022-11-01 AC
+Failed! 4 zPuHU, yrDZKmiMNppsQtZ, hZx, sysxwe 12058 2022-11-01 AC
+Failed! 5 mGxNrJg, Zs, MLKYhsn, VnVUAfXYMZ, ryUrZzB 22517 2022-11-02 SL
+Failed! 4 WfT, nzkWZiMoxWs, nnURHaoDrVH, tHSIiRHgr 12058 2022-11-01 SL
 Failed! 4 PWESFIaYm, bsZ, uLCQ, HFxs 04652 2022-11-01 AC
 Failed! 1 IXDyz 04652 2022-11-01 AC
 Failed! 6 gIIZn, LBdVyvqWBoEMb, BMsiSRvWiVZgRdyX, RZUismQTEtHWK, QRfIgBEimAjQcUKJ, pAUJ 04652 2022-11-01 AC
 Failed! 3 SEPuNgVJrxdcdhNs, uZEGfPc, aZQORxwVuR 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1193-13 | Train: 22517 | Date: 2022-11-01 | Jfz 1193/13 | PznepTHS 1193/14 | tc 1193/15 | sJlCoeefX 1193/16 | Jz 1193/17
-Successful | PNR: 12058-20221101-256-12 | Train: 12058 | Date: 2022-11-01 | MGFI 256/12 | z 256/13 | qOHUYhOzhCCxqJZT 256/14 | V 256/15 | OefpPcC 256/16 | z 256/17
+Failed! 5 Jfz, PznepTHS, tc, sJlCoeefX, Jz 22517 2022-11-01 SL
+Failed! 6 MGFI, z, qOHUYhOzhCCxqJZT, V, OefpPcC, z 12058 2022-11-01 AC
 Failed! 3 cgDRlzHmehYnXAWo, yzsvkeamhMhjfN, dKI 04652 2022-11-01 AC
 Failed! 2 BCdpcFNbXCn, CWgIFisEP 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1189-2 | Train: 12058 | Date: 2022-11-01 | CU 1189/2 | qQjambF 1189/3
-Successful | PNR: 12058-20221101-1189-4 | Train: 12058 | Date: 2022-11-01 | tlOhOWrAyCYGi 1189/4 | zLaKLUBwjKdAQeNo 1189/5
+Failed! 2 CU, qQjambF 12058 2022-11-01 SL
+Failed! 2 tlOhOWrAyCYGi, zLaKLUBwjKdAQeNo 12058 2022-11-01 SL
 Failed! 4 fpOrfHxDuxdAuwwK, MsXdDbZSo, faRXPlcmfPaw, nCI 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-249-4 | Train: 22517 | Date: 2022-11-01 | wAqejYusyb 249/4 | VRqGjcaRjruTtxn 249/5 | X 249/6 | TOJNTnqr 249/7
-Successful | PNR: 12058-20221101-256-18 | Train: 12058 | Date: 2022-11-01 | NtHtqsHu 256/18 | bHKfKTWVyqDwOIg 257/1
-Successful | PNR: 12058-20221101-1189-6 | Train: 12058 | Date: 2022-11-01 | TPUOjcxNyohsUqqz 1189/6 | HWVsajRVOjLAncae 1189/7 | UfAdAIQfQ 1189/8
-Successful | PNR: 22517-20221102-1181-19 | Train: 22517 | Date: 2022-11-02 | gbobiaHrULcFbCcN 1181/19 | oWtA 1181/20 | yvRRWBtJvpcipQi 1181/21 | RSlxUm 1181/22
-Successful | PNR: 12058-20221101-1189-9 | Train: 12058 | Date: 2022-11-01 | vpyMmQmLrVhE 1189/9 | AAwfGie 1189/10 | aCUBul 1189/11 | cVpqwhtHKT 1189/12 | qikiALkntUfu 1189/13
+Failed! 4 wAqejYusyb, VRqGjcaRjruTtxn, X, TOJNTnqr 22517 2022-11-01 AC
+Failed! 2 NtHtqsHu, bHKfKTWVyqDwOIg 12058 2022-11-01 AC
+Failed! 3 TPUOjcxNyohsUqqz, HWVsajRVOjLAncae, UfAdAIQfQ 12058 2022-11-01 SL
+Failed! 4 gbobiaHrULcFbCcN, oWtA, yvRRWBtJvpcipQi, RSlxUm 22517 2022-11-02 SL
+Failed! 5 vpyMmQmLrVhE, AAwfGie, aCUBul, cVpqwhtHKT, qikiALkntUfu 12058 2022-11-01 SL
 Failed! 3 YxEStk, RGMumnRUckndWUSe, ESYNPIcVXw 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-257-2 | Train: 12058 | Date: 2022-11-01 | xHMNAEeCsTA 257/2 | yBWmMonTRoImE 257/3 | bvDTv 257/4 | BQFEizpGUnY 257/5 | yJWrXOE 257/6 | YP 257/7
-Successful | PNR: 22517-20221102-1181-23 | Train: 22517 | Date: 2022-11-02 | jCwAtNsgtRT 1181/23 | rgMxdgKXNrWCe 1181/24
-Successful | PNR: 22517-20221101-249-13 | Train: 22517 | Date: 2022-11-01 | VMGRJZEUhdJC 249/13
-Successful | PNR: 22517-20221101-1194-2 | Train: 22517 | Date: 2022-11-01 | VhOCCD 1194/2 | sOgjleVWC 1194/3 | SHt 1194/4
-Successful | PNR: 22517-20221102-1182-7 | Train: 22517 | Date: 2022-11-02 | pfVwrHdwvgdMcWYY 1182/7 | eWoQD 1182/8 | sMLLJbkXQh 1182/9 | ubTiSRejUvCHdSBs 1182/10 | aKDuErw 1182/11
+Failed! 6 xHMNAEeCsTA, yBWmMonTRoImE, bvDTv, BQFEizpGUnY, yJWrXOE, YP 12058 2022-11-01 AC
+Failed! 2 jCwAtNsgtRT, rgMxdgKXNrWCe 22517 2022-11-02 SL
+Failed! 1 VMGRJZEUhdJC 22517 2022-11-01 AC
+Failed! 3 VhOCCD, sOgjleVWC, SHt 22517 2022-11-01 SL
+Failed! 5 pfVwrHdwvgdMcWYY, eWoQD, sMLLJbkXQh, ubTiSRejUvCHdSBs, aKDuErw 22517 2022-11-02 SL
 Failed! 6 yxAwMPCKUNWU, PoYWBZQLyonwldR, PRbQlqlIYv, k, ZZkqzXOgpk, ch 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1194-10 | Train: 22517 | Date: 2022-11-01 | uLSYIPtMquA 1194/10 | atVmBWJMTyh 1194/11
+Failed! 2 uLSYIPtMquA, atVmBWJMTyh 22517 2022-11-01 SL
 Failed! 3 kkkKYdRlbZerKfLz, QeAZqOOgdkIoJ, AcvJXKQSwEd 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-1182-12 | Train: 22517 | Date: 2022-11-02 | PV 1182/12 | nynpLvfwRASzXRyg 1182/13 | pV 1182/14 | bdU 1182/15 | slWCzM 1182/16
+Failed! 5 PV, nynpLvfwRASzXRyg, pV, bdU, slWCzM 22517 2022-11-02 SL
 Failed! 2 eESVd, BjmYAuS 04652 2022-11-02 AC
 Failed! 1 IebmHLYDIZCiapr 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-249-18 | Train: 22517 | Date: 2022-11-01 | yWEQ 249/18 | DtkuRfqkwezLg 250/1 | cuJxGl 250/2 | aCGr 250/3 | DQNEE 250/4
-Successful | PNR: 22517-20221101-1194-14 | Train: 22517 | Date: 2022-11-01 | HaUbVSSBVB 1194/14
+Failed! 5 yWEQ, DtkuRfqkwezLg, cuJxGl, aCGr, DQNEE 22517 2022-11-01 AC
+Failed! 1 HaUbVSSBVB 22517 2022-11-01 SL
 Failed! 3 FZ, vHaDFewGRSeYt, GmY 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1189-24 | Train: 12058 | Date: 2022-11-01 | wihmTGWnQd 1189/24 | wLOuMrUrab 1190/1 | vis 1190/2
-Successful | PNR: 12058-20221101-257-10 | Train: 12058 | Date: 2022-11-01 | mqfuXsWxXzPdmac 257/10 | Ntgx 257/11 | kCMKI 257/12 | wsIKSK 257/13 | hYzIaXRPXM 257/14
-Successful | PNR: 12058-20221101-1190-3 | Train: 12058 | Date: 2022-11-01 | h 1190/3
-Successful | PNR: 22517-20221101-1194-21 | Train: 22517 | Date: 2022-11-01 | LVJNPip 1194/21
+Failed! 3 wihmTGWnQd, wLOuMrUrab, vis 12058 2022-11-01 SL
+Failed! 5 mqfuXsWxXzPdmac, Ntgx, kCMKI, wsIKSK, hYzIaXRPXM 12058 2022-11-01 AC
+Failed! 1 h 12058 2022-11-01 SL
+Failed! 1 LVJNPip 22517 2022-11-01 SL
 Failed! 3 QsQMCvke, QXDNBJd, ngdXmeLIdR 04652 2022-11-01 AC
 Failed! 6 stwHnnhbbDjel, qiuQzzPFoDNraqyi, iMSbd, vArJCiunXqdMgyYs, nlLTsSZeqlQEULS, HfkLlPtvGzKs 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-247-15 | Train: 22517 | Date: 2022-11-02 | IzHqkVHsdAKblzvY 247/15 | P 247/16 | Mfxg 247/17 | gQ 247/18 | zjRLJHbxd 248/1 | vb 248/2
-Successful | PNR: 12058-20221101-1190-4 | Train: 12058 | Date: 2022-11-01 | kmaBn 1190/4 | lSzXKTiDd 1190/5 | ySAeTwhsaRJUepzK 1190/6 | N 1190/7 | yVfUivDw 1190/8
-Successful | PNR: 22517-20221102-1182-17 | Train: 22517 | Date: 2022-11-02 | ESYY 1182/17 | cpHTBXKdP 1182/18 | zXZIJsxbSX 1182/19 | bYUdGgh 1182/20
+Failed! 6 IzHqkVHsdAKblzvY, P, Mfxg, gQ, zjRLJHbxd, vb 22517 2022-11-02 AC
+Failed! 5 kmaBn, lSzXKTiDd, ySAeTwhsaRJUepzK, N, yVfUivDw 12058 2022-11-01 SL
+Failed! 4 ESYY, cpHTBXKdP, zXZIJsxbSX, bYUdGgh 22517 2022-11-02 SL
 Failed! 6 CWXONjSGcrmvHNLW, HoED, StjYoh, v, XhSvMvp, FyaUKVOAazf 04652 2022-11-02 AC
 Failed! 4 dIfatESaYIwQl, XFnkQvnXnmptKOkg, oltbxIdxCH, gYBtmCmJKyk 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1182-22 | Train: 22517 | Date: 2022-11-02 | aKkYpfeVDqtR 1182/22 | TgRTd 1182/23 | KcmO 1182/24
+Failed! 3 aKkYpfeVDqtR, TgRTd, KcmO 22517 2022-11-02 SL
 Failed! 2 cZqRMrMq, aI 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-248-6 | Train: 22517 | Date: 2022-11-02 | MHlurwtojfU 248/6 | yURx 248/7 | xQTXP 248/8 | wtuLOGjcT 248/9
+Failed! 4 MHlurwtojfU, yURx, xQTXP, wtuLOGjcT 22517 2022-11-02 AC
 Failed! 4 piFS, sDASvEKDsV, lnewNSqimuW, VYMrEo 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-1190-10 | Train: 12058 | Date: 2022-11-01 | xaZw 1190/10
-Successful | PNR: 22517-20221102-248-15 | Train: 22517 | Date: 2022-11-02 | pU 248/15 | GQlWzvawOP 248/16
+Failed! 1 xaZw 12058 2022-11-01 SL
+Failed! 2 pU, GQlWzvawOP 22517 2022-11-02 AC
 Failed! 1 hYkBSQoD 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-248-17 | Train: 22517 | Date: 2022-11-02 | Lr 248/17 | RKdvkAJhLIcdDlU 248/18
+Failed! 2 Lr, RKdvkAJhLIcdDlU 22517 2022-11-02 AC
 Failed! 3 ZprZONjVYBCFcS, AcVWJ, viAm 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1183-1 | Train: 22517 | Date: 2022-11-02 | Kih 1183/1 | KEEWGuPHOPo 1183/2 | VUTgakYYGqVizd 1183/3 | uYrWXKdAGSNscQrw 1183/4 | yqXyZ 1183/5
-Successful | PNR: 22517-20221101-251-4 | Train: 22517 | Date: 2022-11-01 | CKa 251/4 | HyGjflO 251/5 | FSiQ 251/6 | JcFehUybma 251/7 | hDMwWp 251/8 | CiQQxig 251/9
-Successful | PNR: 22517-20221102-1183-6 | Train: 22517 | Date: 2022-11-02 | fxmlEtFrKkVJkZS 1183/6 | wfneiZcWOoktxT 1183/7 | FDANjaW 1183/8 | lzOUJxfurLISh 1183/9
-Successful | PNR: 22517-20221102-1183-10 | Train: 22517 | Date: 2022-11-02 | KaYxrdPhYwYYbv 1183/10 | DPeH 1183/11 | Kbqzm 1183/12 | ufOwhHUnUS 1183/13
-Successful | PNR: 22517-20221101-1195-4 | Train: 22517 | Date: 2022-11-01 | dwLAMJyPdN 1195/4 | sQsbpBNGTGtDdSuL 1195/5
-Successful | PNR: 22517-20221102-1183-20 | Train: 22517 | Date: 2022-11-02 | USdRPh 1183/20
-Successful | PNR: 22517-20221101-1195-6 | Train: 22517 | Date: 2022-11-01 | drLSpzrrUspUeoYx 1195/6 | fGHoRHPziv 1195/7
-Successful | PNR: 22517-20221102-1184-3 | Train: 22517 | Date: 2022-11-02 | rpbELTOr 1184/3 | DJjeBKLDOtour 1184/4 | iK 1184/5
+Failed! 5 Kih, KEEWGuPHOPo, VUTgakYYGqVizd, uYrWXKdAGSNscQrw, yqXyZ 22517 2022-11-02 SL
+Failed! 6 CKa, HyGjflO, FSiQ, JcFehUybma, hDMwWp, CiQQxig 22517 2022-11-01 AC
+Failed! 4 fxmlEtFrKkVJkZS, wfneiZcWOoktxT, FDANjaW, lzOUJxfurLISh 22517 2022-11-02 SL
+Failed! 4 KaYxrdPhYwYYbv, DPeH, Kbqzm, ufOwhHUnUS 22517 2022-11-02 SL
+Failed! 2 dwLAMJyPdN, sQsbpBNGTGtDdSuL 22517 2022-11-01 SL
+Failed! 1 USdRPh 22517 2022-11-02 SL
+Failed! 2 drLSpzrrUspUeoYx, fGHoRHPziv 22517 2022-11-01 SL
+Failed! 3 rpbELTOr, DJjeBKLDOtour, iK 22517 2022-11-02 SL
 Failed! 4 nmuO, iRZgYsC, sOLAEDqXqHA, ouUFhayBFC 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1184-6 | Train: 22517 | Date: 2022-11-02 | GXsP 1184/6 | wXmUuabpyGckUCG 1184/7 | bRo 1184/8 | aCzM 1184/9
+Failed! 4 GXsP, wXmUuabpyGckUCG, bRo, aCzM 22517 2022-11-02 SL
 Failed! 1 M 04652 2022-11-01 AC
 Failed! 1 TrRfZqEwRJgu 04652 2022-11-02 AC
 Failed! 4 bt, pSjo, mzRkBDaRriRGv, oaSV 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1190-16 | Train: 12058 | Date: 2022-11-01 | MDxu 1190/16 | RQhkJSPOzRWr 1190/17 | KVC 1190/18 | xKWZA 1190/19 | Zpz 1190/20 | xRxyMOOzVjwf 1190/21
+Failed! 6 MDxu, RQhkJSPOzRWr, KVC, xKWZA, Zpz, xRxyMOOzVjwf 12058 2022-11-01 SL
 Failed! 2 lbZoYsTOgLfMrqJD, rNyAppHT 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1184-10 | Train: 22517 | Date: 2022-11-02 | qKlOQROreP 1184/10 | OtQgxGOOPGbufF 1184/11 | YphPrA 1184/12 | JMDgnbhjEuqGDS 1184/13 | BkG 1184/14 | USr 1184/15
+Failed! 6 qKlOQROreP, OtQgxGOOPGbufF, YphPrA, JMDgnbhjEuqGDS, BkG, USr 22517 2022-11-02 SL
 Failed! 6 SEZMgkVJEQrfcG, YYN, oreTzHq, TtpzAuHJCXZ, F, tKNQsKhbl 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-1195-10 | Train: 22517 | Date: 2022-11-01 | NgYHmFWmyerxA 1195/10 | GURolLG 1195/11 | npngtME 1195/12 | ACXURCJZfb 1195/13 | eIamNIihuaxFtJ 1195/14 | MtcHGFNzBTHhFIFo 1195/15
-Successful | PNR: 22517-20221101-251-13 | Train: 22517 | Date: 2022-11-01 | AFCzOYaZp 251/13 | kJTEiTCIKeehj 251/14 | mviSQLR 251/15 | VP 251/16 | jj 251/17 | l 251/18
-Successful | PNR: 22517-20221102-1184-16 | Train: 22517 | Date: 2022-11-02 | wKp 1184/16 | cbOXchLQQZgMcj 1184/17
+Failed! 6 NgYHmFWmyerxA, GURolLG, npngtME, ACXURCJZfb, eIamNIihuaxFtJ, MtcHGFNzBTHhFIFo 22517 2022-11-01 SL
+Failed! 6 AFCzOYaZp, kJTEiTCIKeehj, mviSQLR, VP, jj, l 22517 2022-11-01 AC
+Failed! 2 wKp, cbOXchLQQZgMcj 22517 2022-11-02 SL
 Failed! 2 nlaO, HLwGwPoQqjzph 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1195-16 | Train: 22517 | Date: 2022-11-01 | DqEsR 1195/16 | ZlK 1195/17
-Successful | PNR: 12058-20221101-258-11 | Train: 12058 | Date: 2022-11-01 | RIsITqOTTSMf 258/11 | Z 258/12 | XPtX 258/13
+Failed! 2 DqEsR, ZlK 22517 2022-11-01 SL
+Failed! 3 RIsITqOTTSMf, Z, XPtX 12058 2022-11-01 AC
 Failed! 6 oMfjc, dxTei, JyhLuVYCGIC, S, rvwkZkbKt, VRPN 04652 2022-11-02 AC
 Failed! 4 XvcfOx, HfsWbLIbqqPNwc, FLdtruxsqdntJm, gdySUOrGiRRHY 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-249-6 | Train: 22517 | Date: 2022-11-02 | rYIzptNHuMx 249/6
-Successful | PNR: 12058-20221101-1191-9 | Train: 12058 | Date: 2022-11-01 | XbtOPUImAo 1191/9 | PKdEwHqpVAQbus 1191/10 | MixiFZ 1191/11
-Successful | PNR: 12058-20221101-258-17 | Train: 12058 | Date: 2022-11-01 | JtYAC 258/17 | kJaHGURDDPIqxq 258/18 | XHmcIxRNnpJY 259/1
-Successful | PNR: 12058-20221101-1191-18 | Train: 12058 | Date: 2022-11-01 | wVuymLiAg 1191/18 | WKtNJPL 1191/19
-Successful | PNR: 12058-20221101-1191-20 | Train: 12058 | Date: 2022-11-01 | zU 1191/20 | AlurpEhX 1191/21
-Successful | PNR: 22517-20221101-252-6 | Train: 22517 | Date: 2022-11-01 | NuWoiRxWqDA 252/6 | SxYSbfgHrBEAirxg 252/7 | PNUvivW 252/8 | ct 252/9 | sn 252/10
-Successful | PNR: 22517-20221101-1195-18 | Train: 22517 | Date: 2022-11-01 | BaaMxKBkcaKbNxc 1195/18 | Fbfp 1195/19
+Failed! 1 rYIzptNHuMx 22517 2022-11-02 AC
+Failed! 3 XbtOPUImAo, PKdEwHqpVAQbus, MixiFZ 12058 2022-11-01 SL
+Failed! 3 JtYAC, kJaHGURDDPIqxq, XHmcIxRNnpJY 12058 2022-11-01 AC
+Failed! 2 wVuymLiAg, WKtNJPL 12058 2022-11-01 SL
+Failed! 2 zU, AlurpEhX 12058 2022-11-01 SL
+Failed! 5 NuWoiRxWqDA, SxYSbfgHrBEAirxg, PNUvivW, ct, sn 22517 2022-11-01 AC
+Failed! 2 BaaMxKBkcaKbNxc, Fbfp 22517 2022-11-01 SL
 Failed! 2 asQSVMhqzZR, YcBDDNw 04652 2022-11-01 SL
 Failed! 5 YzSReu, G, FwOSqmkVsbvG, ZDLyr, eodGs 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-252-14 | Train: 22517 | Date: 2022-11-01 | wDUZufVB 252/14
-Successful | PNR: 22517-20221102-249-7 | Train: 22517 | Date: 2022-11-02 | qdDwctFHN 249/7 | xbgftE 249/8 | FgvQFlJhGhl 249/9 | u 249/10 | uxHLBFVuUysURzMX 249/11 | yTDyxpsSg 249/12
-Successful | PNR: 22517-20221101-1195-20 | Train: 22517 | Date: 2022-11-01 | IAhigYVJRFj 1195/20 | azSDPi 1195/21
+Failed! 1 wDUZufVB 22517 2022-11-01 AC
+Failed! 6 qdDwctFHN, xbgftE, FgvQFlJhGhl, u, uxHLBFVuUysURzMX, yTDyxpsSg 22517 2022-11-02 AC
+Failed! 2 IAhigYVJRFj, azSDPi 22517 2022-11-01 SL
 Failed! 5 RAZHlqUqejeaGu, CILgdutF, rwsEXny, vhCGqCsQeBcMdG, CcJgCZvRJ 04652 2022-11-01 SL
 Failed! 6 aX, o, ZPVGILS, yz, YsskYruyOD, OatcaUdKOT 04652 2022-11-02 AC
 Failed! 6 wbTnCxP, UVcI, s, UHlCCcQscyyXb, YKBrglELYgIDVO, jvjVZfgQx 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-1191-24 | Train: 12058 | Date: 2022-11-01 | WlEOYJRUjfWe 1191/24 | cdJoRg 1192/1 | ssuiC 1192/2 | YH 1192/3
-Successful | PNR: 12058-20221101-259-16 | Train: 12058 | Date: 2022-11-01 | mRFWgISeKbSbY 259/16 | TEhHFebVgm 259/17
-Successful | PNR: 12058-20221101-260-3 | Train: 12058 | Date: 2022-11-01 | QnXHv 260/3 | cwQxHTtZ 260/4 | wPsVZyAZNisk 260/5 | ALwFUYCsGp 260/6
-Successful | PNR: 22517-20221102-1185-1 | Train: 22517 | Date: 2022-11-02 | XymkHCwSgBZIzm 1185/1 | sqnZwCQRhRRtw 1185/2 | iErIjpqPjaZgy 1185/3 | HgWgtzrFqnvO 1185/4 | hpMmhHOgKuXPGaC 1185/5
-Successful | PNR: 12058-20221101-1192-4 | Train: 12058 | Date: 2022-11-01 | et 1192/4 | qSvVAVYJzuNxgW 1192/5
+Failed! 4 WlEOYJRUjfWe, cdJoRg, ssuiC, YH 12058 2022-11-01 SL
+Failed! 2 mRFWgISeKbSbY, TEhHFebVgm 12058 2022-11-01 AC
+Failed! 4 QnXHv, cwQxHTtZ, wPsVZyAZNisk, ALwFUYCsGp 12058 2022-11-01 AC
+Failed! 5 XymkHCwSgBZIzm, sqnZwCQRhRRtw, iErIjpqPjaZgy, HgWgtzrFqnvO, hpMmhHOgKuXPGaC 22517 2022-11-02 SL
+Failed! 2 et, qSvVAVYJzuNxgW 12058 2022-11-01 SL
 Failed! 4 WYe, QHDJWuJPzYRLj, zsZRodLfghbKYUn, tYnJRUDOfsmn 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-249-15 | Train: 22517 | Date: 2022-11-02 | mAsWQLtzPDJ 249/15 | BMepPz 249/16
-Successful | PNR: 22517-20221102-249-17 | Train: 22517 | Date: 2022-11-02 | wpfJK 249/17 | GNMmRYFbnSmQty 249/18 | EqZlog 250/1
-Successful | PNR: 22517-20221102-250-2 | Train: 22517 | Date: 2022-11-02 | PpfseZwDSou 250/2 | GvajKRLgttgUU 250/3 | dgEGkTCgodfBWOI 250/4 | GsikWIVBTa 250/5
-Successful | PNR: 22517-20221101-1196-1 | Train: 22517 | Date: 2022-11-01 | dXlIjliohaZcPSC 1196/1 | bVYzYxbyuUrxvX 1196/2 | fFIsdBGRr 1196/3 | VRlmFeM 1196/4
+Failed! 2 mAsWQLtzPDJ, BMepPz 22517 2022-11-02 AC
+Failed! 3 wpfJK, GNMmRYFbnSmQty, EqZlog 22517 2022-11-02 AC
+Failed! 4 PpfseZwDSou, GvajKRLgttgUU, dgEGkTCgodfBWOI, GsikWIVBTa 22517 2022-11-02 AC
+Failed! 4 dXlIjliohaZcPSC, bVYzYxbyuUrxvX, fFIsdBGRr, VRlmFeM 22517 2022-11-01 SL
 Failed! 6 YMu, AYmltJLabMC, RgymEiTEqbHgUt, kponoCbI, WVwDb, qcLvkZbgUgIdS 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1192-10 | Train: 12058 | Date: 2022-11-01 | HeM 1192/10 | jEBEXaBVS 1192/11
+Failed! 2 HeM, jEBEXaBVS 12058 2022-11-01 SL
 Failed! 1 ENkf 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-260-10 | Train: 12058 | Date: 2022-11-01 | eaGEheuZ 260/10 | qMHLruS 260/11 | asaonDiBZAUI 260/12
-Successful | PNR: 22517-20221102-250-6 | Train: 22517 | Date: 2022-11-02 | eVBVNB 250/6 | uSkybAhsIdLDEQ 250/7 | DIHJSLTDOqfrpLNI 250/8 | YUFID 250/9 | AbEWjXHeuhQOTUK 250/10 | eZKhU 250/11
-Successful | PNR: 22517-20221102-1185-15 | Train: 22517 | Date: 2022-11-02 | Kt 1185/15 | FgczcPSKfmz 1185/16 | AaovYLvlfnLQJ 1185/17
-Successful | PNR: 22517-20221102-1185-18 | Train: 22517 | Date: 2022-11-02 | vV 1185/18 | KWgRNbU 1185/19 | bXswuTyTsiMVZ 1185/20
+Failed! 3 eaGEheuZ, qMHLruS, asaonDiBZAUI 12058 2022-11-01 AC
+Failed! 6 eVBVNB, uSkybAhsIdLDEQ, DIHJSLTDOqfrpLNI, YUFID, AbEWjXHeuhQOTUK, eZKhU 22517 2022-11-02 AC
+Failed! 3 Kt, FgczcPSKfmz, AaovYLvlfnLQJ 22517 2022-11-02 SL
+Failed! 3 vV, KWgRNbU, bXswuTyTsiMVZ 22517 2022-11-02 SL
 Failed! 1 vRRuKmVSt 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-1185-21 | Train: 22517 | Date: 2022-11-02 | eFFJbILoOVPPW 1185/21 | bWkYnHbgAfl 1185/22 | xvPKU 1185/23
+Failed! 3 eFFJbILoOVPPW, bWkYnHbgAfl, xvPKU 22517 2022-11-02 SL
 Failed! 1 c 04652 2022-11-02 AC
 Failed! 3 O, nmACLzY, rAjypTbIrIok 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-260-13 | Train: 12058 | Date: 2022-11-01 | STY 260/13 | UzqaYGIMTbI 260/14 | OFeZeXWiXrqwWdd 260/15 | L 260/16 | WubysIqcBqv 260/17
-Successful | PNR: 22517-20221102-1186-5 | Train: 22517 | Date: 2022-11-02 | ItQ 1186/5 | XgRKFofECs 1186/6 | VoaPXitNpAtCQ 1186/7
-Successful | PNR: 22517-20221101-252-16 | Train: 22517 | Date: 2022-11-01 | cFzMoTZZRE 252/16 | pjdngMNvaQjnqpBt 252/17 | BuVHzUeklmE 252/18
+Failed! 5 STY, UzqaYGIMTbI, OFeZeXWiXrqwWdd, L, WubysIqcBqv 12058 2022-11-01 AC
+Failed! 3 ItQ, XgRKFofECs, VoaPXitNpAtCQ 22517 2022-11-02 SL
+Failed! 3 cFzMoTZZRE, pjdngMNvaQjnqpBt, BuVHzUeklmE 22517 2022-11-01 AC
 Failed! 1 GWNywtTBixxMZ 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1196-5 | Train: 22517 | Date: 2022-11-01 | paiosPqy 1196/5 | eNCHKOSoPEbyCLYP 1196/6 | pLTXGYXrizxv 1196/7 | pO 1196/8
+Failed! 4 paiosPqy, eNCHKOSoPEbyCLYP, pLTXGYXrizxv, pO 22517 2022-11-01 SL
 Failed! 5 bjooq, Sl, qZlENr, WsbQ, FLadOFWcEXiej 04652 2022-11-01 SL
 Failed! 6 guCyQdTsufdlmJ, WiDECZDDsf, uumHqOj, uZlqUZud, MgObrsiHYyIUFlTP, ChRlbNCdMQ 04652 2022-11-01 AC
 Failed! 3 acCFAKXAleT, olbbdSj, JexfRePrSIRgLVS 04652 2022-11-01 AC
 Failed! 4 MBfiNaQt, E, BST, hNtiWlbeKLtsS 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-253-1 | Train: 22517 | Date: 2022-11-01 | fJoEKy 253/1 | tZnIZDOwaugWTUE 253/2 | nJeqmlSBXRsjjoam 253/3 | zVxYbQU 253/4 | MfoADVohNLSSedaF 253/5 | MFdfzDTjlOkVmHOL 253/6
-Successful | PNR: 22517-20221102-250-13 | Train: 22517 | Date: 2022-11-02 | jFwcQDZu 250/13 | JJxjeYRWHISufTy 250/14 | P 250/15 | vMzbAt 250/16 | DNsBPZFMFnd 250/17 | OexzBvKQXxw 250/18
+Failed! 6 fJoEKy, tZnIZDOwaugWTUE, nJeqmlSBXRsjjoam, zVxYbQU, MfoADVohNLSSedaF, MFdfzDTjlOkVmHOL 22517 2022-11-01 AC
+Failed! 6 jFwcQDZu, JJxjeYRWHISufTy, P, vMzbAt, DNsBPZFMFnd, OexzBvKQXxw 22517 2022-11-02 AC
 Failed! 2 kdKsaUBxBOrpE, wEFlirXR 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-251-1 | Train: 22517 | Date: 2022-11-02 | WYhIhZORL 251/1 | yRCIGGmeYVvMAKj 251/2 | INMtVEkOiqMu 251/3
+Failed! 3 WYhIhZORL, yRCIGGmeYVvMAKj, INMtVEkOiqMu 22517 2022-11-02 AC
 Failed! 3 PzRMooNVu, sNZyvGLuZgFYIheF, uqIjzTLGUAzo 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-261-1 | Train: 12058 | Date: 2022-11-01 | zwfgqsTo 261/1 | TEAa 261/2 | r 261/3 | YGor 261/4 | LOXejcJqbajHpkZ 261/5
-Successful | PNR: 22517-20221101-253-12 | Train: 22517 | Date: 2022-11-01 | UabvL 253/12 | OPaPDvYWrwU 253/13 | Tsw 253/14 | vauBlWe 253/15
-Successful | PNR: 12058-20221101-1192-22 | Train: 12058 | Date: 2022-11-01 | BpJoEcdf 1192/22 | FiTjUM 1192/23 | frOvnuoEcgtoRe 1192/24 | HWa 1193/1 | cVoo 1193/2
-Successful | PNR: 12058-20221101-1193-3 | Train: 12058 | Date: 2022-11-01 | VKlRxGeiTk 1193/3 | rchcFwFiQlS 1193/4 | iGrcYSlnQMr 1193/5
+Failed! 5 zwfgqsTo, TEAa, r, YGor, LOXejcJqbajHpkZ 12058 2022-11-01 AC
+Failed! 4 UabvL, OPaPDvYWrwU, Tsw, vauBlWe 22517 2022-11-01 AC
+Failed! 5 BpJoEcdf, FiTjUM, frOvnuoEcgtoRe, HWa, cVoo 12058 2022-11-01 SL
+Failed! 3 VKlRxGeiTk, rchcFwFiQlS, iGrcYSlnQMr 12058 2022-11-01 SL
 Failed! 2 OEOCAGUyUyksyg, stqdKAuCz 04652 2022-11-02 SL
 Failed! 1 sEU 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-251-4 | Train: 22517 | Date: 2022-11-02 | ipbqJOrGkEYtH 251/4
+Failed! 1 ipbqJOrGkEYtH 22517 2022-11-02 AC
 Failed! 1 OQSEiGodgGUrjL 04652 2022-11-01 AC
 Failed! 1 oTZjrMJO 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-253-16 | Train: 22517 | Date: 2022-11-01 | MReQiwaGSHxz 253/16 | hXIioFl 253/17
-Successful | PNR: 22517-20221102-251-5 | Train: 22517 | Date: 2022-11-02 | oJmH 251/5
+Failed! 2 MReQiwaGSHxz, hXIioFl 22517 2022-11-01 AC
+Failed! 1 oJmH 22517 2022-11-02 AC
 Failed! 1 VqttjZONdjBmdk 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-261-6 | Train: 12058 | Date: 2022-11-01 | gLu 261/6 | HywbqRFGY 261/7
+Failed! 2 gLu, HywbqRFGY 12058 2022-11-01 AC
 Failed! 5 yBteiE, GafcYqaLjLgV, vBHxdT, eilpp, acQbcaOfXeEbYZC 04652 2022-11-02 AC
 Failed! 1 N 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1197-1 | Train: 22517 | Date: 2022-11-01 | GoWkMk 1197/1 | AdhORBgTiC 1197/2
+Failed! 2 GoWkMk, AdhORBgTiC 22517 2022-11-01 SL
 Failed! 4 McvKQa, fqdtqcjWYFa, fBxhJAwCqxBBd, EPQrBW 04652 2022-11-01 AC
 Failed! 3 OAQvLko, UBWhpVZAaubY, Alb 04652 2022-11-02 SL
 Failed! 2 NhceLYfAjl, l 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-251-12 | Train: 22517 | Date: 2022-11-02 | uFMsFMECFXCYL 251/12 | yywe 251/13 | HQSw 251/14 | ZnOSVCwpQJ 251/15
+Failed! 4 uFMsFMECFXCYL, yywe, HQSw, ZnOSVCwpQJ 22517 2022-11-02 AC
 Failed! 4 kMO, PFWHHOxV, UfkFnZQ, BVvQFYiREfCtFV 04652 2022-11-01 SL
 Failed! 3 OKX, idhUukFYDAo, WCuMoxhhfWdUR 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1193-8 | Train: 12058 | Date: 2022-11-01 | kmHY 1193/8 | uDtVxwfrCzVTCi 1193/9 | fwCDptsqjGdQDNq 1193/10 | RkBnRWd 1193/11 | BOIbzKYUDd 1193/12 | v 1193/13
-Successful | PNR: 22517-20221101-1197-3 | Train: 22517 | Date: 2022-11-01 | HFXfqOJGkagqa 1197/3 | saWgwO 1197/4 | CHou 1197/5 | PBts 1197/6 | wHdHSphNdgKmX 1197/7
+Failed! 6 kmHY, uDtVxwfrCzVTCi, fwCDptsqjGdQDNq, RkBnRWd, BOIbzKYUDd, v 12058 2022-11-01 SL
+Failed! 5 HFXfqOJGkagqa, saWgwO, CHou, PBts, wHdHSphNdgKmX 22517 2022-11-01 SL
 Failed! 2 CsCqTxgmWTJ, exL 04652 2022-11-02 AC
 Failed! 4 qrXdNgecDcv, ZIKKFf, wUXJHWCKfQoZzva, Fx 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1187-2 | Train: 22517 | Date: 2022-11-02 | agF 1187/2
-Successful | PNR: 22517-20221101-1197-10 | Train: 22517 | Date: 2022-11-01 | Lw 1197/10 | YYB 1197/11
+Failed! 1 agF 22517 2022-11-02 SL
+Failed! 2 Lw, YYB 22517 2022-11-01 SL
 Failed! 3 SDJDNHDfWwgqI, D, NqY 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-261-8 | Train: 12058 | Date: 2022-11-01 | PbIB 261/8 | pysdF 261/9 | ZnpsFkHuRR 261/10 | DAU 261/11
+Failed! 4 PbIB, pysdF, ZnpsFkHuRR, DAU 12058 2022-11-01 AC
 Failed! 3 NHSNrfSWeUw, V, rpLC 04652 2022-11-02 AC
 Failed! 1 mJ 04652 2022-11-01 AC
 Failed! 1 KQBq 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-254-12 | Train: 22517 | Date: 2022-11-01 | NArAZAstk 254/12
-Successful | PNR: 22517-20221101-1197-23 | Train: 22517 | Date: 2022-11-01 | l 1197/23 | cdQzdPbjTqKCAtlx 1197/24 | GkIrfoIIyYvsteBC 1198/1 | oH 1198/2 | fjFHIEtvWGdvS 1198/3
+Failed! 1 NArAZAstk 22517 2022-11-01 AC
+Failed! 5 l, cdQzdPbjTqKCAtlx, GkIrfoIIyYvsteBC, oH, fjFHIEtvWGdvS 22517 2022-11-01 SL
 Failed! 3 dJpwePWlhoAU, mTYyIzZilQHtCz, e 04652 2022-11-01 AC
 Failed! 1 fBSSPGGWW 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-252-3 | Train: 22517 | Date: 2022-11-02 | C 252/3 | WkImaIynta 252/4 | mCoeBIJU 252/5
+Failed! 3 C, WkImaIynta, mCoeBIJU 22517 2022-11-02 AC
 Failed! 2 vUjd, cal 04652 2022-11-01 AC
 Failed! 2 AhUrfL, UAOGBBh 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1187-3 | Train: 22517 | Date: 2022-11-02 | NBWOdwLiR 1187/3 | YXJI 1187/4 | D 1187/5 | zlW 1187/6
-Successful | PNR: 22517-20221102-252-6 | Train: 22517 | Date: 2022-11-02 | VMsifSXGSUKwSI 252/6
+Failed! 4 NBWOdwLiR, YXJI, D, zlW 22517 2022-11-02 SL
+Failed! 1 VMsifSXGSUKwSI 22517 2022-11-02 AC
 Failed! 4 qRXFHAaMsVCaZ, eFbgeThFluO, mwuCpSf, E 04652 2022-11-01 AC
 Failed! 3 z, egkMNuiT, AkyF 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-252-7 | Train: 22517 | Date: 2022-11-02 | qNpiqBJpUQjn 252/7
-Successful | PNR: 22517-20221101-1198-6 | Train: 22517 | Date: 2022-11-01 | QlHFmkCGvgfExr 1198/6 | RDtm 1198/7 | hSoqMbpaFjFa 1198/8 | ViPX 1198/9 | OMMILoEPY 1198/10 | CtVLnlzQyB 1198/11
-Successful | PNR: 22517-20221102-1187-7 | Train: 22517 | Date: 2022-11-02 | h 1187/7 | FuupbBasQuRLl 1187/8 | OnoIeJOaxmoCTGdx 1187/9 | mMfQJd 1187/10 | LDUbnnLBO 1187/11
-Successful | PNR: 22517-20221102-252-8 | Train: 22517 | Date: 2022-11-02 | RmEkCvVWyOTMld 252/8 | DYPeDvgOo 252/9
-Successful | PNR: 22517-20221101-255-4 | Train: 22517 | Date: 2022-11-01 | PAbznpLiCNNVxIr 255/4
-Successful | PNR: 22517-20221102-252-10 | Train: 22517 | Date: 2022-11-02 | oBQCspzbrSFiD 252/10 | fFFXJrhMHWnu 252/11 | QfAvMIGyiG 252/12 | WgzZhwPDlnc 252/13 | fXem 252/14 | zxtTv 252/15
+Failed! 1 qNpiqBJpUQjn 22517 2022-11-02 AC
+Failed! 6 QlHFmkCGvgfExr, RDtm, hSoqMbpaFjFa, ViPX, OMMILoEPY, CtVLnlzQyB 22517 2022-11-01 SL
+Failed! 5 h, FuupbBasQuRLl, OnoIeJOaxmoCTGdx, mMfQJd, LDUbnnLBO 22517 2022-11-02 SL
+Failed! 2 RmEkCvVWyOTMld, DYPeDvgOo 22517 2022-11-02 AC
+Failed! 1 PAbznpLiCNNVxIr 22517 2022-11-01 AC
+Failed! 6 oBQCspzbrSFiD, fFFXJrhMHWnu, QfAvMIGyiG, WgzZhwPDlnc, fXem, zxtTv 22517 2022-11-02 AC
 Failed! 4 BgqHxdUGvJFMxdFB, yUpCh, xakoGhmpsZwQ, Q 04652 2022-11-02 AC
 Failed! 6 ghwzPU, mGjsVVMzNnFS, FmeaXwBB, klBK, DOOtFZzajiqAAbGm, swwUVhQdFcdlra 04652 2022-11-02 SL
 Failed! 2 KwoIEATqAgaaZM, LSAbqVWzQMmgRGz 04652 2022-11-02 SL
 Failed! 1 TQaPevqmsPb 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1187-12 | Train: 22517 | Date: 2022-11-02 | EXpcGGZSsqnAlTep 1187/12 | rmV 1187/13 | pMkjTgPhLrOS 1187/14 | nYnNTNRTlqiz 1187/15
+Failed! 4 EXpcGGZSsqnAlTep, rmV, pMkjTgPhLrOS, nYnNTNRTlqiz 22517 2022-11-02 SL
 Failed! 5 chQVNghYkipkdIBI, RaiPiUetBc, UPQAyz, A, CqtbSzysBsY 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1193-21 | Train: 12058 | Date: 2022-11-01 | TRBNX 1193/21
+Failed! 1 TRBNX 12058 2022-11-01 SL
 Failed! 4 TIfUIzYtFc, Hm, b, TIjDwlzzDFiMu 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-1187-20 | Train: 22517 | Date: 2022-11-02 | OJCnlf 1187/20 | vdRodpvKFKtuSpCb 1187/21
-Successful | PNR: 12058-20221101-1193-22 | Train: 12058 | Date: 2022-11-01 | pCvOBcmaIphX 1193/22 | OrRsarB 1193/23 | fBclmo 1193/24 | QtWxPssimF 1194/1 | n 1194/2
+Failed! 2 OJCnlf, vdRodpvKFKtuSpCb 22517 2022-11-02 SL
+Failed! 5 pCvOBcmaIphX, OrRsarB, fBclmo, QtWxPssimF, n 12058 2022-11-01 SL
 Failed! 4 bhlwCeMTskifjIH, uTmly, JOvGzqMMobotB, UuPGvjekWvZSh 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-1198-21 | Train: 22517 | Date: 2022-11-01 | I 1198/21 | K 1198/22 | CWDzoA 1198/23 | KQYZokXRNIAjwv 1198/24
-Successful | PNR: 22517-20221102-252-16 | Train: 22517 | Date: 2022-11-02 | swWMaSTWdJIFV 252/16 | usFohTJde 252/17 | xpq 252/18 | VtyPnkmcpswXMsNm 253/1
+Failed! 4 I, K, CWDzoA, KQYZokXRNIAjwv 22517 2022-11-01 SL
+Failed! 4 swWMaSTWdJIFV, usFohTJde, xpq, VtyPnkmcpswXMsNm 22517 2022-11-02 AC
 Failed! 5 NEFtqCPd, eK, Jhm, FickLegdqZcKGxa, ceMmNUKC 04652 2022-11-02 SL
 Failed! 6 bnXyttUXDITUrJuT, GFYtZTyjHaCvYMdI, uDg, ZqZPpFzbFONq, QnAjpOQWmbdNCID, KqLPPgo 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1188-2 | Train: 22517 | Date: 2022-11-02 | RbCNJCSErKAjVqCy 1188/2 | bLuIEXv 1188/3 | d 1188/4 | bXZcjmhMCSsCJCV 1188/5 | RLNNJimDteUuWBk 1188/6
-Successful | PNR: 12058-20221101-262-4 | Train: 12058 | Date: 2022-11-01 | YgXUcCjeWLBijFe 262/4 | jBPiRDYuxEm 262/5
+Failed! 5 RbCNJCSErKAjVqCy, bLuIEXv, d, bXZcjmhMCSsCJCV, RLNNJimDteUuWBk 22517 2022-11-02 SL
+Failed! 2 YgXUcCjeWLBijFe, jBPiRDYuxEm 12058 2022-11-01 AC
 Failed! 1 WgTXOkkdBv 04652 2022-11-01 SL
 Failed! 4 rtXGbTuIJhA, SoXWdUyCoQeNrolr, AXfSBgxvWK, EHDbL 04652 2022-11-01 SL
 Failed! 4 ubo, ZR, qKmaZZV, KYVzsgpYAUKAkG 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1194-3 | Train: 12058 | Date: 2022-11-01 | rQZTpKDZYJm 1194/3
+Failed! 1 rQZTpKDZYJm 12058 2022-11-01 SL
 Failed! 3 cHoyKnIpwakX, bMqACGpkxfC, HXPBAb 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-1188-13 | Train: 22517 | Date: 2022-11-02 | ftChsvsTeMCvy 1188/13 | JRiT 1188/14 | xDbrSrdhzBnOlY 1188/15 | Y 1188/16 | mhsTTsSqJUrAAXl 1188/17 | K 1188/18
+Failed! 6 ftChsvsTeMCvy, JRiT, xDbrSrdhzBnOlY, Y, mhsTTsSqJUrAAXl, K 22517 2022-11-02 SL
 Failed! 3 ZFoqH, oeHmr, fpXIeJeBXCXqOQk 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-255-10 | Train: 22517 | Date: 2022-11-01 | d 255/10 | pmKdVkEIO 255/11 | BImKdjucUbzmD 255/12
-Successful | PNR: 12058-20221101-1194-4 | Train: 12058 | Date: 2022-11-01 | dUoOnuvFBmpCBh 1194/4 | cQHifdbt 1194/5
+Failed! 3 d, pmKdVkEIO, BImKdjucUbzmD 22517 2022-11-01 AC
+Failed! 2 dUoOnuvFBmpCBh, cQHifdbt 12058 2022-11-01 SL
 Failed! 1 ipnXJPaDFKHKezY 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-253-5 | Train: 22517 | Date: 2022-11-02 | ChfOwOTB 253/5 | VdVYHdYuw 253/6 | L 253/7 | SBAJUilAh 253/8
-Successful | PNR: 22517-20221102-253-9 | Train: 22517 | Date: 2022-11-02 | JoejagJAhtV 253/9 | kVNXBCVjDtRairF 253/10
-Successful | PNR: 22517-20221102-1188-21 | Train: 22517 | Date: 2022-11-02 | wfCVO 1188/21 | LZUJzGcpu 1188/22 | tGZb 1188/23 | bbfLdWj 1188/24 | GebnGlhGxEwbWvaC 1189/1 | OvMFSwzUisS 1189/2
-Successful | PNR: 22517-20221102-1189-3 | Train: 22517 | Date: 2022-11-02 | hZGput 1189/3 | VSmQXD 1189/4 | fhtizXCuWpPZ 1189/5 | HnnMeOCAfyaUmceg 1189/6
-Successful | PNR: 12058-20221101-262-6 | Train: 12058 | Date: 2022-11-01 | J 262/6 | AFS 262/7 | dzYIhwgmb 262/8 | FhbjMnu 262/9 | InSryhGG 262/10 | RKrdx 262/11
+Failed! 4 ChfOwOTB, VdVYHdYuw, L, SBAJUilAh 22517 2022-11-02 AC
+Failed! 2 JoejagJAhtV, kVNXBCVjDtRairF 22517 2022-11-02 AC
+Failed! 6 wfCVO, LZUJzGcpu, tGZb, bbfLdWj, GebnGlhGxEwbWvaC, OvMFSwzUisS 22517 2022-11-02 SL
+Failed! 4 hZGput, VSmQXD, fhtizXCuWpPZ, HnnMeOCAfyaUmceg 22517 2022-11-02 SL
+Failed! 6 J, AFS, dzYIhwgmb, FhbjMnu, InSryhGG, RKrdx 12058 2022-11-01 AC
 Failed! 4 tqm, nGLHvvCODKCf, anlBuMvgycIcjVn, lqeVbOUuk 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1189-7 | Train: 22517 | Date: 2022-11-02 | DTNL 1189/7 | NUOgdvKBw 1189/8 | HPkYlDEnYZIm 1189/9 | f 1189/10 | sRPlvoqmUV 1189/11 | VFEejmanqBfSvu 1189/12
+Failed! 6 DTNL, NUOgdvKBw, HPkYlDEnYZIm, f, sRPlvoqmUV, VFEejmanqBfSvu 22517 2022-11-02 SL
 Failed! 3 LaUmLnvtjJ, yIoRttnfWfScGuH, F 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-253-12 | Train: 22517 | Date: 2022-11-02 | iaU 253/12 | GTVemXiQCRNeKJDd 253/13 | xOvPTXQEwDd 253/14 | UPOMiYtxSRSTFq 253/15 | kVLwOiQu 253/16
-Successful | PNR: 12058-20221101-263-7 | Train: 12058 | Date: 2022-11-01 | QoPzwNuC 263/7 | OKVwFRchBUMZmfg 263/8
-Successful | PNR: 12058-20221101-263-9 | Train: 12058 | Date: 2022-11-01 | RlabNVANHYOorMQE 263/9 | LCDMq 263/10 | fEanHRS 263/11 | IFJoQfDnhBFAfJOy 263/12
-Successful | PNR: 22517-20221101-256-1 | Train: 22517 | Date: 2022-11-01 | KOzOAZkAbep 256/1 | zYNp 256/2
-Successful | PNR: 22517-20221102-1189-13 | Train: 22517 | Date: 2022-11-02 | JtwZMTAxCydX 1189/13 | MITWQwIMIu 1189/14 | kRgdCdWu 1189/15 | v 1189/16 | kpMXm 1189/17
+Failed! 5 iaU, GTVemXiQCRNeKJDd, xOvPTXQEwDd, UPOMiYtxSRSTFq, kVLwOiQu 22517 2022-11-02 AC
+Failed! 2 QoPzwNuC, OKVwFRchBUMZmfg 12058 2022-11-01 AC
+Failed! 4 RlabNVANHYOorMQE, LCDMq, fEanHRS, IFJoQfDnhBFAfJOy 12058 2022-11-01 AC
+Failed! 2 KOzOAZkAbep, zYNp 22517 2022-11-01 AC
+Failed! 5 JtwZMTAxCydX, MITWQwIMIu, kRgdCdWu, v, kpMXm 22517 2022-11-02 SL
 Failed! 3 aewnHl, SKoEpwbZqd, i 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-264-1 | Train: 12058 | Date: 2022-11-01 | awedlKqa 264/1 | KbhsbKwSBg 264/2
-Successful | PNR: 22517-20221102-1189-24 | Train: 22517 | Date: 2022-11-02 | EbwOmLSNw 1189/24 | oPsGNLv 1190/1 | tHpoUUgXsaqoi 1190/2
+Failed! 2 awedlKqa, KbhsbKwSBg 12058 2022-11-01 AC
+Failed! 3 EbwOmLSNw, oPsGNLv, tHpoUUgXsaqoi 22517 2022-11-02 SL
 Failed! 3 ypFvBa, xMYL, GpJhk 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-264-7 | Train: 12058 | Date: 2022-11-01 | mAULv 264/7 | kleMGGIFUxJBUmjB 264/8 | aBaPTCCietqMqh 264/9 | UCKMC 264/10 | O 264/11 | tgGV 264/12
+Failed! 6 mAULv, kleMGGIFUxJBUmjB, aBaPTCCietqMqh, UCKMC, O, tgGV 12058 2022-11-01 AC
 Failed! 5 OykfytnMDN, VBz, TFZOyyWqlvK, KCubJsFRvQkpjuDd, IzSoCI 04652 2022-11-02 AC
 Failed! 1 rdZTPBnqCBiQdWo 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-264-13 | Train: 12058 | Date: 2022-11-01 | KMD 264/13 | nQsVHpvQGAMC 264/14
-Successful | PNR: 22517-20221101-1200-6 | Train: 22517 | Date: 2022-11-01 | YdYgSHj 1200/6 | pIHzSyJ 1200/7 | jMqKvchcLAI 1200/8 | uasv 1200/9 | JjKe 1200/10
+Failed! 2 KMD, nQsVHpvQGAMC 12058 2022-11-01 AC
+Failed! 5 YdYgSHj, pIHzSyJ, jMqKvchcLAI, uasv, JjKe 22517 2022-11-01 SL
 Failed! 3 z, dDIvjZHtJ, SQd 04652 2022-11-01 AC
 Failed! 4 VIMxrcHh, LghcuVVBxsvRlYQ, JKEnJyGC, CKqKwskOlWkzBh 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-254-4 | Train: 22517 | Date: 2022-11-02 | dOOsMSXerCgDQGzd 254/4 | F 254/5 | wYoyyCYvD 254/6 | RsClVMThrXdt 254/7 | EfUQyCgjAyZ 254/8 | gdwthsboqsZVs 254/9
-Successful | PNR: 22517-20221102-1190-3 | Train: 22517 | Date: 2022-11-02 | vmLiAdcN 1190/3 | BZbkubjF 1190/4 | EIiHJMn 1190/5 | uwjJGGsZy 1190/6
-Successful | PNR: 22517-20221102-1190-7 | Train: 22517 | Date: 2022-11-02 | WEZbxxR 1190/7 | QrTYRJBmbB 1190/8 | bhhCWfJaGxuuS 1190/9 | rUVnrhPqogUxESxZ 1190/10
-Successful | PNR: 22517-20221102-254-15 | Train: 22517 | Date: 2022-11-02 | n 254/15 | nRbn 254/16 | NESfqfVCQWaSkP 254/17 | O 254/18 | YiujFmYP 255/1 | jaqwTHUdMHtxV 255/2
-Successful | PNR: 22517-20221101-1200-16 | Train: 22517 | Date: 2022-11-01 | t 1200/16 | ryK 1200/17 | eEpzmVddEHWiQcfo 1200/18 | F 1200/19 | YHLzpwgTcVMooN 1200/20
+Failed! 6 dOOsMSXerCgDQGzd, F, wYoyyCYvD, RsClVMThrXdt, EfUQyCgjAyZ, gdwthsboqsZVs 22517 2022-11-02 AC
+Failed! 4 vmLiAdcN, BZbkubjF, EIiHJMn, uwjJGGsZy 22517 2022-11-02 SL
+Failed! 4 WEZbxxR, QrTYRJBmbB, bhhCWfJaGxuuS, rUVnrhPqogUxESxZ 22517 2022-11-02 SL
+Failed! 6 n, nRbn, NESfqfVCQWaSkP, O, YiujFmYP, jaqwTHUdMHtxV 22517 2022-11-02 AC
+Failed! 5 t, ryK, eEpzmVddEHWiQcfo, F, YHLzpwgTcVMooN 22517 2022-11-01 SL
 Failed! 1 RDoRPMvSgwL 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-265-8 | Train: 12058 | Date: 2022-11-01 | VXfEPnhad 265/8 | kLvxTgqxqxmsaY 265/9
-Successful | PNR: 22517-20221101-1200-21 | Train: 22517 | Date: 2022-11-01 | HcCQdhL 1200/21 | tnoNWFFhoVUf 1200/22 | yiBZvL 1200/23 | eAmpSNeZOQWPO 1200/24 | gkUGNyluvAOndf 1201/1 | dntbOSaHlKmHlL 1201/2
+Failed! 2 VXfEPnhad, kLvxTgqxqxmsaY 12058 2022-11-01 AC
+Failed! 6 HcCQdhL, tnoNWFFhoVUf, yiBZvL, eAmpSNeZOQWPO, gkUGNyluvAOndf, dntbOSaHlKmHlL 22517 2022-11-01 SL
 Failed! 3 V, VXOd, UkbOrwg 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-255-3 | Train: 22517 | Date: 2022-11-02 | D 255/3 | B 255/4
-Successful | PNR: 22517-20221102-255-5 | Train: 22517 | Date: 2022-11-02 | eKcHEGB 255/5 | WDCa 255/6 | umiNeCpkSXS 255/7
+Failed! 2 D, B 22517 2022-11-02 AC
+Failed! 3 eKcHEGB, WDCa, umiNeCpkSXS 22517 2022-11-02 AC
 Failed! 4 arSbQTo, QHfJZmuyHmSnh, TlTWuCwyrcJh, jOb 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-265-10 | Train: 12058 | Date: 2022-11-01 | unEdDlYAjZbwrd 265/10
+Failed! 1 unEdDlYAjZbwrd 12058 2022-11-01 AC
 Failed! 4 jp, LIUACZIjxFTeLcV, ZmGfFmfWZ, nB 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-256-8 | Train: 22517 | Date: 2022-11-01 | SNJmJYLiF 256/8
-Successful | PNR: 12058-20221101-265-11 | Train: 12058 | Date: 2022-11-01 | ZeRq 265/11 | bZYZnERPsPHI 265/12 | A 265/13 | fKI 265/14 | djFYzSBS 265/15
+Failed! 1 SNJmJYLiF 22517 2022-11-01 AC
+Failed! 5 ZeRq, bZYZnERPsPHI, A, fKI, djFYzSBS 12058 2022-11-01 AC
 Failed! 5 Abms, aw, ysHie, SIQSOLcqTDMWIvMc, zQxkPushl 04652 2022-11-02 AC
 Failed! 2 YiMFjlIwNlXYOy, dPtAutDeowigGxX 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1190-19 | Train: 22517 | Date: 2022-11-02 | rQdwPUBI 1190/19 | sTAJrhAi 1190/20 | jrFObJO 1190/21 | TAXE 1190/22 | OBXpiYXFDLLkoBEe 1190/23 | v 1190/24
-Successful | PNR: 22517-20221101-256-9 | Train: 22517 | Date: 2022-11-01 | RdoNKwhuXtZWhM 256/9 | ODhTrX 256/10
-Successful | PNR: 22517-20221101-256-11 | Train: 22517 | Date: 2022-11-01 | ApDiSsyDrKDxGSvT 256/11 | tOeaer 256/12 | ZetjATMFkIao 256/13
-Successful | PNR: 12058-20221101-1194-22 | Train: 12058 | Date: 2022-11-01 | e 1194/22 | hrvhHHsJrKBGlkN 1194/23 | OSGBdZEEzalkYt 1194/24 | fBZbjm 1195/1 | oNKVXQRB 1195/2
-Successful | PNR: 12058-20221101-1195-3 | Train: 12058 | Date: 2022-11-01 | nXhkEnVtkbAdTmGk 1195/3 | fPdACC 1195/4 | q 1195/5 | ql 1195/6 | MuWu 1195/7 | UKCzPKYPKa 1195/8
-Successful | PNR: 22517-20221102-255-16 | Train: 22517 | Date: 2022-11-02 | abUooAsMXB 255/16 | jZtLaIyYplYizn 255/17 | XXRYSkVORDBUxK 255/18 | tFUfNEVSTNOS 256/1 | tGjKIagS 256/2
-Successful | PNR: 22517-20221102-1191-1 | Train: 22517 | Date: 2022-11-02 | b 1191/1 | HFhQxEdvA 1191/2 | aEOKceBZZQoSDke 1191/3 | xsAiHxQJJIgpo 1191/4 | pLoeoWJOCTKi 1191/5 | CkHUluabMz 1191/6
+Failed! 6 rQdwPUBI, sTAJrhAi, jrFObJO, TAXE, OBXpiYXFDLLkoBEe, v 22517 2022-11-02 SL
+Failed! 2 RdoNKwhuXtZWhM, ODhTrX 22517 2022-11-01 AC
+Failed! 3 ApDiSsyDrKDxGSvT, tOeaer, ZetjATMFkIao 22517 2022-11-01 AC
+Failed! 5 e, hrvhHHsJrKBGlkN, OSGBdZEEzalkYt, fBZbjm, oNKVXQRB 12058 2022-11-01 SL
+Failed! 6 nXhkEnVtkbAdTmGk, fPdACC, q, ql, MuWu, UKCzPKYPKa 12058 2022-11-01 SL
+Failed! 5 abUooAsMXB, jZtLaIyYplYizn, XXRYSkVORDBUxK, tFUfNEVSTNOS, tGjKIagS 22517 2022-11-02 AC
+Failed! 6 b, HFhQxEdvA, aEOKceBZZQoSDke, xsAiHxQJJIgpo, pLoeoWJOCTKi, CkHUluabMz 22517 2022-11-02 SL
 Failed! 2 suHAOZToe, uTFrWjRRFtrOd 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1195-9 | Train: 12058 | Date: 2022-11-01 | SOCsuGL 1195/9 | paAPRkDiwgHB 1195/10 | SBTSumgqZaNdtPP 1195/11 | SoX 1195/12
-Successful | PNR: 22517-20221101-1201-14 | Train: 22517 | Date: 2022-11-01 | GqyVNTnGhhTDBVyF 1201/14 | T 1201/15 | vMZnmndoXNp 1201/16 | SQtYtRtzDUDWZRV 1201/17 | DGbtKfpkZNaDpQts 1201/18
+Failed! 4 SOCsuGL, paAPRkDiwgHB, SBTSumgqZaNdtPP, SoX 12058 2022-11-01 SL
+Failed! 5 GqyVNTnGhhTDBVyF, T, vMZnmndoXNp, SQtYtRtzDUDWZRV, DGbtKfpkZNaDpQts 22517 2022-11-01 SL
 Failed! 2 IKHiAQ, xgToXyF 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-266-9 | Train: 12058 | Date: 2022-11-01 | jCJmrRFKhlOysJ 266/9 | aaTk 266/10 | fiVh 266/11
-Successful | PNR: 22517-20221101-256-14 | Train: 22517 | Date: 2022-11-01 | okBezmgcIZolWG 256/14 | LOeKRVxIKXe 256/15 | QDlR 256/16 | dXPCSx 256/17 | jOUoDRAYsPiqtgsq 256/18 | jmFenrNefuCGBF 257/1
-Successful | PNR: 12058-20221101-266-12 | Train: 12058 | Date: 2022-11-01 | NqenNaX 266/12 | IUjLTGSkY 266/13 | uTcfBdFEzkckIqV 266/14 | SFwfCO 266/15
-Successful | PNR: 22517-20221102-256-3 | Train: 22517 | Date: 2022-11-02 | cK 256/3 | mYHsbSUYulDuBiy 256/4 | Q 256/5 | L 256/6 | jAvYnLKBVtNoa 256/7
-Successful | PNR: 22517-20221102-256-8 | Train: 22517 | Date: 2022-11-02 | s 256/8
-Successful | PNR: 12058-20221101-266-16 | Train: 12058 | Date: 2022-11-01 | V 266/16 | yzRGOleWzbhc 266/17 | JtiMHZ 266/18 | hBpIEZqEeeTVoM 267/1 | mxgXpTbMlZNMBzU 267/2 | QhgXsLu 267/3
+Failed! 3 jCJmrRFKhlOysJ, aaTk, fiVh 12058 2022-11-01 AC
+Failed! 6 okBezmgcIZolWG, LOeKRVxIKXe, QDlR, dXPCSx, jOUoDRAYsPiqtgsq, jmFenrNefuCGBF 22517 2022-11-01 AC
+Failed! 4 NqenNaX, IUjLTGSkY, uTcfBdFEzkckIqV, SFwfCO 12058 2022-11-01 AC
+Failed! 5 cK, mYHsbSUYulDuBiy, Q, L, jAvYnLKBVtNoa 22517 2022-11-02 AC
+Failed! 1 s 22517 2022-11-02 AC
+Failed! 6 V, yzRGOleWzbhc, JtiMHZ, hBpIEZqEeeTVoM, mxgXpTbMlZNMBzU, QhgXsLu 12058 2022-11-01 AC
 Failed! 2 BGtCTrWA, xEuXK 04652 2022-11-02 SL
 Failed! 3 rLxfziNsZhlLYI, jVat, d 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1191-8 | Train: 22517 | Date: 2022-11-02 | kKi 1191/8 | wrwJXrmZ 1191/9 | lUEvXFqClxLUy 1191/10 | rkynerEP 1191/11 | f 1191/12
-Successful | PNR: 22517-20221101-257-2 | Train: 22517 | Date: 2022-11-01 | EpwdAzx 257/2 | AMmSLI 257/3
+Failed! 5 kKi, wrwJXrmZ, lUEvXFqClxLUy, rkynerEP, f 22517 2022-11-02 SL
+Failed! 2 EpwdAzx, AMmSLI 22517 2022-11-01 AC
 Failed! 6 UZoPc, NcGOUPceCOYKQMum, IN, zhyOcyORneHnSob, gXQLLts, ZmFPXsuVN 04652 2022-11-02 SL
 Failed! 6 Vb, MieEAZQ, sMVndcjLDYKUvvX, zNBKIPODPtsqWINK, t, rHtZZICx 04652 2022-11-02 SL
 Failed! 2 kZTNemFJTAUihsW, nAfQEEtcO 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-267-6 | Train: 12058 | Date: 2022-11-01 | MVBBupzlhnVYPo 267/6 | z 267/7 | XBPHGOl 267/8 | vInWEjBaty 267/9
+Failed! 4 MVBBupzlhnVYPo, z, XBPHGOl, vInWEjBaty 12058 2022-11-01 AC
 Failed! 3 iLdGiRFFaDtJLN, vkBtHCxqW, ZHEUjTg 04652 2022-11-02 AC
 Failed! 1 SyuJJpkmyQo 04652 2022-11-01 AC
 Failed! 4 NGfCZ, eCepRiaT, B, SOxGdVHbFTgROLyX 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-256-9 | Train: 22517 | Date: 2022-11-02 | FBBVZGlb 256/9
+Failed! 1 FBBVZGlb 22517 2022-11-02 AC
 Failed! 4 hBYXjX, XRDeaGHD, IId, XGQeUnZaxgBGT 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-267-10 | Train: 12058 | Date: 2022-11-01 | cnf 267/10 | OLJeoyBS 267/11 | xaDVhKO 267/12
-Successful | PNR: 22517-20221102-256-15 | Train: 22517 | Date: 2022-11-02 | TzrVUvxNmGBZaKP 256/15 | KXhsbNpL 256/16 | KrfUksp 256/17 | cqiQVNhZqeVUJf 256/18
+Failed! 3 cnf, OLJeoyBS, xaDVhKO 12058 2022-11-01 AC
+Failed! 4 TzrVUvxNmGBZaKP, KXhsbNpL, KrfUksp, cqiQVNhZqeVUJf 22517 2022-11-02 AC
 Failed! 3 Ez, Lv, LpKyYxx 04652 2022-11-02 SL
 Failed! 6 dECmwd, SmMgQ, AbN, dDSjCGgRUGoh, hrThmCHD, myGYtVtOwBLxb 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-1202-6 | Train: 22517 | Date: 2022-11-01 | OOmzXnlQprV 1202/6 | NLMxueVycokmSzN 1202/7 | BKwPG 1202/8 | VHZDRzUTUo 1202/9 | kJ 1202/10
-Successful | PNR: 22517-20221102-1191-15 | Train: 22517 | Date: 2022-11-02 | sbfpVbZbzM 1191/15 | zEmNLODRJD 1191/16
+Failed! 5 OOmzXnlQprV, NLMxueVycokmSzN, BKwPG, VHZDRzUTUo, kJ 22517 2022-11-01 SL
+Failed! 2 sbfpVbZbzM, zEmNLODRJD 22517 2022-11-02 SL
 Failed! 3 ETq, OlVgmqTPqulqBkTe, YGUMzo 04652 2022-11-01 AC
 Failed! 5 tNNSpCtzjejPn, bAzSCuYy, RIhQSwrvmxpeQ, q, bxdJRMeNyWEIAh 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-257-6 | Train: 22517 | Date: 2022-11-02 | LoTN 257/6 | gfNEx 257/7 | rfe 257/8
+Failed! 3 LoTN, gfNEx, rfe 22517 2022-11-02 AC
 Failed! 3 gmdWOfZAauz, YbvUxXGOcIgg, BDmjX 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-257-9 | Train: 22517 | Date: 2022-11-02 | tb 257/9 | nhaBfwOFzGmRvKvf 257/10 | SWUyhbrZ 257/11 | xwDiAR 257/12 | h 257/13 | xTejtecNzinGwd 257/14
+Failed! 6 tb, nhaBfwOFzGmRvKvf, SWUyhbrZ, xwDiAR, h, xTejtecNzinGwd 22517 2022-11-02 AC
 Failed! 5 JHwWtyCQoPNrspcw, EcgAnQwhylG, OIl, DWUb, hQHRkdPTQiISrg 04652 2022-11-01 SL
 Failed! 3 CMQz, UMmpSXHcABu, yysKNQVak 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-257-16 | Train: 22517 | Date: 2022-11-01 | DchKLuxlrKPp 257/16 | g 257/17 | W 257/18 | mmJBWoWNk 258/1 | dvTdHVrem 258/2
-Successful | PNR: 12058-20221101-1196-6 | Train: 12058 | Date: 2022-11-01 | wLzjEBELrEhTqcX 1196/6 | qdSbjjsCaY 1196/7 | dR 1196/8
-Successful | PNR: 12058-20221101-1196-9 | Train: 12058 | Date: 2022-11-01 | lRXfVQPsRZ 1196/9 | w 1196/10 | peXedTYeBPd 1196/11 | tmVeCzeAZyERmmJZ 1196/12
-Successful | PNR: 22517-20221102-257-15 | Train: 22517 | Date: 2022-11-02 | WpOKPB 257/15 | NJNDn 257/16 | IWxKnWQrXrrsJ 257/17 | bYIMHduWOhAFY 257/18 | gfLRYbcZd 258/1
-Successful | PNR: 12058-20221101-267-16 | Train: 12058 | Date: 2022-11-01 | HRTFo 267/16 | iGeHjaULJkYke 267/17 | buvrWOO 267/18 | MB 268/1 | bqLjoumgsTGO 268/2
-Successful | PNR: 22517-20221101-1202-23 | Train: 22517 | Date: 2022-11-01 | J 1202/23 | n 1202/24 | rhAlq 1203/1
+Failed! 5 DchKLuxlrKPp, g, W, mmJBWoWNk, dvTdHVrem 22517 2022-11-01 AC
+Failed! 3 wLzjEBELrEhTqcX, qdSbjjsCaY, dR 12058 2022-11-01 SL
+Failed! 4 lRXfVQPsRZ, w, peXedTYeBPd, tmVeCzeAZyERmmJZ 12058 2022-11-01 SL
+Failed! 5 WpOKPB, NJNDn, IWxKnWQrXrrsJ, bYIMHduWOhAFY, gfLRYbcZd 22517 2022-11-02 AC
+Failed! 5 HRTFo, iGeHjaULJkYke, buvrWOO, MB, bqLjoumgsTGO 12058 2022-11-01 AC
+Failed! 3 J, n, rhAlq 22517 2022-11-01 SL
 Failed! 2 Updiw, FWeoUHbscB 04652 2022-11-02 AC
 Failed! 2 BdSMo, EnvDRfSF 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-268-3 | Train: 12058 | Date: 2022-11-01 | tSbHiGGHP 268/3 | daFzIKoTMUURRJr 268/4
-Successful | PNR: 22517-20221102-258-2 | Train: 22517 | Date: 2022-11-02 | Vw 258/2
+Failed! 2 tSbHiGGHP, daFzIKoTMUURRJr 12058 2022-11-01 AC
+Failed! 1 Vw 22517 2022-11-02 AC
 Failed! 5 mKM, uUcEZzMsig, tfMpHYDgEW, pTWI, StKin 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-258-9 | Train: 22517 | Date: 2022-11-01 | lAwfKKVOF 258/9 | WD 258/10 | cMUnIGlsOKXNEms 258/11
+Failed! 3 lAwfKKVOF, WD, cMUnIGlsOKXNEms 22517 2022-11-01 AC
 Failed! 1 jjYZgnRjDZRAeLD 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-268-6 | Train: 12058 | Date: 2022-11-01 | inSAbYVJJsIkAwY 268/6 | gkqoNlbPTjGVvKHq 268/7 | yRQvwJraQDbppb 268/8
-Successful | PNR: 22517-20221101-258-17 | Train: 22517 | Date: 2022-11-01 | bVQhuMHtJytcT 258/17
+Failed! 3 inSAbYVJJsIkAwY, gkqoNlbPTjGVvKHq, yRQvwJraQDbppb 12058 2022-11-01 AC
+Failed! 1 bVQhuMHtJytcT 22517 2022-11-01 AC
 Failed! 3 WmdcmJczvhqdYR, PCkBiiAltZDzIaj, KmDKSVsg 04652 2022-11-01 SL
 Failed! 6 txzBgCny, EEbISxTDM, dFIKErk, ofKT, tNMP, HuwPngdEpO 04652 2022-11-02 SL
 Failed! 4 owcGf, SJsGnLi, LnXfUPyJXqm, o 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1196-14 | Train: 12058 | Date: 2022-11-01 | xIxD 1196/14
+Failed! 1 xIxD 12058 2022-11-01 SL
 Failed! 5 BEzMySoMxMQps, ZCgbGcaKK, rPdcSdFglzU, q, alpKXtcsUx 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1203-10 | Train: 22517 | Date: 2022-11-01 | BXPzalkEOmATsSvY 1203/10 | OvEBxsgqW 1203/11
-Successful | PNR: 12058-20221101-1196-15 | Train: 12058 | Date: 2022-11-01 | UbCB 1196/15 | GwzKTuNCFxb 1196/16 | gBsdNt 1196/17 | je 1196/18 | vysWtejqZqLJcszJ 1196/19
-Successful | PNR: 22517-20221101-258-18 | Train: 22517 | Date: 2022-11-01 | EDU 258/18 | O 259/1 | KWPyW 259/2 | SwcIrsIyTZKKnVXI 259/3 | SPKTorTIQyKSc 259/4 | DcbvBHJzeEqRd 259/5
-Successful | PNR: 12058-20221101-268-9 | Train: 12058 | Date: 2022-11-01 | DzTCjziInqTsOsQ 268/9 | VDjpgwBCcEbeJBJr 268/10 | RcoYFBngo 268/11 | h 268/12
-Successful | PNR: 12058-20221101-1197-1 | Train: 12058 | Date: 2022-11-01 | sMOEHvuwQ 1197/1 | j 1197/2 | UEVwvgcJVIYLHSZu 1197/3 | Yaq 1197/4 | FJkRfuzGA 1197/5
-Successful | PNR: 12058-20221101-269-1 | Train: 12058 | Date: 2022-11-01 | oFWfi 269/1 | NUEMFfchdmFbzejG 269/2 | hVtaLDMYC 269/3 | WgnqAta 269/4 | pQlJc 269/5 | K 269/6
-Successful | PNR: 22517-20221102-1191-24 | Train: 22517 | Date: 2022-11-02 | IMrKnyDhVkpDThNs 1191/24 | iNKXoWH 1192/1
+Failed! 2 BXPzalkEOmATsSvY, OvEBxsgqW 22517 2022-11-01 SL
+Failed! 5 UbCB, GwzKTuNCFxb, gBsdNt, je, vysWtejqZqLJcszJ 12058 2022-11-01 SL
+Failed! 6 EDU, O, KWPyW, SwcIrsIyTZKKnVXI, SPKTorTIQyKSc, DcbvBHJzeEqRd 22517 2022-11-01 AC
+Failed! 4 DzTCjziInqTsOsQ, VDjpgwBCcEbeJBJr, RcoYFBngo, h 12058 2022-11-01 AC
+Failed! 5 sMOEHvuwQ, j, UEVwvgcJVIYLHSZu, Yaq, FJkRfuzGA 12058 2022-11-01 SL
+Failed! 6 oFWfi, NUEMFfchdmFbzejG, hVtaLDMYC, WgnqAta, pQlJc, K 12058 2022-11-01 AC
+Failed! 2 IMrKnyDhVkpDThNs, iNKXoWH 22517 2022-11-02 SL
 Failed! 3 gSZDkEUIAUioceUy, RZQmnU, PUEdcFFvE 04652 2022-11-01 SL
 Failed! 2 Mqn, mxEXVuULKOarwvQO 04652 2022-11-01 AC
 Failed! 1 XxSCHg 04652 2022-11-01 AC
 Failed! 2 RaL, vPpBqIWloieuOZ 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-269-7 | Train: 12058 | Date: 2022-11-01 | pqTQEoW 269/7 | BjWM 269/8 | qTCHjmgFH 269/9
+Failed! 3 pqTQEoW, BjWM, qTCHjmgFH 12058 2022-11-01 AC
 Failed! 4 CGXgPm, edoWazvAOYUrW, vyFEBniSuvE, f 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-1192-2 | Train: 22517 | Date: 2022-11-02 | sTozXWYywZLuaRed 1192/2 | xBHoY 1192/3 | nWZS 1192/4 | bVunKVnJHxT 1192/5 | YexqWzZPjdyYJhqY 1192/6 | oC 1192/7
-Successful | PNR: 22517-20221101-1203-22 | Train: 22517 | Date: 2022-11-01 | nxVWJEfrZgGogClE 1203/22 | WNUwalvWBZC 1203/23 | sUeqxoTcA 1203/24 | IWpiVcKaGMFhJSF 1204/1
-Successful | PNR: 12058-20221101-1197-6 | Train: 12058 | Date: 2022-11-01 | ptPeunDdFjPLz 1197/6 | vwyPjmjhrPpRKKy 1197/7
-Successful | PNR: 12058-20221101-269-14 | Train: 12058 | Date: 2022-11-01 | P 269/14 | lRo 269/15 | dMbe 269/16 | MiAice 269/17 | bjsqvfgJuxQj 269/18 | hwlDrnL 270/1
-Successful | PNR: 12058-20221101-1197-8 | Train: 12058 | Date: 2022-11-01 | NOZcEAMWxdvA 1197/8 | J 1197/9 | lfeNTQkKz 1197/10
-Successful | PNR: 12058-20221101-1197-11 | Train: 12058 | Date: 2022-11-01 | aPtVnlnFaxXUjX 1197/11 | MeiONQhNzwMFQNz 1197/12 | WbyIaKecrKDjWQ 1197/13 | izkN 1197/14 | BM 1197/15
-Successful | PNR: 12058-20221101-1197-16 | Train: 12058 | Date: 2022-11-01 | bIjgcIAyTlaeN 1197/16
+Failed! 6 sTozXWYywZLuaRed, xBHoY, nWZS, bVunKVnJHxT, YexqWzZPjdyYJhqY, oC 22517 2022-11-02 SL
+Failed! 4 nxVWJEfrZgGogClE, WNUwalvWBZC, sUeqxoTcA, IWpiVcKaGMFhJSF 22517 2022-11-01 SL
+Failed! 2 ptPeunDdFjPLz, vwyPjmjhrPpRKKy 12058 2022-11-01 SL
+Failed! 6 P, lRo, dMbe, MiAice, bjsqvfgJuxQj, hwlDrnL 12058 2022-11-01 AC
+Failed! 3 NOZcEAMWxdvA, J, lfeNTQkKz 12058 2022-11-01 SL
+Failed! 5 aPtVnlnFaxXUjX, MeiONQhNzwMFQNz, WbyIaKecrKDjWQ, izkN, BM 12058 2022-11-01 SL
+Failed! 1 bIjgcIAyTlaeN 12058 2022-11-01 SL
 Failed! 3 yiSNykAdMevXzrYz, DzOycUHDTLdD, fTj 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-1192-8 | Train: 22517 | Date: 2022-11-02 | VcgingComps 1192/8
+Failed! 1 VcgingComps 22517 2022-11-02 SL
 Failed! 3 RkmNWRgMgFxGuJ, CdehipkgeiajZ, eZKtnuCtuSBsPHMx 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-258-11 | Train: 22517 | Date: 2022-11-02 | uhGyvOqiNM 258/11 | Nl 258/12 | BHjEuWWLJhkX 258/13 | WDZs 258/14 | VSgD 258/15
+Failed! 5 uhGyvOqiNM, Nl, BHjEuWWLJhkX, WDZs, VSgD 22517 2022-11-02 AC
 Failed! 6 nHdFDN, zPoCVROggrE, U, GiEZqyXmsGV, DhriY, AyXymIuif 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-1204-11 | Train: 22517 | Date: 2022-11-01 | guOEjkzIMHSKJsa 1204/11 | VFArELEb 1204/12 | Ijy 1204/13
-Successful | PNR: 22517-20221101-1204-14 | Train: 22517 | Date: 2022-11-01 | VmjexTGQyQcHymNI 1204/14 | NQg 1204/15 | m 1204/16
+Failed! 3 guOEjkzIMHSKJsa, VFArELEb, Ijy 22517 2022-11-01 SL
+Failed! 3 VmjexTGQyQcHymNI, NQg, m 22517 2022-11-01 SL
 Failed! 2 AiOHUjjGdvPWllfE, DrchDgAQxf 04652 2022-11-02 AC
-Successful | PNR: 22517-20221102-258-16 | Train: 22517 | Date: 2022-11-02 | NhxxfSm 258/16 | VHZiNByvvfsuKrry 258/17 | x 258/18 | O 259/1 | NDLdgO 259/2
+Failed! 5 NhxxfSm, VHZiNByvvfsuKrry, x, O, NDLdgO 22517 2022-11-02 AC
 Failed! 3 scjXdgCg, jklI, zPzoNjWW 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-270-9 | Train: 12058 | Date: 2022-11-01 | VrBbMMk 270/9 | OEWaQwjgd 270/10 | ipC 270/11
-Successful | PNR: 22517-20221102-259-3 | Train: 22517 | Date: 2022-11-02 | tpVzqTa 259/3 | BtW 259/4 | gzLvzXdKOSVOFr 259/5 | AtzLZrnmqf 259/6
+Failed! 3 VrBbMMk, OEWaQwjgd, ipC 12058 2022-11-01 AC
+Failed! 4 tpVzqTa, BtW, gzLvzXdKOSVOFr, AtzLZrnmqf 22517 2022-11-02 AC
 Failed! 4 OUISB, nNCrvtxJRXHQsNd, mafCiVGWRuEFdamX, GaAexyjs 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1204-20 | Train: 22517 | Date: 2022-11-01 | RLDmPAOcyhNtO 1204/20 | suWO 1204/21 | UL 1204/22 | bgYriReLidNQC 1204/23
+Failed! 4 RLDmPAOcyhNtO, suWO, UL, bgYriReLidNQC 22517 2022-11-01 SL
 Failed! 6 OTkAxVzyHsCsLLFX, LvubxZ, Sb, UftfzZ, wPBsaiwVPbVCzmm, jkAWFDMCgdvZg 04652 2022-11-02 AC
 Failed! 6 lZCNUvQh, JasEs, SsCCLhRQgW, dQBkxKwYchoPWLg, gMTkSZlsdc, lsbNAGKt 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1197-22 | Train: 12058 | Date: 2022-11-01 | cfdBZuCwZHDHl 1197/22 | y 1197/23
-Successful | PNR: 22517-20221102-259-12 | Train: 22517 | Date: 2022-11-02 | n 259/12 | FyWjMKlRFiv 259/13
-Successful | PNR: 22517-20221102-259-14 | Train: 22517 | Date: 2022-11-02 | rkGtLeinbGuHnhmc 259/14 | sgWRrsBPnv 259/15 | t 259/16 | VPSwSJneHFAGRYHv 259/17
-Successful | PNR: 22517-20221101-259-12 | Train: 22517 | Date: 2022-11-01 | dW 259/12 | ScacWGYNYL 259/13 | sYq 259/14
-Successful | PNR: 22517-20221102-259-18 | Train: 22517 | Date: 2022-11-02 | XzJnRMXeAeomNTZF 259/18 | hjyAZPRetk 260/1 | JRstaqXuirvA 260/2 | AnUYiQ 260/3
-Successful | PNR: 12058-20221101-1198-14 | Train: 12058 | Date: 2022-11-01 | BaXaaE 1198/14 | qrVObOqcQPD 1198/15 | jGWZFo 1198/16 | duXIUcCdclsqt 1198/17 | zsc 1198/18
-Successful | PNR: 12058-20221101-270-12 | Train: 12058 | Date: 2022-11-01 | EMYvGWQbDfr 270/12
-Successful | PNR: 12058-20221101-1198-19 | Train: 12058 | Date: 2022-11-01 | oMpSjyQXI 1198/19 | EMqXodfIRpRXKdZ 1198/20 | XROxI 1198/21
-Successful | PNR: 12058-20221101-1198-22 | Train: 12058 | Date: 2022-11-01 | gmfLrsW 1198/22 | oNzICkjJu 1198/23 | uSHBQYhMcPBBkf 1198/24
+Failed! 2 cfdBZuCwZHDHl, y 12058 2022-11-01 SL
+Failed! 2 n, FyWjMKlRFiv 22517 2022-11-02 AC
+Failed! 4 rkGtLeinbGuHnhmc, sgWRrsBPnv, t, VPSwSJneHFAGRYHv 22517 2022-11-02 AC
+Failed! 3 dW, ScacWGYNYL, sYq 22517 2022-11-01 AC
+Failed! 4 XzJnRMXeAeomNTZF, hjyAZPRetk, JRstaqXuirvA, AnUYiQ 22517 2022-11-02 AC
+Failed! 5 BaXaaE, qrVObOqcQPD, jGWZFo, duXIUcCdclsqt, zsc 12058 2022-11-01 SL
+Failed! 1 EMYvGWQbDfr 12058 2022-11-01 AC
+Failed! 3 oMpSjyQXI, EMqXodfIRpRXKdZ, XROxI 12058 2022-11-01 SL
+Failed! 3 gmfLrsW, oNzICkjJu, uSHBQYhMcPBBkf 12058 2022-11-01 SL
 Failed! 4 nMfUqYGXrWSmlSk, ukLHOFufKiwSN, nE, KkIIgCHK 04652 2022-11-02 SL
-Successful | PNR: 22517-20221101-1204-24 | Train: 22517 | Date: 2022-11-01 | vbfXpLNTtevB 1204/24 | aNH 1205/1 | lNUGqmkigV 1205/2 | OkMxgg 1205/3 | BhWpMDCNefLvQYz 1205/4
+Failed! 5 vbfXpLNTtevB, aNH, lNUGqmkigV, OkMxgg, BhWpMDCNefLvQYz 22517 2022-11-01 SL
 Failed! 3 LLaktLMvOKsh, BYRLwSeEmxOKDQX, uBbxfFSBtD 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-270-13 | Train: 12058 | Date: 2022-11-01 | YmDpLClc 270/13
-Successful | PNR: 22517-20221102-1192-12 | Train: 22517 | Date: 2022-11-02 | ezE 1192/12 | utLNhGNQ 1192/13 | XJNFCmINmo 1192/14
-Successful | PNR: 12058-20221101-1199-1 | Train: 12058 | Date: 2022-11-01 | aEyun 1199/1 | hi 1199/2 | Kkf 1199/3 | iTnPvDdnnFEUAx 1199/4 | aWf 1199/5
-Successful | PNR: 12058-20221101-270-14 | Train: 12058 | Date: 2022-11-01 | OUAQf 270/14 | XAWBFBgC 270/15 | lJtRNkNKmBw 270/16 | gvzqpYe 270/17 | EWqsI 270/18 | iWTTYEyuvgyKI 271/1
-Successful | PNR: 12058-20221101-1199-6 | Train: 12058 | Date: 2022-11-01 | oBWuqckJpz 1199/6 | MFcxkaYGd 1199/7 | VROyNinRwl 1199/8
+Failed! 1 YmDpLClc 12058 2022-11-01 AC
+Failed! 3 ezE, utLNhGNQ, XJNFCmINmo 22517 2022-11-02 SL
+Failed! 5 aEyun, hi, Kkf, iTnPvDdnnFEUAx, aWf 12058 2022-11-01 SL
+Failed! 6 OUAQf, XAWBFBgC, lJtRNkNKmBw, gvzqpYe, EWqsI, iWTTYEyuvgyKI 12058 2022-11-01 AC
+Failed! 3 oBWuqckJpz, MFcxkaYGd, VROyNinRwl 12058 2022-11-01 SL
 Failed! 6 HoA, gFeDDaB, vuqx, itkLeMpzilcHLF, rBXPdBuRu, fnChgEFOFiHDUO 04652 2022-11-02 SL
 Failed! 4 hlVWpJNpyLg, FopZDO, dYcnlDRUCwdRXrbg, D 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-271-5 | Train: 12058 | Date: 2022-11-01 | ZuHq 271/5 | VPuut 271/6
+Failed! 2 ZuHq, VPuut 12058 2022-11-01 AC
 Failed! 6 ovJvdtK, YePsIKYNeMoIQaoz, nVuwRXELRVdJA, qvPFZBOuECkx, ixOOrnwoATwp, RBciOXQTgbwoetX 04652 2022-11-01 SL
-Successful | PNR: 22517-20221101-1205-11 | Train: 22517 | Date: 2022-11-01 | wgTPeIzMBMq 1205/11
-Successful | PNR: 12058-20221101-271-13 | Train: 12058 | Date: 2022-11-01 | IlotyTeOFfSzYULf 271/13
+Failed! 1 wgTPeIzMBMq 22517 2022-11-01 SL
+Failed! 1 IlotyTeOFfSzYULf 12058 2022-11-01 AC
 Failed! 5 poLmnzNZyTA, qkLe, DZVnhndvjfHap, hxNvPW, eRPmcEQAnlkYrdbZ 04652 2022-11-01 AC
 Failed! 5 PkIMblCu, JHbKoIFpwV, jlSB, ZyPmlWDGeie, cJLlULnVUJy 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-271-14 | Train: 12058 | Date: 2022-11-01 | jmikxAdvlUzflN 271/14 | WJKoDT 271/15 | cmTDKAVzR 271/16 | Jvlgi 271/17 | W 271/18
+Failed! 5 jmikxAdvlUzflN, WJKoDT, cmTDKAVzR, Jvlgi, W 12058 2022-11-01 AC
 Failed! 6 QdqgEZHbxOa, xjAm, qTFBZVYaMDd, IF, eW, oiXcisOgE 04652 2022-11-01 AC
-Successful | PNR: 22517-20221102-260-12 | Train: 22517 | Date: 2022-11-02 | RLMxYoCrSimEQYI 260/12 | rqSGnz 260/13
-Successful | PNR: 12058-20221101-1199-9 | Train: 12058 | Date: 2022-11-01 | XZ 1199/9 | AXCHKlTNcWgej 1199/10 | WZKoApfJp 1199/11
+Failed! 2 RLMxYoCrSimEQYI, rqSGnz 22517 2022-11-02 AC
+Failed! 3 XZ, AXCHKlTNcWgej, WZKoApfJp 12058 2022-11-01 SL
 Failed! 6 z, jSTlNKXxID, koizWq, gheNYm, AFP, EDdfQmAqRDDvJCb 04652 2022-11-02 AC
 Failed! 6 dKmY, KWGcorm, Jorh, qLk, lzqHiRRyFNGisRYZ, IWezUKPzhjNbStP 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1199-12 | Train: 12058 | Date: 2022-11-01 | rr 1199/12 | PkpDrcwRyzjg 1199/13 | qhoybkdUeGcW 1199/14
-Successful | PNR: 22517-20221102-1192-15 | Train: 22517 | Date: 2022-11-02 | odbRRlh 1192/15 | JvbJ 1192/16 | lk 1192/17
+Failed! 3 rr, PkpDrcwRyzjg, qhoybkdUeGcW 12058 2022-11-01 SL
+Failed! 3 odbRRlh, JvbJ, lk 22517 2022-11-02 SL
 Failed! 4 PUsWoeTwvSNuFzh, lShsDzkUstgcuw, VYqGngAPeLZR, CaHBeEpMnKZRG 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1192-18 | Train: 22517 | Date: 2022-11-02 | mtkUozyjUR 1192/18 | gFQRDe 1192/19
+Failed! 2 mtkUozyjUR, gFQRDe 22517 2022-11-02 SL
 Failed! 6 bsbJRO, CWLxIGNeJ, IKZkAspDG, rwXrLDDLai, PBXUYwcvPlzQx, nv 04652 2022-11-01 AC
 Failed! 6 NCHHiYrlwHgkT, AIQy, PQbNFLPP, ynMlmJdWictkkg, tlCpeAcfKSsIoz, uYColngPrw 04652 2022-11-01 SL
 Failed! 4 uFfqktYo, YJ, qGfrFHOWqPnexZ, nngmnRiHKDmqFjC 04652 2022-11-01 SL
 Failed! 2 KtWlTHq, vuHRIvjabzDiWd 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-261-1 | Train: 22517 | Date: 2022-11-02 | igjzKQ 261/1 | dLJ 261/2
+Failed! 2 igjzKQ, dLJ 22517 2022-11-02 AC
 Failed! 6 QILXakaOACcGSg, QhubgxCXHo, XUPu, EKyh, czI, c 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1192-20 | Train: 22517 | Date: 2022-11-02 | t 1192/20 | OTNV 1192/21
+Failed! 2 t, OTNV 22517 2022-11-02 SL
 Failed! 5 FboaVNCPSJNNaULv, aBjjeVULI, wDZ, wcQ, GvixLE 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1192-23 | Train: 22517 | Date: 2022-11-02 | yISsSYAfItFI 1192/23 | vocdwsLT 1192/24 | TnhvQwdxuuzR 1193/1 | YOQVfNCvxIE 1193/2 | rJm 1193/3
+Failed! 5 yISsSYAfItFI, vocdwsLT, TnhvQwdxuuzR, YOQVfNCvxIE, rJm 22517 2022-11-02 SL
 Failed! 2 IGQrjVXtwfisk, UyaedJMflOPw 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-261-3 | Train: 22517 | Date: 2022-11-01 | yycicvzzyDfmZBmT 261/3 | zzDOtEwPrCuBXd 261/4 | PMwVzO 261/5
-Successful | PNR: 22517-20221101-1205-20 | Train: 22517 | Date: 2022-11-01 | rqGDMku 1205/20 | KbRnvjdwXtfZ 1205/21
-Successful | PNR: 22517-20221102-1193-4 | Train: 22517 | Date: 2022-11-02 | ZpekExTIWzegmt 1193/4
+Failed! 3 yycicvzzyDfmZBmT, zzDOtEwPrCuBXd, PMwVzO 22517 2022-11-01 AC
+Failed! 2 rqGDMku, KbRnvjdwXtfZ 22517 2022-11-01 SL
+Failed! 1 ZpekExTIWzegmt 22517 2022-11-02 SL
 Failed! 5 UkpRpnZG, lGb, blZCOVyoZTUtWK, GXJb, jGTczRGvAepzG 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-272-17 | Train: 12058 | Date: 2022-11-01 | WnkeWKH 272/17 | suMH 272/18 | FKoeHnXRGsfYuN 273/1 | skqFCI 273/2 | ZyVNe 273/3 | CGrf 273/4
+Failed! 6 WnkeWKH, suMH, FKoeHnXRGsfYuN, skqFCI, ZyVNe, CGrf 12058 2022-11-01 AC
 Failed! 5 nCfr, UqwKPkVnApCbvdh, WQoZlNVTwbPrjLC, B, ldPsxwettKZ 04652 2022-11-02 AC
-Successful | PNR: 22517-20221101-1205-22 | Train: 22517 | Date: 2022-11-01 | ViZZGjaPJPGeOlN 1205/22 | alk 1205/23 | LGFfL 1205/24 | POCvY 1206/1 | IUrjNBAQCIafabTt 1206/2 | Yr 1206/3
-Successful | PNR: 22517-20221101-1206-4 | Train: 22517 | Date: 2022-11-01 | bfCDiFAwhJx 1206/4 | PSfVnS 1206/5 | p 1206/6 | kFsvyTQhhQYTC 1206/7 | Bd 1206/8
+Failed! 6 ViZZGjaPJPGeOlN, alk, LGFfL, POCvY, IUrjNBAQCIafabTt, Yr 22517 2022-11-01 SL
+Failed! 5 bfCDiFAwhJx, PSfVnS, p, kFsvyTQhhQYTC, Bd 22517 2022-11-01 SL
 Failed! 6 DSucQbF, TcdcHawYWa, xGRF, JuBVPjpWLxNMGmID, TjmrgyrIkFWi, IY 04652 2022-11-02 AC
 Failed! 3 nVvTtXYF, bjOqikDQymvqin, Zyj 04652 2022-11-01 AC
-Successful | PNR: 22517-20221101-1206-9 | Train: 22517 | Date: 2022-11-01 | pyAtrslpivVM 1206/9 | VkFgCAeoDqfkjO 1206/10 | nOFgzlr 1206/11 | AisJAixQvaMBwL 1206/12
+Failed! 4 pyAtrslpivVM, VkFgCAeoDqfkjO, nOFgzlr, AisJAixQvaMBwL 22517 2022-11-01 SL
 Failed! 6 gNiRgyyMJcEpfD, EztcjtqeDGjsJu, Cx, jlAyUHCxqAgx, beeGmkvyUfheluE, OfIMnCKlmUCVhXt 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-261-7 | Train: 22517 | Date: 2022-11-02 | buaclPejuFGx 261/7 | K 261/8
-Successful | PNR: 12058-20221101-1199-23 | Train: 12058 | Date: 2022-11-01 | T 1199/23 | PvEsjeSAtJIbl 1199/24 | snF 1200/1 | ydrtaSLlxYAqOo 1200/2
-Successful | PNR: 22517-20221102-1193-14 | Train: 22517 | Date: 2022-11-02 | MYGCoPpHQJ 1193/14
-Successful | PNR: 22517-20221102-261-9 | Train: 22517 | Date: 2022-11-02 | GaPYLUN 261/9 | gMtpcAefUozZKn 261/10 | TFhKcoCwZ 261/11 | H 261/12 | E 261/13 | bWdQQAKOOSZ 261/14
+Failed! 2 buaclPejuFGx, K 22517 2022-11-02 AC
+Failed! 4 T, PvEsjeSAtJIbl, snF, ydrtaSLlxYAqOo 12058 2022-11-01 SL
+Failed! 1 MYGCoPpHQJ 22517 2022-11-02 SL
+Failed! 6 GaPYLUN, gMtpcAefUozZKn, TFhKcoCwZ, H, E, bWdQQAKOOSZ 22517 2022-11-02 AC
 Failed! 2 SInXacHUxN, oBLSzCq 04652 2022-11-01 SL
-Successful | PNR: 12058-20221101-1200-4 | Train: 12058 | Date: 2022-11-01 | jRmFXKe 1200/4 | BTxEe 1200/5
-Successful | PNR: 22517-20221101-261-15 | Train: 22517 | Date: 2022-11-01 | gSUClFmZS 261/15 | slGeDrY 261/16 | ZXZIG 261/17
+Failed! 2 jRmFXKe, BTxEe 12058 2022-11-01 SL
+Failed! 3 gSUClFmZS, slGeDrY, ZXZIG 22517 2022-11-01 AC
 Failed! 1 STK 04652 2022-11-02 AC
 Failed! 3 DqJyCmVAsnGCqHl, VkrQNceZnotia, NwzgULfKY 04652 2022-11-01 SL
 Failed! 6 nUOcGSPqLe, QrToULvK, uSGaJ, Jv, rFXArlEFMbNthcNA, YVfwmwMVBbPtQGC 04652 2022-11-02 SL
 Failed! 6 umpLGBn, MbZDOCleQ, KM, YosgACeLvZhlo, gIPzksHyuWMM, slZRdB 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1200-6 | Train: 12058 | Date: 2022-11-01 | lmGArsTGgkbecu 1200/6 | DRUwNwxa 1200/7 | entm 1200/8 | VxTabvKDUYJJ 1200/9 | zyp 1200/10
-Successful | PNR: 22517-20221101-1206-14 | Train: 22517 | Date: 2022-11-01 | BFnduEGM 1206/14 | OMxHwncGTENHq 1206/15
-Successful | PNR: 12058-20221101-273-15 | Train: 12058 | Date: 2022-11-01 | dDAIGOL 273/15
+Failed! 5 lmGArsTGgkbecu, DRUwNwxa, entm, VxTabvKDUYJJ, zyp 12058 2022-11-01 SL
+Failed! 2 BFnduEGM, OMxHwncGTENHq 22517 2022-11-01 SL
+Failed! 1 dDAIGOL 12058 2022-11-01 AC
 Failed! 4 wNxIz, G, rIDqaZ, vMDRKIfaOULrd 04652 2022-11-02 SL
-Successful | PNR: 22517-20221102-261-17 | Train: 22517 | Date: 2022-11-02 | FVOBA 261/17 | n 261/18 | eQx 262/1
+Failed! 3 FVOBA, n, eQx 22517 2022-11-02 AC
 Failed! 4 tBHltSTgVnLDi, Vmr, VeaUAwQmqh, SSXWIypqcft 04652 2022-11-01 AC
-Successful | PNR: 12058-20221101-1200-11 | Train: 12058 | Date: 2022-11-01 | KoWReQaQAUzf 1200/11 | IcWCK 1200/12 | uTua 1200/13 | gHhzcCKkhNozeA 1200/14 | rdrhcVYZ 1200/15
-Successful | PNR: 12058-20221101-1200-16 | Train: 12058 | Date: 2022-11-01 | YAYfQw 1200/16 | gzNKCuxaWZZ 1200/17 | r 1200/18 | CsfwtCWr 1200/19
-Successful | PNR: 22517-20221102-1193-20 | Train: 22517 | Date: 2022-11-02 | v 1193/20
-Successful | PNR: 22517-20221101-262-11 | Train: 22517 | Date: 2022-11-01 | IFqw 262/11 | BSCRMmMWotOEaFYi 262/12 | FaZGFBfJu 262/13 | hKIpXdRidsvt 262/14
+Failed! 5 KoWReQaQAUzf, IcWCK, uTua, gHhzcCKkhNozeA, rdrhcVYZ 12058 2022-11-01 SL
+Failed! 4 YAYfQw, gzNKCuxaWZZ, r, CsfwtCWr 12058 2022-11-01 SL
+Failed! 1 v 22517 2022-11-02 SL
+Failed! 4 IFqw, BSCRMmMWotOEaFYi, FaZGFBfJu, hKIpXdRidsvt 22517 2022-11-01 AC
 Failed! 1 mpNsgjNqM 04652 2022-11-02 SL
-Successful | PNR: 12058-20221101-273-16 | Train: 12058 | Date: 2022-11-01 | hYBxTh 273/16 | mxyVvvPjyq 273/17 | auEf 273/18 | MlJRQeHKBsKt 274/1
-Successful | PNR: 22517-20221102-1193-21 | Train: 22517 | Date: 2022-11-02 | NjdQkPoGSoj 1193/21 | LUUYnKXZdeKzAX 1193/22 | moRcPCYCOgTxaSyt 1193/23
+Failed! 4 hYBxTh, mxyVvvPjyq, auEf, MlJRQeHKBsKt 12058 2022-11-01 AC
+Failed! 3 NjdQkPoGSoj, LUUYnKXZdeKzAX, moRcPCYCOgTxaSyt 22517 2022-11-02 SL
 Failed! 1 h 04652 2022-11-02 AC
-Successful | PNR: 12058-20221101-274-2 | Train: 12058 | Date: 2022-11-01 | gAmiwVncqMbQR 274/2 | iXIKrm 274/3 | xVnrC 274/4 | AVBHx 274/5
-Successful | PNR: 22517-20221101-1206-24 | Train: 22517 | Date: 2022-11-01 | Yd 1206/24 | DIGbQXN 1207/1 | b 1207/2 | kSMBcdIkLl 1207/3
+Failed! 4 gAmiwVncqMbQR, iXIKrm, xVnrC, AVBHx 12058 2022-11-01 AC
+Failed! 4 Yd, DIGbQXN, b, kSMBcdIkLl 22517 2022-11-01 SL
 Failed! 3 g, TbuUNDCpliLLyOaC, dibKkSaNkYWPs 04652 2022-11-01 SL
-Successful | PNR: 22517-20221102-1194-3 | Train: 22517 | Date: 2022-11-02 | sXOrayMTkmGigAl 1194/3 | lRuJsxM 1194/4 | hLOfI 1194/5
-Successful | PNR: 22517-20221102-1194-6 | Train: 22517 | Date: 2022-11-02 | tC 1194/6
+Failed! 3 sXOrayMTkmGigAl, lRuJsxM, hLOfI 22517 2022-11-02 SL
+Failed! 1 tC 22517 2022-11-02 SL
 Failed! 1 YgXd 04652 2022-11-02 AC
