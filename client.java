@@ -16,7 +16,7 @@ public class client
 {
     public static void main(String args[])throws IOException
     {
-        int firstLevelThreads = 3;   // Indicate no of users 
+        int firstLevelThreads = 5;   // Indicate no of users 
         /**************************/
         // Creating a thread pool
         ExecutorService executorService = Executors.newFixedThreadPool(firstLevelThreads);
@@ -45,7 +45,7 @@ public class client
 class invokeWorkers implements Runnable
 {
     /*************************/
-    int secondLevelThreads = 3;
+    int secondLevelThreads = 30;
     /**************************/
     public invokeWorkers()            // Constructor to get arguments from the main thread
     {

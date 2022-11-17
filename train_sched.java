@@ -14,7 +14,7 @@ public class train_sched {
                     "postgres", "yash@7856");
             
             try {
-                File myObj = new File("Trainschedule.txt");
+                File myObj = new File("inputs/Trainschedule.txt");
                 Scanner myReader = new Scanner(myObj);
                 while (myReader.hasNextLine()) {
                     String data = myReader.nextLine();

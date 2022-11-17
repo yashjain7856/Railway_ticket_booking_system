@@ -58,15 +58,30 @@ class QueryRunner implements Runnable
         this.socketConnection =  clientSocket;
     }    
 
-    public void query_excecute(Connection c, String query){
+    public void query_excecute1(Connection c, String query){
         try {
             c.createStatement().executeQuery(query);
         } catch (SQLException e) {
             if(!e.getSQLState().equals("02000"))
-                System.out.println(e);
+                System.out.println(e.getSQLState()  + "   C");
         }
     }
-
+    public void query_excecute2(Connection c, String query){
+        try {
+            c.createStatement().executeQuery(query);
+        } catch (SQLException e) {
+            if(!e.getSQLState().equals("02000"))
+                System.out.println(e.getSQLState()  + "   D");
+        }
+    }
+    public void query_excecute3(Connection c, String query){
+        try {
+            c.createStatement().executeQuery(query);
+        } catch (SQLException e) {
+            if(!e.getSQLState().equals("02000"))
+                System.out.println(e.getSQLState()  + "   E");
+        }
+    }
     public void run()
     {
         Connection c = null;
@@ -101,7 +116,7 @@ class QueryRunner implements Runnable
                     {
                         printWriter.println("#");
                         String returnMsg = "Connection Terminated - client : " + socketConnection.getRemoteSocketAddress().toString();
-                        System.out.println(returnMsg);                    
+                        System.out.println(returnMsg);
                         inputStream.close();
                         bufferedInput.close();
                         outputStream.close();
@@ -127,33 +142,36 @@ class QueryRunner implements Runnable
                     }
                     
                     // Number of available seats in train
-                    String start_transaction = "BEGIN TRANSACTION ISOLATION LEVEL SERIALIZABLE;";
-                    String ticket_booking_query ="SELECT * FROM book_ticket ("+train_number+",'"+date_of_journey+"','"+c_type+"',"+n_pass+",'{"+names+"}') AS PNR;";
+                    String start_transaction = "START TRANSACTION ISOLATION LEVEL SERIALIZABLE;";
+                    String ticket_booking_query ="SELECT * FROM book_ticket ('"+train_number+"','"+date_of_journey+"','"+c_type+"',"+n_pass+",'{"+names+"}') AS PNR;";
                     String commit_transaction = "COMMIT;";
                     String rollback_transaction = "ROLLBACK;";
                     String PNR = "-1";
                     while(true){
-                        query_excecute(c, start_transaction);
+                        query_excecute1(c, start_transaction);
                         try {
                             ResultSet rst =   c.createStatement().executeQuery(ticket_booking_query);
+                            // System.out.println("Success");
                             while(rst.next()){
                                 PNR = rst.getString("PNR");
                             }
+                            c.createStatement().executeQuery(commit_transaction);
                             break;
                         } catch (SQLException e) {
                             if((e.getSQLState().equals("40001")) || (e.getSQLState().equals("40P01"))){
-                                System.out.println("Retrying...");
-                                query_excecute(c, rollback_transaction);
+                                // System.out.println("Retrying...");
+                                query_excecute3(c, rollback_transaction);
                                 continue;
                             }
                             else{
-                                // System.out.println("error aayi hai = "+ e.getSQLState());
-                                System.out.println(e);
+                                if(!e.getSQLState().equals("02000"))
+                                    System.out.println(e.getSQLState());
+                                query_excecute3(c, rollback_transaction);
                                 break;
                             }
                         }
                     }
-                    query_excecute(c, commit_transaction);
+                    // query_excecute2(c, commit_transaction);
                     //-------------- your DB code goes here----------------------------
                     // try
                     // {
@@ -175,11 +193,11 @@ class QueryRunner implements Runnable
                                 responseQuery += rst.getString("b_number")+"";
                             }
                         } catch (SQLException e) {
-                            System.out.println(e);
+                            System.out.println(e.getSQLState() + "   H");
                         }   
                     }
                     else {
-                        responseQuery = "Failed!";
+                        responseQuery = "Failed! " + clientCommand;
                     }
                     //----------------------------------------------------------------
                     //  Sending data back to the client
