@@ -147,7 +147,8 @@ class QueryRunner implements Runnable
                                 continue;
                             }
                             else{
-                                System.out.println(e.getSQLState());
+                                // System.out.println("error aayi hai = "+ e.getSQLState());
+                                System.out.println(e);
                                 break;
                             }
                         }

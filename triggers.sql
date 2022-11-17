@@ -106,13 +106,13 @@ FOREIGN KEY(t_number,date) REFERENCES trains_released(t_number,date)
 
 INSERT INTO ticket_seats(PNR,t_number, date, c_type) VALUES(1234567890,7897,'2022-12-13','AC');
 
-CREATE TABLE failed_tickets(
-    ID SERIAL ,
-    t_number INTEGER NOT NULL,
-    date DATE NOT NULL,
-    c_type VARCHAR(3) NOT NULL,
-    PRIMARY KEY(ID)
-);
+-- CREATE TABLE failed_tickets(
+--     ID SERIAL ,
+--     t_number INTEGER NOT NULL,
+--     date DATE NOT NULL,
+--     c_type VARCHAR(3) NOT NULL,
+--     PRIMARY KEY(ID)
+-- );
 
 
 
@@ -175,7 +175,7 @@ RETURNS TEXT AS $$
         SELECT INTO seats_available COALESCE(SUM(avail_seats),0) as n_seats FROM avail_seats where t_number = train_number and date = date_of_journey and c_type = coach_type;
         IF (n_pass > seats_available)
         THEN
-            INSERT INTO failed_tickets(ID, t_number,date,c_type) VALUES(DEFAULT , train_number,date_of_journey,coach_type);  
+            -- INSERT INTO failed_tickets(ID, t_number,date,c_type) VALUES(DEFAULT , train_number,date_of_journey,coach_type);  
             RETURN '-1';
         END IF;
 
@@ -187,7 +187,7 @@ RETURNS TEXT AS $$
             current_bnumber = cap_per_coach - coach_row.avail_seats + 1;
             
             IF (PNRNUM = 'ABC')
-            THEN PNRNUM = train_number || translate(format_date, '- ', '') || coach_row.c_number || current_bnumber  ;
+            THEN PNRNUM = train_number || '-' || translate(format_date, '- ', '') || '-' || coach_row.c_number || '-' || current_bnumber  ;
             END IF;
 
             INSERT INTO ticket_seats(PNR,t_number, date, c_type) VALUES (PNRNUM , train_number , date_of_journey, coach_type);
