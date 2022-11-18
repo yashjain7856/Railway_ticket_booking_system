@@ -2,26 +2,20 @@
 drop database projectdb;
 create database projectdb;
 \c projectdb
+
+
 CREATE TABLE trains_released(
-T_number VARCHAR(100) NOT NULL,
-Date DATE NOT NULL,
-N_AC INTEGER NOT NULL,
-N_SL INTEGER NOT NULL,
-PRIMARY KEY(T_number, Date)
+    T_number VARCHAR(100) NOT NULL,
+    Date DATE NOT NULL,
+    N_AC INTEGER NOT NULL,
+    N_SL INTEGER NOT NULL,
+    PRIMARY KEY(T_number, Date)
 );
-INSERT INTO trains_released(T_number,Date,N_AC,N_SL) VALUES ('7897','2022-12-13',4,3);
-INSERT INTO trains_released(T_number,Date,N_AC,N_SL) VALUES ('5654','2022-12-11',5,4);
-INSERT INTO trains_released(T_number,Date,N_AC,N_SL) VALUES ('6481','2022-12-24',6,2);
-INSERT INTO trains_released(T_number,Date,N_AC,N_SL) VALUES ('6723','2022-11-30',6,6);
-INSERT INTO trains_released(T_number,Date,N_AC,N_SL) VALUES ('2342','2022-11-17',7,5);
-INSERT INTO trains_released(T_number,Date,N_AC,N_SL) VALUES ('2343','2022-11-17',4,6);
-INSERT INTO trains_released(T_number,Date,N_AC,N_SL) VALUES ('3453','2022-11-18',6,3);
-INSERT INTO trains_released(T_number,Date,N_AC,N_SL) VALUES ('5677','2022-11-17',3,5);
 
 
 CREATE TABLE ac_coach(
-b_number INTEGER NOT NULL PRIMARY KEY,
-b_type VARCHAR(3)
+    b_number INTEGER NOT NULL PRIMARY KEY,
+    b_type VARCHAR(3)
 );
 
 INSERT INTO ac_coach(b_number, b_type) VALUES (1,'LB');
@@ -46,8 +40,8 @@ INSERT INTO ac_coach(b_number, b_type) VALUES (18,'SU');
 
 
 CREATE TABLE sl_coach(
-b_number INTEGER NOT NULL PRIMARY KEY,
-b_type VARCHAR(3)
+    b_number INTEGER NOT NULL PRIMARY KEY,
+    b_type VARCHAR(3)
 );
 
 INSERT INTO sl_coach(b_number, b_type) VALUES (1,'LB');
@@ -78,76 +72,62 @@ INSERT INTO sl_coach(b_number, b_type) VALUES (24,'SU');
 
 
 CREATE TABLE avail_seats (
-t_number VARCHAR(100) NOT NULL,
-date DATE NOT NULL,
-c_number INTEGER NOT NULL,
-c_type VARCHAR(3) NOT NULL,
-avail_seats INTEGER NOT NULL,
-PRIMARY KEY(t_number, date, c_number, c_type),
-FOREIGN KEY(t_number,date) REFERENCES trains_released(t_number,date)
+    t_number VARCHAR(100) NOT NULL,
+    date DATE NOT NULL,
+    c_number INTEGER NOT NULL,
+    c_type VARCHAR(3) NOT NULL,
+    avail_seats INTEGER NOT NULL,
+    PRIMARY KEY(t_number, date, c_number, c_type),
+    FOREIGN KEY(t_number,date) REFERENCES trains_released(t_number,date)
 );
-
-INSERT INTO avail_seats (t_number,date,c_number,c_type,avail_seats) VALUES ('7897','2022-12-13',2,'AC',11);
-INSERT INTO avail_seats (t_number,date,c_number,c_type,avail_seats) VALUES ('7897','2022-12-13',1,'AC',15);
-INSERT INTO avail_seats (t_number,date,c_number,c_type,avail_seats) VALUES ('5654','2022-12-11',1,'SL',17);
-INSERT INTO avail_seats (t_number,date,c_number,c_type,avail_seats) VALUES ('6481','2022-12-24',2,'AC',14);
-INSERT INTO avail_seats (t_number,date,c_number,c_type,avail_seats) VALUES ('6723','2022-11-30',3,'AC',5);
-
-
 
 CREATE TABLE ticket_seats(
-PNR VARCHAR(100) NOT NULL,
-t_number VARCHAR(100) NOT NULL,
-date DATE NOT NULL,
-c_type VARCHAR(3) NOT NULL,
-PRIMARY KEY(PNR),
-FOREIGN KEY(t_number,date) REFERENCES trains_released(t_number,date)
+    PNR VARCHAR(100) NOT NULL,
+    t_number VARCHAR(100) NOT NULL,
+    date DATE NOT NULL,
+    c_type VARCHAR(3) NOT NULL,
+    PRIMARY KEY(PNR),
+    FOREIGN KEY(t_number,date) REFERENCES trains_released(t_number,date)
 );
 
-INSERT INTO ticket_seats(PNR,t_number, date, c_type) VALUES('1234567890','7897','2022-12-13','AC');
 
 CREATE TABLE ticket_passengers(
-PNR VARCHAR(100) NOT NULL,
-P_name VARCHAR(30)  NOT NULL,
-c_number INTEGER NOT NULL,
-b_number INTEGER NOT NULL,
-PRIMARY KEY(PNR, b_number),
-FOREIGN KEY(PNR) REFERENCES ticket_seats(PNR)
+    PNR VARCHAR(100) NOT NULL,
+    P_name VARCHAR(30)  NOT NULL,
+    c_number INTEGER NOT NULL,
+    b_number INTEGER NOT NULL,
+    PRIMARY KEY(PNR, b_number),
+    FOREIGN KEY(PNR) REFERENCES ticket_seats(PNR)
 );
-
-INSERT INTO ticket_passengers(PNR,P_name,c_number,b_number) VALUES ('1234567890','Tushar',2,5);
-INSERT INTO ticket_passengers(PNR,P_name,c_number,b_number) VALUES ('1234567890','YM',2,6);
-
-
 
 CREATE OR REPLACE FUNCTION add_coaches()
 RETURNS TRIGGER as $$
 DECLARE
-N_AC INTEGER DEFAULT 0;
-N_SL INTEGER DEFAULT 0;
+    N_AC INTEGER DEFAULT 0;
+    N_SL INTEGER DEFAULT 0;
 BEGIN
 
-N_AC = NEW.n_ac;
-N_SL = NEW.n_sl;
+    N_AC = NEW.n_ac;
+    N_SL = NEW.n_sl;
 
-for cnt in 1..N_AC
-LOOP
-INSERT INTO avail_seats(t_number, date, c_number, c_type, avail_seats) VALUES (NEW.t_number, NEW.date, cnt, 'AC', 18);
-END LOOP;
+    for cnt in 1..N_AC
+    LOOP
+        INSERT INTO avail_seats(t_number, date, c_number, c_type, avail_seats) VALUES (NEW.t_number, NEW.date, cnt, 'AC', 18);
+    END LOOP;
 
-for cnt in 1..N_SL
-LOOP
-INSERT INTO avail_seats(t_number, date, c_number, c_type, avail_seats) VALUES (NEW.t_number, NEW.date, N_AC+cnt, 'SL', 24);
-END LOOP;
+    for cnt in 1..N_SL
+    LOOP
+        INSERT INTO avail_seats(t_number, date, c_number, c_type, avail_seats) VALUES (NEW.t_number, NEW.date, N_AC+cnt, 'SL', 24);
+    END LOOP;
 
-RETURN NEW;
+    RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
 
 CREATE OR REPLACE TRIGGER train_insert
-AFTER INSERT
-ON trains_released
-FOR EACH ROW
+    AFTER INSERT
+    ON trains_released
+    FOR EACH ROW
 EXECUTE PROCEDURE add_coaches();
 
 CREATE OR REPLACE FUNCTION book_ticket(train_number text, date_of_journey DATE, coach_type text, n_pass INTEGER, names text[])
@@ -206,5 +186,3 @@ RETURNS TEXT AS $$
         RETURN PNRNUM;
     END;
 $$ LANGUAGE plpgsql;
-
-SELECT * FROM book_ticket ('4423' , '2023-02-19','AC',2,'{ABCD,EFGH}');

@@ -7,11 +7,10 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.sql.*;
-// import java.util.StringTokenizer;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
-// import javax.xml.crypto.Data;
+import java.util.Properties;
+import java.io.*;
 
 /**
  * Main Class to controll the program flow
@@ -19,7 +18,7 @@ import java.util.concurrent.Executors;
 public class ServiceModule 
 {
     static int serverPort = 7005;
-    static int numServerCores = 15;
+    static int numServerCores = 2;
     //------------ Main----------------------
     public static void main(String[] args) throws IOException 
     {    
@@ -33,12 +32,9 @@ public class ServiceModule
         // Always-ON server
         while(true)
         {
-            System.out.println("Listening port : " + serverPort 
-                                + "\nWaiting for clients...");
+            System.out.println("Listening port : " + serverPort + "\nWaiting for clients...");
             socketConnection = serverSocket.accept();   // Accept a connection from a client
-            System.out.println("Accepted client :" 
-                                + socketConnection.getRemoteSocketAddress().toString() 
-                                + "\n");
+            System.out.println("Accepted client :"  + socketConnection.getRemoteSocketAddress().toString()+ "\n");
             //  Create a runnable task
             Runnable runnableTask = new QueryRunner(socketConnection);
             //  Submit task for execution   
@@ -58,7 +54,7 @@ class QueryRunner implements Runnable
         this.socketConnection =  clientSocket;
     }    
 
-    public void query_excecute1(Connection c, String query){
+    public void query_excecute(Connection c, String query){
         try {
             c.createStatement().executeQuery(query);
         } catch (SQLException e) {
@@ -66,29 +62,27 @@ class QueryRunner implements Runnable
                 System.out.println(e.getSQLState()  + "   C");
         }
     }
-    public void query_excecute2(Connection c, String query){
-        try {
-            c.createStatement().executeQuery(query);
-        } catch (SQLException e) {
-            if(!e.getSQLState().equals("02000"))
-                System.out.println(e.getSQLState()  + "   D");
-        }
-    }
-    public void query_excecute3(Connection c, String query){
-        try {
-            c.createStatement().executeQuery(query);
-        } catch (SQLException e) {
-            if(!e.getSQLState().equals("02000"))
-                System.out.println(e.getSQLState()  + "   E");
-        }
-    }
     public void run()
     {
+        File configFile = new File("config.properties");
+        Properties props = new Properties();
+        try {
+            FileReader reader = new FileReader(configFile);
+            props.load(reader);
+
+        } catch (FileNotFoundException ex) {
+            System.out.println("Config.properties File Not Found");
+        } catch (IOException ex) {
+            System.out.println(ex);
+        }
+        String password = props.getProperty("password");
+        String username = props.getProperty("username");
+        String databaseName = props.getProperty("databaseName");
+        
         Connection c = null;
         try {
             Class.forName("org.postgresql.Driver");
-            c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/projectdb",
-                    "postgres", "yash@7856");
+            c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/"+databaseName, username, password);
             try  
             {
                 //  Reading data from client
@@ -100,18 +94,10 @@ class QueryRunner implements Runnable
                 
                 String clientCommand = "" ;
                 String responseQuery = "" ;
-                // String queryInput = "" ;
                 while(true)
                 {
                     // Read client query
                     clientCommand = bufferedInput.readLine();
-                    // System.out.println("Recieved data <" + clientCommand + "> from client : " 
-                    //                     + socketConnection.getRemoteSocketAddress().toString());
-
-                    //  Tokenize here
-                    // StringTokenizer tokenizer = new StringTokenizer(clientCommand);
-                    
-                    // queryInput = tokenizer.nextToken();
                     if(clientCommand.equals("#"))
                     {
                         printWriter.println("#");
@@ -128,9 +114,6 @@ class QueryRunner implements Runnable
                     String[] attr = clientCommand.split("\\s+");
                 
                     int n_pass = Integer.parseInt(attr[0]);
-                    // for(int i = 1;i<n_pass;i++){
-                    //     attr[i] = attr[i].substring(0,attr[i].length()-1);
-                    // }
                     
                     String train_number = attr[n_pass+1];
                     String date_of_journey = attr[n_pass+2];
@@ -147,64 +130,43 @@ class QueryRunner implements Runnable
                     String commit_transaction = "COMMIT;";
                     String rollback_transaction = "ROLLBACK;";
                     String PNR = "-1";
+                    responseQuery = "Failed! " + clientCommand; // default case if booking failed by any reason
                     while(true){
-                        query_excecute1(c, start_transaction);
+                        query_excecute(c, start_transaction);
                         try {
                             ResultSet rst =   c.createStatement().executeQuery(ticket_booking_query);
-                            // System.out.println("Success");
                             while(rst.next()){
                                 PNR = rst.getString("PNR");
+                            }
+                            if(!PNR.equals("-1")){
+                                responseQuery = "Successful | PNR: "+ PNR +" | Train: "+train_number+" | Date: "+date_of_journey;
+                                String getberth = "Select * from ticket_passengers where PNR = '"+PNR+"';";
+                                ResultSet rst2 =   c.createStatement().executeQuery(getberth);
+                                while(rst2.next()){
+                                    responseQuery += " | "+rst2.getString("p_name")+" ";
+                                    responseQuery += rst2.getString("c_number")+"/";
+                                    responseQuery += rst2.getString("b_number")+"";
+                                }   
                             }
                             c.createStatement().executeQuery(commit_transaction);
                             break;
                         } catch (SQLException e) {
                             if((e.getSQLState().equals("40001")) || (e.getSQLState().equals("40P01"))){
-                                // System.out.println("Retrying...");
-                                query_excecute3(c, rollback_transaction);
+                                query_excecute(c, rollback_transaction);
                                 continue;
                             }
                             else{
                                 if(!e.getSQLState().equals("02000"))
                                     System.out.println(e.getSQLState());
-                                query_excecute3(c, rollback_transaction);
+                                query_excecute(c, rollback_transaction);
                                 break;
                             }
                         }
                     }
-                    // query_excecute2(c, commit_transaction);
-                    //-------------- your DB code goes here----------------------------
-                    // try
-                    // {
-                    //    // Thread.sleep(6000);    
-                    // } 
-                    // catch (InterruptedException e)
-                    // {
-                    //     e.printStackTrace();    
-                    // }
-                    responseQuery = "";
-                    if(!PNR.equals("-1")){
-                        responseQuery = "Successful | PNR: "+ PNR +" | Train: "+train_number+" | Date: "+date_of_journey;
-                        String getberth = "Select * from ticket_passengers where PNR = '"+PNR+"';";
-                        try {
-                            ResultSet rst =   c.createStatement().executeQuery(getberth);
-                            while(rst.next()){
-                                responseQuery += " | "+rst.getString("p_name")+" ";
-                                responseQuery += rst.getString("c_number")+"/";
-                                responseQuery += rst.getString("b_number")+"";
-                            }
-                        } catch (SQLException e) {
-                            System.out.println(e.getSQLState() + "   H");
-                        }   
-                    }
-                    else {
-                        responseQuery = "Failed! " + clientCommand;
-                    }
+                    
                     //----------------------------------------------------------------
                     //  Sending data back to the client
-                    printWriter.println(responseQuery); 
-                    // System.out.println("\nSent results to client - " 
-                    //                     + socketConnection.getRemoteSocketAddress().toString() );
-                    
+                    printWriter.println(responseQuery);     
                 }    
             }    
             catch(IOException e)

@@ -29,7 +29,7 @@ public class client
 
         executorService.shutdown();
         try
-        {    // Wait for 8 sec and then exit the executor service
+        {    // Wait for 10 sec and then exit the executor service
             if (!executorService.awaitTermination(10, TimeUnit.SECONDS))
             {
                 executorService.shutdownNow();
@@ -86,11 +86,6 @@ class invokeWorkers implements Runnable
 class sendQuery implements Runnable
 {
     int sockPort = 7005 ;
-    // public sendQuery(int arg)            // constructor to get arguments from the main thread
-    // {
-    //    // arg from main thread
-    // }
-    
     public void run()
     {
         try 
