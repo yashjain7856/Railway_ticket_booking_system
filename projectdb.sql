@@ -1,4 +1,3 @@
-\c postgres
 drop database projectdb;
 create database projectdb;
 \c projectdb
