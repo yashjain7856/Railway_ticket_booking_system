@@ -18,7 +18,7 @@ import java.io.*;
 public class ServiceModule 
 {
     static int serverPort = 7005;
-    static int numServerCores = 2;
+    static int numServerCores = 70;
     //------------ Main----------------------
     public static void main(String[] args) throws IOException 
     {    
@@ -143,9 +143,15 @@ class QueryRunner implements Runnable
                                 String getberth = "Select * from ticket_passengers where PNR = '"+PNR+"';";
                                 ResultSet rst2 =   c.createStatement().executeQuery(getberth);
                                 while(rst2.next()){
-                                    responseQuery += " | "+rst2.getString("p_name")+" ";
+                                    responseQuery += " | "+rst2.getString("p_name")+" "+c_type+"/";
                                     responseQuery += rst2.getString("c_number")+"/";
                                     responseQuery += rst2.getString("b_number")+"";
+                                    ResultSet rst3 =   c.createStatement().executeQuery("Select b_type from " + c_type + "_coach where b_number = "
+                                        +rst2.getString("b_number"));
+                                    while(rst3.next()){
+                                        responseQuery += "/"+ rst3.getString("b_type");
+                                    }
+                                    
                                 }   
                             }
                             c.createStatement().executeQuery(commit_transaction);
