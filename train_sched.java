@@ -29,7 +29,7 @@ public class train_sched {
             c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/"+databaseName, username, password);
             
             try {
-                File myObj = new File("inputs/Trainschedule.txt");
+                File myObj = new File("TestCases/input/Trainschedule_throughput.txt");
                 Scanner myReader = new Scanner(myObj);
                 while (myReader.hasNextLine()) {
                     String data = myReader.nextLine();
