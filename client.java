@@ -17,7 +17,7 @@ public class client
     public static void main(String args[])throws IOException
     {
         double startTime = System.nanoTime();
-        int firstLevelThreads = 3;   // Indicate no of users 
+        int firstLevelThreads = 7;   // Indicate no of users 
         /**************************/
         // Creating a thread pool
         ExecutorService executorService = Executors.newFixedThreadPool(firstLevelThreads);
@@ -49,7 +49,7 @@ public class client
 class invokeWorkers implements Runnable
 {
     /*************************/
-    int secondLevelThreads = 3;
+    int secondLevelThreads = 8;
     /**************************/
     public invokeWorkers()            // Constructor to get arguments from the main thread
     {
@@ -98,7 +98,7 @@ class sendQuery implements Runnable
             Socket socketConnection = new Socket("localhost", sockPort) ;
             
             // Files for input queries and responses
-            String inputfile = "./inputs/" + Thread.currentThread().getName() + "_input.txt" ;
+            String inputfile = "./TestCases/input/input_64/" + Thread.currentThread().getName() + "_input.txt" ;
             String outputfile = "./outputs/" + Thread.currentThread().getName() + "_output.txt" ;
 
             System.out.println(outputfile);
