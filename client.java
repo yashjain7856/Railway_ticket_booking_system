@@ -16,6 +16,7 @@ public class client
 {
     public static void main(String args[])throws IOException
     {
+        double startTime = System.nanoTime();
         int firstLevelThreads = 3;   // Indicate no of users 
         /**************************/
         // Creating a thread pool
@@ -39,6 +40,9 @@ public class client
         {
             executorService.shutdownNow();
         }
+        double stopTime = System.nanoTime();
+
+        System.out.println("Execution Time (in ms) = "+ ((stopTime-startTime)/1000000));
     }
 }
 
